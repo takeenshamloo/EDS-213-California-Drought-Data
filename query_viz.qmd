@@ -1,0 +1,171 @@
+---
+title: "A Temporal Look At Californias Regional Shortage Levels"
+author: "Takeen Shamloo"
+format: html
+editor: source
+---
+
+In this Quarto document we will be taking a look at `actual` & `forecast` monthly shortage values grouped by year. Our `actual` shortage values range between *2022-2024* while our `forecast` values are from a range between *2024-2026*. 
+
+Assuming the necessary pre-processing has already been completed, the data is being accessed through a duckdb connection to our sql database. We will be running queries in order to create visuals for some of the organizations available. 
+
+Please review the following files for previous steps:
+  initial_data_cleaning.R - data initialization and cleaning.
+  shortage_db.sql - loading data into tables and performing analysis via sub-tables.
+  shortage_db.duckdb - db file.
+  **OPTIONAL** data/results/combined_yearly_avg.csv - result table used below but output as csv.
+
+**For this assignment our goal is to answer the following question:**
+
+## How have water shortage levels in California changed over time, and how accurate have the forecasts been?
+
+```{r}
+# Load packages.
+library(DBI)
+library(duckdb)
+library(ggplot2)
+library(tools)
+
+# Initialzie database connection to previously created .duckdb file.
+connection_to_db <- dbConnect(duckdb::duckdb(), "shortage_db.duckdb")
+```
+
+### Example 1: Organization 193 (Beverly Hills)
+
+```{r}
+# Selecting the following variables from our combined_yearly_avg only for org_id = 193.
+# Ordering by year / data_type.
+org193 <- dbGetQuery(connection_to_db, "
+    SELECT supplier_name, year, data_type, avg_shortage_level
+    FROM combined_yearly_avg 
+    WHERE org_id = 193
+    ORDER BY year, data_type
+")
+
+# View query table.
+print(org193)
+
+# Clean up org supplier name for plot title.
+org_name <- toTitleCase(unique(org193$supplier_name))
+
+# Plot data for organization grouped by data_type (i.e. actual/forecasted).
+ggplot(org193, aes(x = year, y = avg_shortage_level, color = data_type, group = data_type)) +
+    geom_line(linewidth = 1) +
+    geom_point(size = 2.5) +
+    labs(title = paste('Water Shortage Levels for', org_name),
+         x = 'Year', 
+         y = 'Average Shortage Level', 
+         color = 'Data Type') +
+    theme_minimal() +
+    theme(text = element_text(size = 12))
+```
+From our graph we can see that Beverly Hills despite carrying a **2-2.5** level
+shortage accross *2022-2024* but were forecasted to have a level of **0** between 
+*2024-2025*. Additionally no data was forecasted for *2026*.  
+
+### Example 2: Organization 1873 (Pasadena)
+
+```{r}
+# Same query as the previous two except for org_id = 1873.
+org1873 <- dbGetQuery(connection_to_db, "
+    SELECT supplier_name, year, data_type, avg_shortage_level
+    FROM combined_yearly_avg 
+    WHERE org_id = 1873
+    ORDER BY year, data_type
+")
+
+# View query table.
+print(org1873)
+
+# Clean up org supplier name for plot title.
+org_name <- toTitleCase(unique(org1873$supplier_name))
+
+# Plot data for organization grouped by data_type (i.e. actual/forecasted).
+ggplot(org1873, aes(x = year, y = avg_shortage_level, color = data_type, group = data_type)) +
+    geom_line(linewidth = 1) +
+    geom_point(size = 2.5) +
+    labs(title = paste('Water Shortage Levels for', org_name),
+         x = 'Year', 
+         y = 'Average Shortage Level', 
+         color = 'Data Type') +
+    theme_minimal() +
+    theme(text = element_text(size = 12))
+```
+
+From our graph we can see that the City of Pasadena despite carrying a 
+**2-2.25** level shortage accross *2022-2024* but were forecasted to have a level 
+of **0** between *2025-2026*. We should note that there was no values forecasted
+for *2024* therefore we see a gap in our data.
+
+### Example 3: Organization 23 (Alameda County Water District)
+
+```{r}
+# Same query as the previous two except for org_id = 23.
+org23 <- dbGetQuery(connection_to_db, "
+    SELECT supplier_name, year, data_type, avg_shortage_level
+    FROM combined_yearly_avg 
+    WHERE org_id = 23
+    ORDER BY year, data_type
+")
+
+# View query table.
+print(org23)
+
+# Clean up org supplier name for plot title.
+org_name <- toTitleCase(unique(org23$supplier_name))
+
+# Plot data for organization grouped by data_type (i.e. actual/forecasted).
+ggplot(org23, aes(x = year, y = avg_shortage_level, color = data_type, group = data_type)) +
+    geom_line(linewidth = 1) +
+    geom_point(size = 2.5) +
+    labs(title = paste('Water Shortage Levels for', org_name),
+         x = 'Year', 
+         y = 'Average Shortage Level', 
+         color = 'Data Type') +
+    theme_minimal() +
+    theme(text = element_text(size = 12))
+```
+
+From our graph we can see that the Alameda County Water District despite 
+carrying showing a trend where the shortage level falls from **2** in *2022*
+all the way until **0** in *2024*. They were forecasted to have a level of 
+**~1.25-1** between *2024-2025*. Additionally no data was forecasted for *2026*.  
+
+### Example 4: Organization 1238 (Inglewood)
+
+```{r}
+# Same query as the previous two except for org_id = 1238.
+org1238 <- dbGetQuery(connection_to_db, "
+    SELECT supplier_name, year, data_type, avg_shortage_level
+    FROM combined_yearly_avg 
+    WHERE org_id = 1238
+    ORDER BY year, data_type
+")
+
+# View query table.
+print(org1238)
+
+# Clean up org supplier name for plot title.
+org_name <- toTitleCase(unique(org1238$supplier_name))
+
+# Plot data for organization grouped by data_type (i.e. actual/forecasted).
+ggplot(org1238, aes(x = year, y = avg_shortage_level, color = data_type, group = data_type)) +
+    geom_line(linewidth = 1) +
+    geom_point(size = 2.5) +
+    labs(title = paste('Water Shortage Levels for', org_name),
+         x = 'Year', 
+         y = 'Average Shortage Level', 
+         color = 'Data Type') +
+    theme_minimal() +
+    theme(text = element_text(size = 12))
+```
+
+From our graph we can see that the City of Inglewood despite showing the highest
+of all the other examples beginning from a shortage level of **3** level in
+*2022* increasing to a **4** in *2024* but where forecasted to have a level of
+**0** between *2024-2025*. Additionally no data was forecasted for *2026*.  
+
+#### Important! Make sure to shut down db.
+```{r}
+dbDisconnect(connection_to_db, shutdown = TRUE)
+```
