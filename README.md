@@ -12,6 +12,8 @@ We aim to answer the question:
 
 Through cleaning, database structuring, SQL querying, and visualization, we look at how water shortage forecasts evolve over time and how well they align with actual reported shortages.
 
+![Database Diagram](images/dbdiagram.png)
+
 ---
 
 ## **Project Structure**
