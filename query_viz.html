@@ -106,6 +106,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>In this Quarto document we will be taking a look at <code>actual</code> &amp; <code>forecast</code> monthly shortage values grouped by year. Our <code>actual</code> shortage values range between <em>2022-2024</em> while our <code>forecast</code> values are from a range between <em>2024-2026</em>.</p>
 <p>Assuming the necessary pre-processing has already been completed, the data is being accessed through a duckdb connection to our sql database. We will be running queries in order to create visuals for some of the organizations available.</p>
 <p>Please review the following files for previous steps: initial_data_cleaning.R - data initialization and cleaning. shortage_db.sql - loading data into tables and performing analysis via sub-tables. shortage_db.duckdb - db file. <strong>OPTIONAL</strong> data/results/combined_yearly_avg.csv - result table used below but output as csv.</p>
+<p><strong>Key to understanding shortage levels:</strong></p>
+<p>0 = No Shortage 1 : &lt; 10% Shortage 2 : 10-19% Shortage 3 : 20-29% Shortage 4 : 30-39% Shortage 5 : 40-49% Shortage 6 : Greater than 50% Shortage</p>
 <p><strong>For this assignment our goal is to answer the following question:</strong></p>
 <section id="how-have-water-shortage-levels-in-california-changed-over-time-and-are-they-reasonably-forecasted-through-time" class="level2">
 <h2 class="anchored" data-anchor-id="how-have-water-shortage-levels-in-california-changed-over-time-and-are-they-reasonably-forecasted-through-time">How have water shortage levels in California changed over time, and are they reasonably forecasted through time?</h2>

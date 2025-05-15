@@ -14,6 +14,16 @@ Please review the following files for previous steps:
   shortage_db.sql - loading data into tables and performing analysis via sub-tables.
   shortage_db.duckdb - db file.
   **OPTIONAL** data/results/combined_yearly_avg.csv - result table used below but output as csv.
+  
+**Key to understanding shortage levels:**
+
+0 = No Shortage
+1 : < 10% Shortage 
+2 : 10-19% Shortage
+3 : 20-29% Shortage
+4 : 30-39% Shortage
+5 : 40-49% Shortage 
+6 : Greater than 50% Shortage
 
 **For this assignment our goal is to answer the following question:**
 

@@ -12,6 +12,16 @@ We aim to answer the question:
 
 Through cleaning, database structuring, SQL querying, and visualization, we look at how water shortage forecasts evolve over time and how well they align with actual reported shortages.
 
+**Key to understanding shortage levels:**
+
+0 = No Shortage
+1 : < 10% Shortage 
+2 : 10-19% Shortage
+3 : 20-29% Shortage
+4 : 30-39% Shortage
+5 : 40-49% Shortage 
+6 : Greater than 50% Shortage
+
 ![Database Diagram](images/dbdiagram.png)
 
 ---
