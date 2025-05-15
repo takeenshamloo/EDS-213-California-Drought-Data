@@ -17,7 +17,7 @@ Please review the following files for previous steps:
 
 **For this assignment our goal is to answer the following question:**
 
-## How have water shortage levels in California changed over time, and how accurate have the forecasts been?
+## How have water shortage levels in California changed over time, and are they reasonably forecasted through time?
 
 ```{r}
 # Load packages.

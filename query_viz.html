@@ -107,8 +107,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Assuming the necessary pre-processing has already been completed, the data is being accessed through a duckdb connection to our sql database. We will be running queries in order to create visuals for some of the organizations available.</p>
 <p>Please review the following files for previous steps: initial_data_cleaning.R - data initialization and cleaning. shortage_db.sql - loading data into tables and performing analysis via sub-tables. shortage_db.duckdb - db file. <strong>OPTIONAL</strong> data/results/combined_yearly_avg.csv - result table used below but output as csv.</p>
 <p><strong>For this assignment our goal is to answer the following question:</strong></p>
-<section id="how-have-water-shortage-levels-in-california-changed-over-time-and-how-accurate-have-the-forecasts-been" class="level2">
-<h2 class="anchored" data-anchor-id="how-have-water-shortage-levels-in-california-changed-over-time-and-how-accurate-have-the-forecasts-been">How have water shortage levels in California changed over time, and how accurate have the forecasts been?</h2>
+<section id="how-have-water-shortage-levels-in-california-changed-over-time-and-are-they-reasonably-forecasted-through-time" class="level2">
+<h2 class="anchored" data-anchor-id="how-have-water-shortage-levels-in-california-changed-over-time-and-are-they-reasonably-forecasted-through-time">How have water shortage levels in California changed over time, and are they reasonably forecasted through time?</h2>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Load packages.</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(DBI)</span>
