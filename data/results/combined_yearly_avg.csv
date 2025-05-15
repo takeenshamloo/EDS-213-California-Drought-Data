@@ -1,0 +1,1556 @@
+org_id,pwsid,supplier_name,year,avg_shortage_level,data_type
+13,CA3610001,city of adelanto,2022,2.0,Actual
+23,CA0110001,alameda county water district,2022,2.0,Actual
+25,CA2710001,alco water service,2022,2.0,Actual
+30,CA1910001,city of alhambra,2022,1.4,Actual
+55,"CA0310002,CA0310003,CA0310012,CA0310019,CA0310021",amador water agency,2022,2.0,Actual
+57,CA2810005,city of american canyon,2022,2.0,Actual
+64,CA3010001,city of anaheim,2022,1.8,Actual
+66,CA4510001,city of anderson,2022,1.4,Actual
+82,CA0710001,city of antioch,2022,2.0,Actual
+87,CA3610003,apple valley ranchos water company,2022,1.6,Actual
+93,CA1910003,city of arcadia,2022,0.9,Actual
+94,"CA1210001,CA1210021",city of arcata,2022,0.0,Actual
+99,CA4010001,city of arroyo grande,2022,1.8888888888888888,Actual
+102,CA1510001,arvin community service district,2022,2.1,Actual
+107,CA4010002,atascadero mutual water company,2022,0.0,Actual
+110,CA2410001,city of atwater,2022,2.0,Actual
+117,CA1910007,azusa light and water,2022,2.0,Actual
+123,CA1510031,city of bakersfield,2022,2.0,Actual
+124,CA1010001,bakman water company,2022,1.7,Actual
+129,CA3310006,city of banning,2022,1.7,Actual
+159,CA3310002,beaumont - cherry valley water district,2022,1.6,Actual
+167,CA4510014,bella vista water district,2022,4.777777777777778,Actual
+170,CA1910013,bellflower - somerset mutual water company,2022,1.8,Actual
+178,CA4810001,city of benicia,2022,1.7,Actual
+193,CA1910156,city of beverly hills,2022,2.5,Actual
+197,CA3610008,big bear community services district,2022,2.0,Actual
+198,"CA3600283,CA3610022,CA3610044",city of big bear lake,2022,1.3333333333333333,Actual
+241,CA3310003,city of blythe,2022,0.0,Actual
+262,CA1310001,city of brawley,2022,2.0,Actual
+263,CA3010002,city of brea,2022,1.4,Actual
+264,CA0710004,city of brentwood,2022,1.0,Actual
+283,CA3010003,city of buena park,2022,1.9,Actual
+285,CA1910179,city of burbank,2022,2.7,Actual
+286,CA4110003,city of burlingame,2022,1.7,Actual
+351,"CA0510004,CA0510005,CA0510006,CA0510016,CA0510017,CA0510019",calaveras county water district,2022,1.5,Actual
+353,CA1310002,city of calexico,2022,0.0,Actual
+368,"CA1910052,CA1910139,CA1910186",california american water company - los angeles division,2022,2.0,Actual
+369,"CA2701202,CA2701257,CA2702004,CA2710004,CA2710006,CA2710021,CA2710022",california american water company - monterey district,2022,1.5,Actual
+372,"CA3110150,CA3410010,CA3410012,CA3410013,CA3410017,CA3410031,CA3410045,CA3410047,CA5700712,CA3410023",california american water company - sacramento district,2022,1.6,Actual
+373,CA3710001,california american water company - san diego district,2022,2.0,Actual
+376,"CA5610040,CA5610081",california american water company - ventura district,2022,2.0,Actual
+378,CA1510032,california city,2022,1.4,Actual
+386,"CA1510003,CA1510055",california water service company bakersfield,2022,2.0,Actual
+387,CA4110006,california water service company bear gulch,2022,1.9,Actual
+388,"CA0410002,CA1110002",california water service company chico district,2022,1.8,Actual
+390,CA4810002,california water service company dixon,2022,1.7,Actual
+391,CA1910033,california water service company dominguez,2022,1.9,Actual
+392,CA1910036,california water service company east los angeles,2022,1.9,Actual
+396,CA1910134,california water service company hermosa/redondo,2022,1.9,Actual
+397,"CA1500407,CA1510026,CA1510033,CA1510039,CA1510043,CA1510049,CA1510056",california water service company kern river valley,2022,2.0,Actual
+401,CA0110003,california water service company livermore,2022,2.0,Actual
+402,CA4310001,california water service company los altos/suburban,2022,2.0,Actual
+405,CA5810001,california water service company marysville,2022,1.8,Actual
+412,CA0410005,california water service company oroville,2022,1.8,Actual
+413,CA1910104,california water service company palos verdes,2022,1.9,Actual
+417,"CA2701929,CA2710010,CA2710012,CA2710013,CA2710019",california water service company salinas district,2022,1.7,Actual
+420,"CA4110007,CA4110008",california water service company mid peninsula,2022,1.9,Actual
+421,CA1010024,california water service company selma,2022,1.7,Actual
+422,CA4110009,california water service company south san francisco,2022,1.9,Actual
+424,CA3910001,california water service company stockton,2022,1.8,Actual
+427,"CA5400935,CA5410016,CA5410041",california water service company visalia,2022,2.0,Actual
+428,CA5610016,california water service company westlake,2022,1.9,Actual
+443,CA5610019,city of camarillo,2022,2.8,Actual
+445,CA4010014,cambria community service district,2022,2.2,Actual
+467,CA5610063,camrosa water district,2022,2.7,Actual
+478,CA3710005,carlsbad municipal water district,2022,1.7,Actual
+481,CA3410004,carmichael water district,2022,2.0,Actual
+485,CA4210001,carpinteria valley water district,2022,2.2,Actual
+495,"CA5610014,CA5610024",casitas municipal water district,2022,4.0,Actual
+522,CA5010028,city of ceres,2022,2.0,Actual
+524,CA1910019,city of cerritos,2022,0.8888888888888888,Actual
+545,CA3610012,city of chino,2022,1.4,Actual
+547,CA3610036,city of chino hills,2022,1.7,Actual
+561,CA3410006,citrus heights water district,2022,1.7,Actual
+572,CA4910002,city of cloverdale,2022,3.2,Actual
+574,CA1010003,city of clovis,2022,2.0,Actual
+575,CA3310007,city of coachella,2022,1.1,Actual
+577,"CA3310001,CA3310048",coachella valley water district,2022,0.1,Actual
+578,CA1010004,city of coalinga,2022,4.4,Actual
+583,CA4110011,coastside county water district,2022,2.0,Actual
+596,CA3610014,city of colton,2022,3.0,Actual
+607,CA1910026,city of compton,2022,0.3,Actual
+613,CA0710003,contra costa water district,2022,1.9,Actual
+618,CA1610004,city of corcoran,2022,2.0,Actual
+624,CA3310037,city of corona,2022,2.0,Actual
+644,CA1910127,city of covina,2022,1.4444444444444444,Actual
+649,CA0810001,crescent city,2022,1.7,Actual
+651,CA1910028,crescenta valley community water district,2022,3.75,Actual
+654,CA3610015,crestline village water district,2022,0.9,Actual
+664,CA3610018,cucamonga valley water district,2022,2.4,Actual
+673,CA4110013,daly city,2022,0.7,Actual
+678,CA5710001,city of davis,2022,1.8,Actual
+699,CA0410011,del oro water company,2022,0.4,Actual
+711,CA1510005,city of delano,2022,2.0,Actual
+727,CA3310005,desert water agency,2022,1.8,Actual
+731,CA0710007,diablo water district,2022,1.0,Actual
+737,CA5410002,city of dinuba,2022,1.9,Actual
+739,CA0710009,discovery bay community services district,2022,0.0,Actual
+748,CA1910034,city of downey,2022,1.5,Actual
+759,CA0110009,dublin san ramon services district,2022,2.0,Actual
+775,CA0110005,east bay municipal utility district,2022,5.0,Actual
+784,CA1510006,east niles community services district,2022,0.0,Actual
+787,CA4110024,city of east palo alto,2022,1.6,Actual
+793,CA3610064,east valley water district,2022,1.7,Actual
+794,CA3310009,eastern municipal water district,2022,3.0,Actual
+814,CA1310004,city of el centro,2022,0.0,Actual
+816,"CA0910001,CA0910017,CA0910018",el dorado irrigation district,2022,2.0,Actual
+821,CA1910038,city of el monte,2022,3.0,Actual
+827,CA1910040,city of el segundo,2022,1.6,Actual
+830,CA3010079,el toro water district,2022,2.0,Actual
+835,CA3410008,elk grove water district,2022,0.0,Actual
+842,CA3310012,elsinore valley municipal water district,2022,1.7,Actual
+851,CA3710006,city of escondido,2022,1.0,Actual
+856,CA4110021,estero municipal improvement district,2022,1.7,Actual
+859,CA1210004,city of eureka,2022,1.4,Actual
+863,CA5410003,city of exeter,2022,0.0,Actual
+866,CA3410009,fair oaks water district,2022,1.8,Actual
+867,CA4810003,city of fairfield,2022,1.2,Actual
+873,CA3710008,fallbrook public utility district,2022,1.8,Actual
+890,CA5610002,city of fillmore,2022,2.5,Actual
+904,"CA3410014,CA3410030",city of folsom,2022,2.0,Actual
+920,CA1210006,city of fortuna,2022,2.1,Actual
+924,CA3010069,city of fountain valley,2022,1.4,Actual
+934,CA1010007,city of fresno,2022,2.0,Actual
+967,CA3010010,city of fullerton,2022,1.3333333333333333,Actual
+972,CA3410011,city of galt,2022,0.0,Actual
+977,CA3010062,city of garden grove,2022,1.8,Actual
+990,CA0910013,georgetown divide public utility district,2022,1.6,Actual
+995,CA4310004,city of gilroy,2022,3.0,Actual
+1004,CA1910043,city of glendale,2022,3.0,Actual
+1005,CA1910044,city of glendora,2022,2.4,Actual
+1029,CA1910004,golden state water company - artesia,2022,2.0,Actual
+1030,CA3610043,golden state water company - barstow,2022,2.0,Actual
+1031,CA0710002,golden state water company - bay point,2022,2.0,Actual
+1032,CA1910011,golden state water company - bell-bell gardens,2022,2.0,Actual
+1034,CA1910024,golden state water company - claremont,2022,2.0,Actual
+1036,CA3410015,golden state water company - cordova,2022,2.0,Actual
+1038,CA1910030,golden state water company - culver city,2022,2.0,Actual
+1041,CA1910077,golden state water company - florence graham,2022,2.0,Actual
+1049,CA1910098,golden state water company - norwalk,2022,2.0,Actual
+1052,CA4210016,golden state water company - orcutt,2022,2.0,Actual
+1053,CA3010035,golden state water company - placentia,2022,2.0,Actual
+1054,CA1910142,golden state water company - san dimas,2022,2.0,Actual
+1057,CA5610059,golden state water company - simi valley,2022,2.0,Actual
+1058,CA1910212,golden state water company - south arcadia,2022,2.0,Actual
+1059,CA1910223,golden state water company - south san gabriel,2022,2.0,Actual
+1060,CA1910155,golden state water company - southwest,2022,2.0,Actual
+1062,CA3010022,golden state water company - west orange,2022,2.0,Actual
+1068,CA4210004,goleta water district,2022,1.0,Actual
+1083,CA4310022,great oaks water company incorporated,2022,2.0,Actual
+1093,CA2710008,city of greenfield,2022,1.2,Actual
+1094,CA1510024,greenfield county water district,2022,0.9,Actual
+1109,CA5510009,groveland community services district,2022,2.0,Actual
+1110,CA4010004,city of grover beach,2022,1.5,Actual
+1125,CA1610003,city of hanford,2022,1.0,Actual
+1142,CA1910047,city of hawthorne,2022,1.8,Actual
+1143,CA0110006,city of hayward,2022,1.5555555555555556,Actual
+1144,CA4910005,city of healdsburg,2022,2.0,Actual
+1154,CA3710010,helix water district,2022,1.2,Actual
+1157,CA3310016,city of hemet,2022,1.6,Actual
+1166,CA3610024,hesperia water district,2022,2.0,Actual
+1167,CA3610073,hi desert water district,2022,1.7,Actual
+1181,CA4110016,hillsborough town of,2022,2.0,Actual
+1188,CA3510001,city of hollister,2022,2.0,Actual
+1210,CA1210009,humboldt community services district,2022,1.6,Actual
+1215,CA3010053,city of huntington beach,2022,1.6,Actual
+1217,CA1910049,city of huntington park,2022,2.0,Actual
+1225,CA1310006,city of imperial,2022,1.0,Actual
+1234,CA1510017,indian wells valley water district,2022,2.0,Actual
+1236,CA3310020,city of indio,2022,1.7,Actual
+1238,CA1910051,city of inglewood,2022,3.0,Actual
+1245,CA3010092,irvine ranch water district,2022,2.0,Actual
+1270,CA3610025,joshua basin water district,2022,1.6,Actual
+1273,CA3310021,jurupa community service district,2022,2.0,Actual
+1286,CA1010018,city of kerman,2022,1.6,Actual
+1304,CA1010019,city of kingsburg,2022,1.1,Actual
+1324,CA3010018,city of la habra,2022,2.0,Actual
+1327,CA3010100,city of la palma,2022,1.4,Actual
+1333,CA1910062,city of la verne,2022,1.9,Actual
+1335,CA3010017,laguna beach county water district,2022,2.0,Actual
+1343,CA3610005,lake arrowhead community services district,2022,3.0,Actual
+1352,CA3310022,lake hemet municipal water district,2022,0.0,Actual
+1368,CA3710013,lakeside water district,2022,1.0,Actual
+1370,CA1910239,city of lakewood,2022,1.7,Actual
+1371,CA1510012,lamont public utility district,2022,0.0,Actual
+1384,CA1910225,las virgenes municipal water district,2022,4.4,Actual
+1388,CA3910015,city of lathrop,2022,2.0,Actual
+1408,CA3310074,temescal valley water district,2022,1.7,Actual
+1415,CA1610005,city of lemoore,2022,3.0,Actual
+1424,CA3110004,city of lincoln,2022,1.6,Actual
+1425,CA1910063,lincoln avenue water company,2022,2.6,Actual
+1427,CA5810002,linda county water district,2022,1.8,Actual
+1443,CA0110011,city of livermore,2022,2.0,Actual
+1444,CA2410004,city of livingston,2022,2.0,Actual
+1450,CA3910004,city of lodi,2022,2.0,Actual
+1452,CA3610013,city of loma linda,2022,0.0,Actual
+1456,CA1910073,city of lomita,2022,0.2857142857142857,Actual
+1459,CA4210006,city of lompoc,2022,2.0,Actual
+1464,CA1910065,city of long beach,2022,3.6,Actual
+1473,CA1910067,los angeles city department of water and power,2022,2.7,Actual
+1481,CA1910204,los angeles county waterworks district 29 - malibu & marina del rey,2022,1.6,Actual
+1484,"CA1910005,CA1910025,CA1910027,CA1910070,CA1910203",los angeles county waterworks district 40 - antelope valley,2022,1.6,Actual
+1487,CA2410005,city of los banos,2022,1.2,Actual
+1506,CA1910079,city of lynwood,2022,2.0,Actual
+1510,CA2010002,city of madera,2022,1.0,Actual
+1533,CA2610001,mammoth community water district,2022,2.6,Actual
+1536,CA1910083,city of manhattan beach,2022,1.6,Actual
+1539,CA3910005,city of manteca,2022,1.5,Actual
+1546,CA2110002,marin municipal water district,2022,1.6,Actual
+1547,CA2710017,marina coast water district,2022,2.0,Actual
+1554,CA0710006,city of martinez,2022,1.6,Actual
+1570,CA1210016,mckinleyville community services district,2022,1.6,Actual
+1587,CA4110017,city of menlo park,2022,1.8,Actual
+1589,CA2410009,city of merced,2022,2.0,Actual
+1596,CA3010004,mesa water district,2022,1.4,Actual
+1605,CA4110001,mid-peninsula water district,2022,1.7,Actual
+1613,CA4110018,city of millbrae,2022,1.6,Actual
+1619,CA4310005,city of milpitas,2022,2.0,Actual
+1626,"CA3310008,CA3310078,CA3310081",mission springs water district,2022,1.7,Actual
+1631,"CA5010005,CA5010010,CA5010023,CA5010029,CA5010031,CA5010033,CA5010034,CA5010035",city of modesto,2022,2.0,Actual
+1639,CA1910090,city of monrovia,2022,1.0,Actual
+1642,CA3610029,monte vista water district,2022,2.0,Actual
+1644,CA1910091,montebello land and water company,2022,1.4,Actual
+1645,CA4210007,montecito water district,2022,1.8,Actual
+1650,CA1910092,city of monterey park,2022,2.0,Actual
+1656,CA4310006,city of morgan hill,2022,3.6,Actual
+1660,CA4010011,city of morro bay,2022,2.3333333333333335,Actual
+1663,CA3010073,moulton niguel water district,2022,1.6,Actual
+1671,CA4310007,city of mountain view,2022,1.7,Actual
+1697,CA3310051,myoma dunes mutual water company,2022,0.7,Actual
+1701,CA2810003,city of napa,2022,2.9,Actual
+1718,"CA2910004,CA2910006,CA2910014,CA2910023,CA3110026,CA5810005",nevada irrigation district,2022,1.7,Actual
+1729,CA5010013,city of newman,2022,0.0,Actual
+1730,CA3010023,city of newport beach,2022,1.4,Actual
+1731,CA4010026,nipomo community service district,2022,4.2,Actual
+1732,CA3310025,city of norco,2022,1.5,Actual
+1739,CA4110025,north coast county water district,2022,2.0,Actual
+1748,CA2110003,north marin water district,2022,2.0,Actual
+1752,"CA3110001,CA3110023,CA3110036",north tahoe public utilities district,2022,2.0,Actual
+1756,CA1910191,city of norwalk,2022,2.0,Actual
+1765,CA5010014,city of oakdale,2022,0.42857142857142855,Actual
+1777,CA3710014,city of oceanside,2022,1.0,Actual
+1782,CA1510015,oildale mutual water company,2022,1.6,Actual
+1792,"CA5805001,CA5810003",olivehurst public utilities district,2022,1.6,Actual
+1793,CA3710029,olivenhain municipal water district,2022,0.7,Actual
+1795,CA3610034,city of ontario,2022,2.5,Actual
+1797,CA3010027,city of orange,2022,1.6,Actual
+1803,CA3410016,orangevale water company,2022,1.7,Actual
+1804,CA1910101,orchard dale water district,2022,2.0,Actual
+1821,CA3710034,otay water district,2022,1.7,Actual
+1827,CA5610007,city of oxnard,2022,2.0,Actual
+1838,CA3710037,padre dam municipal water district,2022,1.0,Actual
+1849,CA1910102,palmdale water district,2022,2.0,Actual
+1851,CA4310009,city of palo alto,2022,1.7,Actual
+1859,CA0410007,paradise irrigation district,2022,0.1,Actual
+1866,CA1910105,city of paramount,2022,1.4,Actual
+1869,"CA1910021,CA1910161,CA1910211",liberty utilities (park water) corp,2022,1.6,Actual
+1873,CA1910124,city of pasadena,2022,2.0,Actual
+1875,CA4010007,city of paso robles,2022,0.0,Actual
+1877,CA5010017,city of patterson,2022,1.0,Actual
+1894,CA4910006,city of petaluma,2022,3.1,Actual
+1896,CA3610120,phelan pinon hills community services district,2022,0.0,Actual
+1899,CA1910042,city of pico rivera,2022,1.4444444444444444,Actual
+1900,CA1910125,pico water district,2022,1.4,Actual
+1923,CA4010008,city of pismo beach,2022,2.8333333333333335,Actual
+1925,CA0710008,city of pittsburg,2022,1.8888888888888888,Actual
+1927,"CA3110005,CA3110006,CA3110024,CA3110025,CA3110040,CA3110050,CA3110124",placer county water agency,2022,2.0,Actual
+1940,CA0110008,city of pleasanton,2022,2.0,Actual
+1945,CA1910126,city of pomona,2022,1.7777777777777777,Actual
+1953,CA5610009,city of port hueneme,2022,1.6,Actual
+1956,CA5410010,city of porterville,2022,1.7,Actual
+1964,CA3710015,city of poway,2022,1.7,Actual
+1983,CA1910130,quartz hill water district,2022,2.0,Actual
+1990,CA3710016,rainbow municipal water district,2022,0.0,Actual
+1996,CA3710019,ramona municipal water district,2022,1.6666666666666667,Actual
+2000,CA3310038,rancho california water district,2022,1.9,Actual
+2031,CA5210004,city of red bluff,2022,1.1,Actual
+2033,CA4510005,city of redding,2022,1.8,Actual
+2035,CA3610037,city of redlands,2022,2.0,Actual
+2037,CA4110022,redwood city,2022,2.0,Actual
+2042,CA1010027,city of reedley,2022,0.0,Actual
+2049,CA3610038,city of rialto,2022,1.7,Actual
+2057,"CA3710018,CA3710044",rincon del diablo municipal water district,2022,2.0,Actual
+2060,CA3410018,rio linda - elverta community water district,2022,2.0,Actual
+2063,CA4810004,city of rio vista,2022,1.8,Actual
+2065,CA3910007,city of ripon,2022,1.4,Actual
+2074,CA5010018,city of riverbank,2022,0.0,Actual
+2083,CA3310031,city of riverside,2022,1.4,Actual
+2087,CA3610057,riverside highland water company,2022,2.0,Actual
+2103,CA4910014,city of rohnert park,2022,1.7,Actual
+2107,CA1510018,rosamond community service district,2022,0.0,Actual
+2111,CA3110008,city of roseville,2022,2.0,Actual
+2115,CA1910194,rowland water district,2022,1.4,Actual
+2118,CA3310044,rubidoux community service district,2022,1.6,Actual
+2119,CA1910140,rubio canyon land and water association,2022,3.0,Actual
+2130,CA3410020,city of sacramento,2022,2.0,Actual
+2132,"CA3400101,CA3400106,CA3400156,CA3410002,CA3410029,CA3410704",sacramento county water agency,2022,1.8,Actual
+2140,CA3410001,sacramento suburban water district,2022,1.7,Actual
+2150,CA3610039,city of san bernardino,2022,3.0,Actual
+2154,CA3610121,san bernardino county service area 64 spring valley lake,2022,0.0,Actual
+2157,CA4110023,city of san bruno,2022,1.7,Actual
+2158,CA5610017,city of (ventura) san buenaventura,2022,1.4,Actual
+2159,CA3010036,city of san clemente,2022,1.4,Actual
+2160,CA3710020,city of san diego,2022,1.0,Actual
+2162,CA3710021,san dieguito water district,2022,1.7,Actual
+2163,CA1910143,city of san fernando,2022,3.0,Actual
+2164,"CA0110012,CA0110018,CA3810011",san francisco public utilities commission,2022,1.8,Actual
+2165,CA1910144,san gabriel county water district,2022,1.0,Actual
+2166,CA3610041,san gabriel valley water company fontana division,2022,2.0,Actual
+2167,"CA1910039,CA1910189",san gabriel valley water company,2022,1.6,Actual
+2169,CA3310032,city of san jacinto,2022,2.0,Actual
+2174,"CA4310019,CA4310020",city of san jose,2022,2.0,Actual
+2175,"CA4310011,CA4310018",san jose water company,2022,2.7,Actual
+2177,CA3010030,city of san juan capistrano,2022,2.0,Actual
+2179,CA3410021,san juan water district,2022,1.4,Actual
+2180,"CA4410002,CA4410014",san lorenzo valley water district,2022,2.0,Actual
+2182,CA4010009,city of san luis obispo,2022,1.2,Actual
+2205,CA1010029,city of sanger,2022,3.0,Actual
+2207,CA3010038,city of santa ana,2022,1.4,Actual
+2209,CA4210010,city of santa barbara,2022,1.7,Actual
+2210,CA4310012,city of santa clara,2022,2.0,Actual
+2213,CA4410010,city of santa cruz,2022,0.0,Actual
+2214,CA3710023,santa fe irrigation district,2022,1.6,Actual
+2215,CA1910245,city of santa fe springs,2022,0.8888888888888888,Actual
+2217,CA3010101,santa margarita water district,2022,2.0,Actual
+2218,CA4210011,city of santa maria,2022,1.6,Actual
+2220,CA1910146,city of santa monica,2022,2.0,Actual
+2222,CA5610011,city of santa paula,2022,0.0,Actual
+2224,CA4910009,city of santa rosa,2022,2.0,Actual
+2237,CA4410013,scotts valley water district,2022,1.6,Actual
+2241,CA3010041,city of seal beach,2022,2.0,Actual
+2260,CA1510019,city of shafter,2022,1.9,Actual
+2273,CA4510006,city of shasta lake,2022,2.0,Actual
+2290,CA1910148,city of sierra madre,2022,1.2,Actual
+2298,CA1910149,city of signal hill,2022,1.6666666666666667,Actual
+2323,CA2710011,city of soledad,2022,1.2,Actual
+2326,CA4910012,city of sonoma,2022,0.0,Actual
+2330,CA4410017,soquel creek water district,2022,3.0,Actual
+2334,CA3010042,south coast water district,2022,1.8,Actual
+2337,"CA0410006,CA0410012",south feather water and power,2022,1.4,Actual
+2341,CA1910152,city of south gate,2022,1.4,Actual
+2345,CA1910154,city of south pasadena,2022,1.5,Actual
+2348,CA0910002,south tahoe public utility district,2022,0.4,Actual
+2381,CA3910012,city of stockton,2022,1.6,Actual
+2401,"CA1910046,CA1910200,CA1910205",suburban water systems - san jose hills,2022,1.6,Actual
+2402,"CA1910059,CA1910174",suburban water systems - whittier/la mirada,2022,1.6,Actual
+2405,CA4810005,suisun - solano water authority,2022,2.0,Actual
+2419,CA1910157,sunny slope water company,2022,2.8,Actual
+2424,CA3510003,sunnyslope county water district,2022,1.9,Actual
+2425,CA4310014,city of sunnyvale,2022,2.0,Actual
+2432,CA1810001,city of susanville,2022,1.2222222222222223,Actual
+2437,CA3710025,sweetwater authority,2022,1.0,Actual
+2438,"CA4910004,CA4910028",sweetwater springs water district,2022,0.0,Actual
+2444,"CA0910012,CA3100029,CA3110010,CA3110011,CA3110013,CA3110043,CA3110044",tahoe city public utilities district,2022,2.0,Actual
+2451,CA1510020,city of tehachapi,2022,0.0,Actual
+2466,CA0410008,thermalito water and sewer district,2022,1.0,Actual
+2469,CA5610020,city of thousand oaks,2022,3.6,Actual
+2487,CA1910213,city of torrance,2022,1.625,Actual
+2490,CA3010094,trabuco canyon water district,2022,2.0,Actual
+2496,CA3910011,city of tracy,2022,3.0,Actual
+2510,CA5610043,triunfo sanitation district/oak park water service,2022,1.0,Actual
+2512,CA2910003,truckee - donner public utilities district,2022,1.4,Actual
+2516,CA5410015,city of tulare,2022,2.3,Actual
+2523,"CA5500363,CA5510001,CA5510002,CA5510003,CA5510012,CA5510013,CA5510015,CA5510021,CA5510025,CA5510028,CA5510033",tuolumne utilities district,2022,2.0,Actual
+2524,CA5010019,city of turlock,2022,2.0,Actual
+2528,CA3010046,city of tustin,2022,1.4,Actual
+2530,CA3610049,twentynine palms water district,2022,0.0,Actual
+2536,CA2310003,city of ukiah,2022,0.0,Actual
+2541,CA3610050,city of upland,2022,3.875,Actual
+2597,CA4810008,city of vacaville,2022,1.6,Actual
+2602,CA3710002,vallecitos water district,2022,1.9,Actual
+2603,"CA4810007,CA4810021",city of vallejo,2022,1.9,Actual
+2604,CA3710026,valley center municipal water district,2022,1.7,Actual
+2605,CA1910009,valley county water district,2022,1.0,Actual
+2610,CA4910013,valley of the moon water district,2022,2.0,Actual
+2618,CA1910166,valley water company,2022,3.7,Actual
+2626,CA1510029,vaughn water company,2022,2.0,Actual
+2629,CA5610018,ventura county waterworks district no 01 - moorpark,2022,2.8,Actual
+2631,CA5610023,ventura county waterworks district no 08 - simi valley,2022,3.6,Actual
+2633,CA1910167,city of vernon,2022,2.0,Actual
+2635,CA3610052,victorville water district,2022,1.9,Actual
+2649,CA3710027,vista irrigation district,2022,1.7,Actual
+2661,CA1910234,walnut valley water district,2022,2.0,Actual
+2662,CA1510021,city of wasco,2022,2.0,Actual
+2669,CA4410011,city of watsonville,2022,1.7,Actual
+2679,CA1510022,west kern water district,2022,1.8,Actual
+2683,CA5710003,city of west sacramento,2022,1.8,Actual
+2690,CA3610004,west valley water district,2022,1.8,Actual
+2691,CA4110027,westborough water district,2022,2.0,Actual
+2697,"CA3310036,CA3310049,CA3310076",western municipal water district of riverside,2022,2.0,Actual
+2704,CA3010064,city of westminster,2022,0.0,Actual
+2723,CA1910173,city of whittier,2022,1.0,Actual
+2751,CA4910017,windsor town of,2022,2.0,Actual
+2766,CA5710006,city of woodland,2022,1.6,Actual
+2782,CA3010037,yorba linda water district,2022,0.0,Actual
+2789,CA4710011,city of yreka,2022,1.5,Actual
+2790,CA5110002,yuba city,2022,2.9,Actual
+2793,CA3610055,yucaipa valley water district,2022,2.0,Actual
+2891,CA3610125,san bernardino county service area 70 j oak hills,2022,0.0,Actual
+2979,CA2010001,city of chowchilla,2022,1.6,Actual
+4231,CA3910027,mountain house community services district,2022,2.0,Actual
+4993,"CA1910017,CA1910096,CA1910240,CA1910247,CA1910250,CA1910255",santa clarita valley water agency,2022,1.7,Actual
+13,CA3610001,city of adelanto,2023,2.0,Actual
+23,CA0110001,alameda county water district,2023,0.8333333333333334,Actual
+25,CA2710001,alco water service,2023,2.0,Actual
+30,CA1910001,city of alhambra,2023,2.0,Actual
+55,"CA0310002,CA0310003,CA0310012,CA0310019,CA0310021",amador water agency,2023,2.0,Actual
+57,CA2810005,city of american canyon,2023,2.0,Actual
+64,CA3010001,city of anaheim,2023,1.5,Actual
+66,CA4510001,city of anderson,2023,1.1666666666666667,Actual
+82,CA0710001,city of antioch,2023,2.0,Actual
+87,CA3610003,apple valley ranchos water company,2023,1.5833333333333333,Actual
+93,CA1910003,city of arcadia,2023,1.0,Actual
+94,"CA1210001,CA1210021",city of arcata,2023,0.0,Actual
+99,CA4010001,city of arroyo grande,2023,0.0,Actual
+102,CA1510001,arvin community service district,2023,0.0,Actual
+107,CA4010002,atascadero mutual water company,2023,0.0,Actual
+110,CA2410001,city of atwater,2023,2.0,Actual
+117,CA1910007,azusa light and water,2023,3.0,Actual
+124,CA1010001,bakman water company,2023,1.1666666666666667,Actual
+129,CA3310006,city of banning,2023,2.0,Actual
+155,CA1510038,bear valley community services district,2023,0.0,Actual
+159,CA3310002,beaumont - cherry valley water district,2023,3.0,Actual
+167,CA4510014,bella vista water district,2023,1.0833333333333333,Actual
+170,CA1910013,bellflower - somerset mutual water company,2023,0.5,Actual
+178,CA4810001,city of benicia,2023,2.0,Actual
+193,CA1910156,city of beverly hills,2023,2.0,Actual
+197,CA3610008,big bear community services district,2023,2.0,Actual
+198,"CA3600283,CA3610022,CA3610044",city of big bear lake,2023,0.0,Actual
+241,CA3310003,city of blythe,2023,0.08333333333333333,Actual
+262,CA1310001,city of brawley,2023,2.0,Actual
+263,CA3010002,city of brea,2023,2.0,Actual
+264,CA0710004,city of brentwood,2023,1.0,Actual
+283,CA3010003,city of buena park,2023,2.0,Actual
+285,CA1910179,city of burbank,2023,3.0,Actual
+286,CA4110003,city of burlingame,2023,1.3333333333333333,Actual
+351,"CA0510004,CA0510005,CA0510006,CA0510016,CA0510017,CA0510019",calaveras county water district,2023,0.5,Actual
+353,CA1310002,city of calexico,2023,1.0,Actual
+368,"CA1910052,CA1910139,CA1910186",california american water company - los angeles division,2023,2.0,Actual
+369,"CA2701202,CA2701257,CA2702004,CA2710004,CA2710006,CA2710021,CA2710022",california american water company - monterey district,2023,1.3333333333333333,Actual
+372,"CA3110150,CA3410010,CA3410012,CA3410013,CA3410017,CA3410031,CA3410045,CA3410047,CA5700712,CA3410023",california american water company - sacramento district,2023,2.0,Actual
+373,CA3710001,california american water company - san diego district,2023,2.0,Actual
+376,"CA5610040,CA5610081",california american water company - ventura district,2023,2.0,Actual
+378,CA1510032,california city,2023,2.0,Actual
+386,"CA1510003,CA1510055",california water service company bakersfield,2023,1.5833333333333333,Actual
+387,CA4110006,california water service company bear gulch,2023,1.3333333333333333,Actual
+388,"CA0410002,CA1110002",california water service company chico district,2023,2.0,Actual
+390,CA4810002,california water service company dixon,2023,1.3333333333333333,Actual
+391,CA1910033,california water service company dominguez,2023,1.3333333333333333,Actual
+392,CA1910036,california water service company east los angeles,2023,1.3333333333333333,Actual
+396,CA1910134,california water service company hermosa/redondo,2023,1.3333333333333333,Actual
+397,"CA1500407,CA1510026,CA1510033,CA1510039,CA1510043,CA1510049,CA1510056",california water service company kern river valley,2023,1.3333333333333333,Actual
+401,CA0110003,california water service company livermore,2023,1.3333333333333333,Actual
+402,CA4310001,california water service company los altos/suburban,2023,1.3333333333333333,Actual
+405,CA5810001,california water service company marysville,2023,1.3333333333333333,Actual
+412,CA0410005,california water service company oroville,2023,1.3333333333333333,Actual
+413,CA1910104,california water service company palos verdes,2023,1.3333333333333333,Actual
+417,"CA2701929,CA2710010,CA2710012,CA2710013,CA2710019",california water service company salinas district,2023,1.3333333333333333,Actual
+420,"CA4110007,CA4110008",california water service company mid peninsula,2023,1.5833333333333333,Actual
+421,CA1010024,california water service company selma,2023,1.3333333333333333,Actual
+422,CA4110009,california water service company south san francisco,2023,1.3333333333333333,Actual
+424,CA3910001,california water service company stockton,2023,1.3333333333333333,Actual
+427,"CA5400935,CA5410016,CA5410041",california water service company visalia,2023,1.3333333333333333,Actual
+428,CA5610016,california water service company westlake,2023,1.5833333333333333,Actual
+443,CA5610019,city of camarillo,2023,1.25,Actual
+445,CA4010014,cambria community service district,2023,0.8333333333333334,Actual
+467,CA5610063,camrosa water district,2023,0.8333333333333334,Actual
+478,CA3710005,carlsbad municipal water district,2023,1.4166666666666667,Actual
+481,CA3410004,carmichael water district,2023,0.5,Actual
+485,CA4210001,carpinteria valley water district,2023,1.6666666666666667,Actual
+495,"CA5610014,CA5610024",casitas municipal water district,2023,1.5,Actual
+522,CA5010028,city of ceres,2023,2.0,Actual
+524,CA1910019,city of cerritos,2023,1.0,Actual
+545,CA3610012,city of chino,2023,2.0,Actual
+547,CA3610036,city of chino hills,2023,2.5,Actual
+561,CA3410006,citrus heights water district,2023,0.5,Actual
+572,CA4910002,city of cloverdale,2023,1.5,Actual
+574,CA1010003,city of clovis,2023,2.0,Actual
+575,CA3310007,city of coachella,2023,2.0,Actual
+577,"CA3310001,CA3310048",coachella valley water district,2023,1.75,Actual
+578,CA1010004,city of coalinga,2023,0.8333333333333334,Actual
+583,CA4110011,coastside county water district,2023,0.9166666666666666,Actual
+596,CA3610014,city of colton,2023,3.0,Actual
+607,CA1910026,city of compton,2023,1.0,Actual
+613,CA0710003,contra costa water district,2023,0.8333333333333334,Actual
+618,CA1610004,city of corcoran,2023,1.5,Actual
+624,CA3310037,city of corona,2023,2.0,Actual
+644,CA1910127,city of covina,2023,2.0,Actual
+649,CA0810001,crescent city,2023,2.0,Actual
+651,CA1910028,crescenta valley community water district,2023,2.6666666666666665,Actual
+654,CA3610015,crestline village water district,2023,1.0,Actual
+664,CA3610018,cucamonga valley water district,2023,1.0,Actual
+673,CA4110013,daly city,2023,2.0,Actual
+678,CA5710001,city of davis,2023,0.8333333333333334,Actual
+699,CA0410011,del oro water company,2023,2.0,Actual
+711,CA1510005,city of delano,2023,0.3333333333333333,Actual
+727,CA3310005,desert water agency,2023,1.25,Actual
+731,CA0710007,diablo water district,2023,0.36363636363636365,Actual
+737,CA5410002,city of dinuba,2023,2.0,Actual
+748,CA1910034,city of downey,2023,1.25,Actual
+759,CA0110009,dublin san ramon services district,2023,2.0,Actual
+775,CA0110005,east bay municipal utility district,2023,0.6666666666666666,Actual
+784,CA1510006,east niles community services district,2023,0.0,Actual
+793,CA3610064,east valley water district,2023,1.25,Actual
+794,CA3310009,eastern municipal water district,2023,1.5,Actual
+814,CA1310004,city of el centro,2023,2.0,Actual
+816,"CA0910001,CA0910017,CA0910018",el dorado irrigation district,2023,0.5,Actual
+821,CA1910038,city of el monte,2023,3.0,Actual
+827,CA1910040,city of el segundo,2023,1.0,Actual
+830,CA3010079,el toro water district,2023,0.8333333333333334,Actual
+835,CA3410008,elk grove water district,2023,0.0,Actual
+842,CA3310012,elsinore valley municipal water district,2023,1.3333333333333333,Actual
+856,CA4110021,estero municipal improvement district,2023,1.1666666666666667,Actual
+859,CA1210004,city of eureka,2023,0.6666666666666666,Actual
+863,CA5410003,city of exeter,2023,0.0,Actual
+866,CA3410009,fair oaks water district,2023,2.0833333333333335,Actual
+867,CA4810003,city of fairfield,2023,1.25,Actual
+873,CA3710008,fallbrook public utility district,2023,1.6666666666666667,Actual
+890,CA5610002,city of fillmore,2023,0.0,Actual
+904,"CA3410014,CA3410030",city of folsom,2023,1.0,Actual
+920,CA1210006,city of fortuna,2023,3.0,Actual
+924,CA3010069,city of fountain valley,2023,0.6666666666666666,Actual
+934,CA1010007,city of fresno,2023,2.0,Actual
+967,CA3010010,city of fullerton,2023,2.0,Actual
+977,CA3010062,city of garden grove,2023,2.0,Actual
+990,CA0910013,georgetown divide public utility district,2023,0.5,Actual
+995,CA4310004,city of gilroy,2023,2.0,Actual
+1004,CA1910043,city of glendale,2023,3.0,Actual
+1005,CA1910044,city of glendora,2023,3.0,Actual
+1029,CA1910004,golden state water company - artesia,2023,1.3333333333333333,Actual
+1030,CA3610043,golden state water company - barstow,2023,1.3333333333333333,Actual
+1031,CA0710002,golden state water company - bay point,2023,1.3333333333333333,Actual
+1032,CA1910011,golden state water company - bell-bell gardens,2023,1.3333333333333333,Actual
+1034,CA1910024,golden state water company - claremont,2023,1.3333333333333333,Actual
+1036,CA3410015,golden state water company - cordova,2023,1.3333333333333333,Actual
+1038,CA1910030,golden state water company - culver city,2023,1.3333333333333333,Actual
+1041,CA1910077,golden state water company - florence graham,2023,1.3333333333333333,Actual
+1049,CA1910098,golden state water company - norwalk,2023,1.3333333333333333,Actual
+1052,CA4210016,golden state water company - orcutt,2023,1.3333333333333333,Actual
+1053,CA3010035,golden state water company - placentia,2023,1.3333333333333333,Actual
+1054,CA1910142,golden state water company - san dimas,2023,1.3333333333333333,Actual
+1057,CA5610059,golden state water company - simi valley,2023,1.3333333333333333,Actual
+1058,CA1910212,golden state water company - south arcadia,2023,1.3333333333333333,Actual
+1059,CA1910223,golden state water company - south san gabriel,2023,1.3333333333333333,Actual
+1060,CA1910155,golden state water company - southwest,2023,1.3333333333333333,Actual
+1062,CA3010022,golden state water company - west orange,2023,1.3333333333333333,Actual
+1068,CA4210004,goleta water district,2023,0.0,Actual
+1083,CA4310022,great oaks water company incorporated,2023,1.3333333333333333,Actual
+1093,CA2710008,city of greenfield,2023,1.0,Actual
+1094,CA1510024,greenfield county water district,2023,0.0,Actual
+1109,CA5510009,groveland community services district,2023,1.0,Actual
+1110,CA4010004,city of grover beach,2023,2.7142857142857144,Actual
+1125,CA1610003,city of hanford,2023,1.0,Actual
+1142,CA1910047,city of hawthorne,2023,1.3333333333333333,Actual
+1143,CA0110006,city of hayward,2023,1.4166666666666667,Actual
+1144,CA4910005,city of healdsburg,2023,0.5,Actual
+1154,CA3710010,helix water district,2023,0.5,Actual
+1157,CA3310016,city of hemet,2023,2.0,Actual
+1166,CA3610024,hesperia water district,2023,2.0,Actual
+1167,CA3610073,hi desert water district,2023,1.3333333333333333,Actual
+1181,CA4110016,hillsborough town of,2023,1.1666666666666667,Actual
+1188,CA3510001,city of hollister,2023,2.0,Actual
+1210,CA1210009,humboldt community services district,2023,0.8333333333333334,Actual
+1215,CA3010053,city of huntington beach,2023,0.5833333333333334,Actual
+1217,CA1910049,city of huntington park,2023,2.0,Actual
+1234,CA1510017,indian wells valley water district,2023,2.0,Actual
+1236,CA3310020,city of indio,2023,1.4166666666666667,Actual
+1238,CA1910051,city of inglewood,2023,4.0,Actual
+1245,CA3010092,irvine ranch water district,2023,0.3333333333333333,Actual
+1270,CA3610025,joshua basin water district,2023,2.0,Actual
+1273,CA3310021,jurupa community service district,2023,0.0,Actual
+1286,CA1010018,city of kerman,2023,2.0,Actual
+1304,CA1010019,city of kingsburg,2023,2.0,Actual
+1324,CA3010018,city of la habra,2023,2.0,Actual
+1327,CA3010100,city of la palma,2023,1.3333333333333333,Actual
+1333,CA1910062,city of la verne,2023,0.0,Actual
+1335,CA3010017,laguna beach county water district,2023,0.8333333333333334,Actual
+1343,CA3610005,lake arrowhead community services district,2023,2.4166666666666665,Actual
+1352,CA3310022,lake hemet municipal water district,2023,1.5,Actual
+1368,CA3710013,lakeside water district,2023,1.0,Actual
+1370,CA1910239,city of lakewood,2023,2.0,Actual
+1371,CA1510012,lamont public utility district,2023,0.0,Actual
+1384,CA1910225,las virgenes municipal water district,2023,1.0,Actual
+1388,CA3910015,city of lathrop,2023,1.0,Actual
+1408,CA3310074,temescal valley water district,2023,1.4166666666666667,Actual
+1415,CA1610005,city of lemoore,2023,4.0,Actual
+1424,CA3110004,city of lincoln,2023,2.0,Actual
+1425,CA1910063,lincoln avenue water company,2023,3.0,Actual
+1427,CA5810002,linda county water district,2023,0.3333333333333333,Actual
+1443,CA0110011,city of livermore,2023,0.6666666666666666,Actual
+1450,CA3910004,city of lodi,2023,1.3333333333333333,Actual
+1452,CA3610013,city of loma linda,2023,0.0,Actual
+1456,CA1910073,city of lomita,2023,0.8333333333333334,Actual
+1459,CA4210006,city of lompoc,2023,2.0,Actual
+1464,CA1910065,city of long beach,2023,2.1666666666666665,Actual
+1473,CA1910067,los angeles city department of water and power,2023,2.5833333333333335,Actual
+1481,CA1910204,los angeles county waterworks district 29 - malibu & marina del rey,2023,2.0,Actual
+1484,"CA1910005,CA1910025,CA1910027,CA1910070,CA1910203",los angeles county waterworks district 40 - antelope valley,2023,2.0,Actual
+1487,CA2410005,city of los banos,2023,1.0,Actual
+1506,CA1910079,city of lynwood,2023,2.0,Actual
+1510,CA2010002,city of madera,2023,1.0,Actual
+1533,CA2610001,mammoth community water district,2023,2.25,Actual
+1536,CA1910083,city of manhattan beach,2023,2.0,Actual
+1539,CA3910005,city of manteca,2023,2.0,Actual
+1546,CA2110002,marin municipal water district,2023,0.0,Actual
+1547,CA2710017,marina coast water district,2023,0.6666666666666666,Actual
+1554,CA0710006,city of martinez,2023,0.8333333333333334,Actual
+1570,CA1210016,mckinleyville community services district,2023,2.0,Actual
+1587,CA4110017,city of menlo park,2023,0.8333333333333334,Actual
+1589,CA2410009,city of merced,2023,2.0,Actual
+1596,CA3010004,mesa water district,2023,0.6666666666666666,Actual
+1605,CA4110001,mid-peninsula water district,2023,1.5,Actual
+1613,CA4110018,city of millbrae,2023,1.5833333333333333,Actual
+1619,CA4310005,city of milpitas,2023,0.8333333333333334,Actual
+1626,"CA3310008,CA3310078,CA3310081",mission springs water district,2023,1.6666666666666667,Actual
+1631,"CA5010005,CA5010010,CA5010023,CA5010029,CA5010031,CA5010033,CA5010034,CA5010035",city of modesto,2023,2.0,Actual
+1639,CA1910090,city of monrovia,2023,2.0,Actual
+1642,CA3610029,monte vista water district,2023,0.75,Actual
+1644,CA1910091,montebello land and water company,2023,2.0,Actual
+1645,CA4210007,montecito water district,2023,1.4166666666666667,Actual
+1650,CA1910092,city of monterey park,2023,2.0,Actual
+1656,CA4310006,city of morgan hill,2023,4.0,Actual
+1660,CA4010011,city of morro bay,2023,3.0,Actual
+1663,CA3010073,moulton niguel water district,2023,0.6666666666666666,Actual
+1671,CA4310007,city of mountain view,2023,0.8333333333333334,Actual
+1697,CA3310051,myoma dunes mutual water company,2023,1.25,Actual
+1701,CA2810003,city of napa,2023,0.75,Actual
+1718,"CA2910004,CA2910006,CA2910014,CA2910023,CA3110026,CA5810005",nevada irrigation district,2023,0.16666666666666666,Actual
+1729,CA5010013,city of newman,2023,0.0,Actual
+1730,CA3010023,city of newport beach,2023,0.6666666666666666,Actual
+1731,CA4010026,nipomo community service district,2023,5.0,Actual
+1732,CA3310025,city of norco,2023,1.5833333333333333,Actual
+1739,CA4110025,north coast county water district,2023,1.0,Actual
+1748,CA2110003,north marin water district,2023,0.5,Actual
+1752,"CA3110001,CA3110023,CA3110036",north tahoe public utilities district,2023,2.0,Actual
+1756,CA1910191,city of norwalk,2023,2.3333333333333335,Actual
+1765,CA5010014,city of oakdale,2023,0.0,Actual
+1777,CA3710014,city of oceanside,2023,1.0,Actual
+1792,"CA5805001,CA5810003",olivehurst public utilities district,2023,2.0,Actual
+1793,CA3710029,olivenhain municipal water district,2023,1.0,Actual
+1795,CA3610034,city of ontario,2023,0.75,Actual
+1797,CA3010027,city of orange,2023,1.6666666666666667,Actual
+1803,CA3410016,orangevale water company,2023,1.0,Actual
+1804,CA1910101,orchard dale water district,2023,2.0,Actual
+1821,CA3710034,otay water district,2023,0.6666666666666666,Actual
+1827,CA5610007,city of oxnard,2023,1.3333333333333333,Actual
+1838,CA3710037,padre dam municipal water district,2023,0.75,Actual
+1849,CA1910102,palmdale water district,2023,0.9166666666666666,Actual
+1851,CA4310009,city of palo alto,2023,1.5,Actual
+1859,CA0410007,paradise irrigation district,2023,0.0,Actual
+1866,CA1910105,city of paramount,2023,1.5833333333333333,Actual
+1869,"CA1910021,CA1910161,CA1910211",liberty utilities (park water) corp,2023,1.5833333333333333,Actual
+1873,CA1910124,city of pasadena,2023,2.25,Actual
+1875,CA4010007,city of paso robles,2023,2.0,Actual
+1877,CA5010017,city of patterson,2023,1.0,Actual
+1894,CA4910006,city of petaluma,2023,1.3333333333333333,Actual
+1896,CA3610120,phelan pinon hills community services district,2023,1.9166666666666667,Actual
+1899,CA1910042,city of pico rivera,2023,2.0,Actual
+1900,CA1910125,pico water district,2023,1.4166666666666667,Actual
+1923,CA4010008,city of pismo beach,2023,0.0,Actual
+1925,CA0710008,city of pittsburg,2023,1.3333333333333333,Actual
+1927,"CA3110005,CA3110006,CA3110024,CA3110025,CA3110040,CA3110050,CA3110124",placer county water agency,2023,0.5,Actual
+1940,CA0110008,city of pleasanton,2023,0.5,Actual
+1945,CA1910126,city of pomona,2023,2.0,Actual
+1953,CA5610009,city of port hueneme,2023,1.5,Actual
+1956,CA5410010,city of porterville,2023,2.0,Actual
+1964,CA3710015,city of poway,2023,1.5833333333333333,Actual
+1983,CA1910130,quartz hill water district,2023,2.0,Actual
+1990,CA3710016,rainbow municipal water district,2023,0.0,Actual
+1996,CA3710019,ramona municipal water district,2023,1.0,Actual
+2000,CA3310038,rancho california water district,2023,1.5833333333333333,Actual
+2031,CA5210004,city of red bluff,2023,2.0,Actual
+2033,CA4510005,city of redding,2023,1.25,Actual
+2035,CA3610037,city of redlands,2023,2.0,Actual
+2037,CA4110022,redwood city,2023,1.0,Actual
+2042,CA1010027,city of reedley,2023,0.0,Actual
+2049,CA3610038,city of rialto,2023,2.0,Actual
+2057,"CA3710018,CA3710044",rincon del diablo municipal water district,2023,1.0,Actual
+2060,CA3410018,rio linda - elverta community water district,2023,2.0,Actual
+2063,CA4810004,city of rio vista,2023,2.0,Actual
+2065,CA3910007,city of ripon,2023,2.0,Actual
+2074,CA5010018,city of riverbank,2023,0.0,Actual
+2083,CA3310031,city of riverside,2023,0.5,Actual
+2087,CA3610057,riverside highland water company,2023,2.0,Actual
+2103,CA4910014,city of rohnert park,2023,0.75,Actual
+2107,CA1510018,rosamond community service district,2023,2.0,Actual
+2111,CA3110008,city of roseville,2023,1.4166666666666667,Actual
+2115,CA1910194,rowland water district,2023,2.0,Actual
+2118,CA3310044,rubidoux community service district,2023,1.3333333333333333,Actual
+2119,CA1910140,rubio canyon land and water association,2023,2.4166666666666665,Actual
+2122,CA3610062,running springs water district,2023,2.0,Actual
+2130,CA3410020,city of sacramento,2023,2.0,Actual
+2132,"CA3400101,CA3400106,CA3400156,CA3410002,CA3410029,CA3410704",sacramento county water agency,2023,1.4166666666666667,Actual
+2140,CA3410001,sacramento suburban water district,2023,0.8333333333333334,Actual
+2150,CA3610039,city of san bernardino,2023,3.0,Actual
+2154,CA3610121,san bernardino county service area 64 spring valley lake,2023,0.0,Actual
+2157,CA4110023,city of san bruno,2023,1.3333333333333333,Actual
+2158,CA5610017,city of (ventura) san buenaventura,2023,0.5,Actual
+2159,CA3010036,city of san clemente,2023,0.6666666666666666,Actual
+2160,CA3710020,city of san diego,2023,1.5454545454545454,Actual
+2162,CA3710021,san dieguito water district,2023,1.5,Actual
+2164,"CA0110012,CA0110018,CA3810011",san francisco public utilities commission,2023,0.6666666666666666,Actual
+2165,CA1910144,san gabriel county water district,2023,1.3333333333333333,Actual
+2166,CA3610041,san gabriel valley water company fontana division,2023,1.3333333333333333,Actual
+2167,"CA1910039,CA1910189",san gabriel valley water company,2023,1.5,Actual
+2169,CA3310032,city of san jacinto,2023,2.0,Actual
+2174,"CA4310019,CA4310020",city of san jose,2023,1.6666666666666667,Actual
+2175,"CA4310011,CA4310018",san jose water company,2023,2.0,Actual
+2177,CA3010030,city of san juan capistrano,2023,0.5,Actual
+2179,CA3410021,san juan water district,2023,0.0,Actual
+2180,"CA4410002,CA4410014",san lorenzo valley water district,2023,1.5,Actual
+2182,CA4010009,city of san luis obispo,2023,0.8333333333333334,Actual
+2205,CA1010029,city of sanger,2023,3.0,Actual
+2207,CA3010038,city of santa ana,2023,1.0833333333333333,Actual
+2209,CA4210010,city of santa barbara,2023,1.0,Actual
+2210,CA4310012,city of santa clara,2023,1.1666666666666667,Actual
+2213,CA4410010,city of santa cruz,2023,0.0,Actual
+2214,CA3710023,santa fe irrigation district,2023,1.2727272727272727,Actual
+2215,CA1910245,city of santa fe springs,2023,1.0,Actual
+2217,CA3010101,santa margarita water district,2023,0.5,Actual
+2218,CA4210011,city of santa maria,2023,2.0,Actual
+2220,CA1910146,city of santa monica,2023,2.0,Actual
+2222,CA5610011,city of santa paula,2023,0.0,Actual
+2224,CA4910009,city of santa rosa,2023,0.3333333333333333,Actual
+2237,CA4410013,scotts valley water district,2023,0.5833333333333334,Actual
+2241,CA3010041,city of seal beach,2023,0.7272727272727273,Actual
+2260,CA1510019,city of shafter,2023,1.0,Actual
+2273,CA4510006,city of shasta lake,2023,0.5,Actual
+2290,CA1910148,city of sierra madre,2023,0.6666666666666666,Actual
+2298,CA1910149,city of signal hill,2023,2.0,Actual
+2323,CA2710011,city of soledad,2023,1.0,Actual
+2326,CA4910012,city of sonoma,2023,0.6666666666666666,Actual
+2330,CA4410017,soquel creek water district,2023,3.0,Actual
+2334,CA3010042,south coast water district,2023,1.25,Actual
+2337,"CA0410006,CA0410012",south feather water and power,2023,2.0,Actual
+2341,CA1910152,city of south gate,2023,2.0,Actual
+2345,CA1910154,city of south pasadena,2023,2.0,Actual
+2348,CA0910002,south tahoe public utility district,2023,1.0,Actual
+2381,CA3910012,city of stockton,2023,2.0,Actual
+2401,"CA1910046,CA1910200,CA1910205",suburban water systems - san jose hills,2023,2.0,Actual
+2402,"CA1910059,CA1910174",suburban water systems - whittier/la mirada,2023,1.3636363636363635,Actual
+2405,CA4810005,suisun - solano water authority,2023,0.6666666666666666,Actual
+2419,CA1910157,sunny slope water company,2023,2.25,Actual
+2424,CA3510003,sunnyslope county water district,2023,0.5,Actual
+2425,CA4310014,city of sunnyvale,2023,1.5,Actual
+2432,CA1810001,city of susanville,2023,0.0,Actual
+2437,CA3710025,sweetwater authority,2023,1.0,Actual
+2438,"CA4910004,CA4910028",sweetwater springs water district,2023,1.0,Actual
+2444,"CA0910012,CA3100029,CA3110010,CA3110011,CA3110013,CA3110043,CA3110044",tahoe city public utilities district,2023,1.3333333333333333,Actual
+2466,CA0410008,thermalito water and sewer district,2023,0.0,Actual
+2469,CA5610020,city of thousand oaks,2023,2.0,Actual
+2487,CA1910213,city of torrance,2023,0.0,Actual
+2490,CA3010094,trabuco canyon water district,2023,0.6666666666666666,Actual
+2496,CA3910011,city of tracy,2023,3.0,Actual
+2510,CA5610043,triunfo sanitation district/oak park water service,2023,1.0833333333333333,Actual
+2512,CA2910003,truckee - donner public utilities district,2023,0.0,Actual
+2516,CA5410015,city of tulare,2023,4.0,Actual
+2523,"CA5500363,CA5510001,CA5510002,CA5510003,CA5510012,CA5510013,CA5510015,CA5510021,CA5510025,CA5510028,CA5510033",tuolumne utilities district,2023,0.16666666666666666,Actual
+2524,CA5010019,city of turlock,2023,2.0,Actual
+2528,CA3010046,city of tustin,2023,2.0,Actual
+2530,CA3610049,twentynine palms water district,2023,0.0,Actual
+2536,CA2310003,city of ukiah,2023,0.0,Actual
+2541,CA3610050,city of upland,2023,2.3333333333333335,Actual
+2597,CA4810008,city of vacaville,2023,2.0,Actual
+2602,CA3710002,vallecitos water district,2023,1.4166666666666667,Actual
+2603,"CA4810007,CA4810021",city of vallejo,2023,0.6666666666666666,Actual
+2604,CA3710026,valley center municipal water district,2023,1.5,Actual
+2605,CA1910009,valley county water district,2023,2.0,Actual
+2610,CA4910013,valley of the moon water district,2023,1.4166666666666667,Actual
+2618,CA1910166,valley water company,2023,2.5,Actual
+2626,CA1510029,vaughn water company,2023,2.0,Actual
+2629,CA5610018,ventura county waterworks district no 01 - moorpark,2023,0.75,Actual
+2631,CA5610023,ventura county waterworks district no 08 - simi valley,2023,1.5,Actual
+2633,CA1910167,city of vernon,2023,2.0,Actual
+2635,CA3610052,victorville water district,2023,2.0,Actual
+2649,CA3710027,vista irrigation district,2023,0.6666666666666666,Actual
+2661,CA1910234,walnut valley water district,2023,2.0,Actual
+2662,CA1510021,city of wasco,2023,2.0,Actual
+2669,CA4410011,city of watsonville,2023,2.0,Actual
+2679,CA1510022,west kern water district,2023,1.5833333333333333,Actual
+2683,CA5710003,city of west sacramento,2023,2.0,Actual
+2690,CA3610004,west valley water district,2023,2.0,Actual
+2691,CA4110027,westborough water district,2023,1.0,Actual
+2697,"CA3310036,CA3310049,CA3310076",western municipal water district of riverside,2023,1.3333333333333333,Actual
+2704,CA3010064,city of westminster,2023,0.0,Actual
+2723,CA1910173,city of whittier,2023,1.9166666666666667,Actual
+2751,CA4910017,windsor town of,2023,0.5454545454545454,Actual
+2766,CA5710006,city of woodland,2023,1.5,Actual
+2782,CA3010037,yorba linda water district,2023,0.0,Actual
+2789,CA4710011,city of yreka,2023,2.0,Actual
+2790,CA5110002,yuba city,2023,1.0833333333333333,Actual
+2793,CA3610055,yucaipa valley water district,2023,1.25,Actual
+2891,CA3610125,san bernardino county service area 70 j oak hills,2023,0.5,Actual
+2979,CA2010001,city of chowchilla,2023,1.3333333333333333,Actual
+4231,CA3910027,mountain house community services district,2023,2.0,Actual
+4993,"CA1910017,CA1910096,CA1910240,CA1910247,CA1910250,CA1910255",santa clarita valley water agency,2023,1.1666666666666667,Actual
+13,CA3610001,city of adelanto,2024,2.0,Actual
+23,CA0110001,alameda county water district,2024,0.0,Actual
+23,CA0110001,alameda county water district,2024,1.7142857142857142,Forecasted
+25,CA2710001,alco water service,2024,2.0,Actual
+30,CA1910001,city of alhambra,2024,2.0,Actual
+30,CA1910001,alhambra  city of,2024,0.0,Forecasted
+55,"CA0310002,CA0310003,CA0310012,CA0310019,CA0310021",amador water agency,2024,2.0,Actual
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2024,0.0,Forecasted
+57,CA2810005,city of american canyon,2024,2.0,Actual
+57,CA2810005,american canyon  city of,2024,0.0,Forecasted
+64,CA3010001,city of anaheim,2024,1.0,Actual
+64,CA3010001,anaheim  city of,2024,0.0,Forecasted
+66,CA4510001,city of anderson,2024,1.0,Actual
+66,CA4510001,anderson  city of,2024,0.0,Forecasted
+82,CA0710001,city of antioch,2024,2.0,Actual
+87,CA3610003,apple valley ranchos water company,2024,1.0,Actual
+87,CA3610003,apple valley ranchos water company,2024,0.0,Forecasted
+93,CA1910003,city of arcadia,2024,1.0,Actual
+94,"CA1210001,CA1210021",city of arcata,2024,0.0,Actual
+99,CA4010001,city of arroyo grande,2024,0.0,Actual
+102,CA1510001,arvin community service district,2024,0.0,Actual
+107,CA4010002,atascadero mutual water company,2024,0.0,Actual
+107,CA4010002,atascadero mutual water company,2024,0.0,Forecasted
+110,CA2410001,city of atwater,2024,2.0,Actual
+110,CA2410001,atwater  city of,2024,0.0,Forecasted
+117,CA1910007,azusa light and water,2024,3.0,Actual
+117,CA1910007,azusa light and water,2024,0.0,Forecasted
+124,CA1010001,bakman water company,2024,1.0,Actual
+129,CA3310006,city of banning,2024,2.0,Actual
+155,CA1510038,bear valley community services district,2024,0.0,Actual
+159,CA3310002,beaumont - cherry valley water district,2024,3.0,Actual
+167,CA4510014,bella vista water district,2024,0.0,Actual
+170,CA1910013,bellflower - somerset mutual water company,2024,0.0,Actual
+178,CA4810001,city of benicia,2024,2.0,Actual
+178,CA4810001,benicia  city of,2024,0.0,Forecasted
+193,CA1910156,city of beverly hills,2024,2.0,Actual
+193,CA1910156,beverly hills  city of,2024,0.0,Forecasted
+197,CA3610008,big bear community services district,2024,2.0,Actual
+197,CA3610008,big bear community services district,2024,0.0,Forecasted
+198,"CA3600283,CA3610022,CA3610044",city of big bear lake,2024,0.0,Actual
+241,CA3310003,city of blythe,2024,0.0,Actual
+241,CA3310003,blythe  city of,2024,0.0,Forecasted
+262,CA1310001,city of brawley,2024,2.0,Actual
+263,CA3010002,city of brea,2024,2.0,Actual
+263,CA3010002,brea  city of,2024,0.0,Forecasted
+264,CA0710004,city of brentwood,2024,1.0,Actual
+283,CA3010003,city of buena park,2024,2.0,Actual
+283,CA3010003,buena park  city of,2024,0.0,Forecasted
+285,CA1910179,city of burbank,2024,3.0,Actual
+286,CA4110003,city of burlingame,2024,1.0,Actual
+286,CA4110003,burlingame  city of,2024,0.0,Forecasted
+351,"CA0510004,CA0510005,CA0510006,CA0510016,CA0510017,CA0510019",calaveras county water district,2024,0.0,Actual
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2024,0.0,Forecasted
+353,CA1310002,city of calexico,2024,1.0,Actual
+368,"CA1910052,CA1910139,CA1910186",california american water company - los angeles division,2024,2.0,Actual
+369,"CA2701202,CA2701257,CA2702004,CA2710004,CA2710006,CA2710021,CA2710022",california american water company - monterey district,2024,1.0,Actual
+372,"CA3110150,CA3410010,CA3410012,CA3410013,CA3410017,CA3410031,CA3410045,CA3410047,CA5700712,CA3410023",california american water company - sacramento district,2024,2.0,Actual
+373,CA3710001,california american water company - san diego district,2024,2.0,Actual
+376,"CA5610040,CA5610081",california american water company - ventura district,2024,2.0,Actual
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2024,0.0,Forecasted
+386,"CA1510003, CA1510055",california water service company bakersfield,2024,0.0,Forecasted
+386,"CA1510003,CA1510055",california water service company bakersfield,2024,1.0,Actual
+387,CA4110006,california water service company bear gulch,2024,1.0,Actual
+387,CA4110006,california water service company bear gulch,2024,0.0,Forecasted
+388,"CA0410002, CA1110002",california water service company chico district,2024,0.0,Forecasted
+388,"CA0410002,CA1110002",california water service company chico district,2024,2.0,Actual
+390,CA4810002,california water service company dixon,2024,1.0,Actual
+390,CA4810002,"california water service company dixon, city of",2024,0.0,Forecasted
+391,CA1910033,california water service company dominguez,2024,1.0,Actual
+391,CA1910033,california water service company dominguez,2024,0.0,Forecasted
+392,CA1910036,california water service company east los angeles,2024,1.0,Actual
+392,CA1910036,california water service company east los angeles,2024,0.0,Forecasted
+396,CA1910134,california water service company hermosa/redondo,2024,1.0,Actual
+396,CA1910134,california water service company hermosa/redondo,2024,0.0,Forecasted
+397,"CA1500407,CA1510026,CA1510033,CA1510039,CA1510043,CA1510049,CA1510056",california water service company kern river valley,2024,1.0,Actual
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2024,0.0,Forecasted
+398,CA2710009,california water service company king city,2024,0.0,Forecasted
+401,CA0110003,california water service company livermore,2024,1.0,Actual
+401,CA0110003,california water service company livermore,2024,0.0,Forecasted
+402,CA4310001,california water service company los altos/suburban,2024,1.0,Actual
+402,CA4310001,california water service company los altos/suburban,2024,0.0,Forecasted
+405,CA5810001,california water service company marysville,2024,1.0,Actual
+405,CA5810001,california water service company marysville,2024,0.0,Forecasted
+412,CA0410005,california water service company oroville,2024,1.0,Actual
+412,CA0410005,california water service company oroville,2024,0.0,Forecasted
+413,CA1910104,california water service company palos verdes,2024,1.0,Actual
+413,CA1910104,california water service company palos verdes,2024,0.0,Forecasted
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2024,0.0,Forecasted
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2024,0.0,Forecasted
+417,"CA2701929,CA2710010,CA2710012,CA2710013,CA2710019",california water service company salinas district,2024,1.0,Actual
+420,"CA4110007,CA4110008",california water service company mid peninsula,2024,1.0,Actual
+420,"CA4110008, CA4110007",california water service company mid peninsula,2024,0.0,Forecasted
+421,CA1010024,california water service company selma,2024,1.0,Actual
+421,CA1010024,california water service company selma,2024,0.0,Forecasted
+422,CA4110009,california water service company south san francisco,2024,1.0,Actual
+422,CA4110009,california water service company south san francisco,2024,0.0,Forecasted
+424,CA3910001,california water service company stockton,2024,1.0,Actual
+424,CA3910001,california water service company stockton,2024,0.0,Forecasted
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2024,0.0,Forecasted
+427,"CA5400935,CA5410016,CA5410041",california water service company visalia,2024,1.0,Actual
+428,CA5610016,california water service company westlake,2024,1.0,Actual
+428,CA5610016,california water service company westlake,2024,0.0,Forecasted
+429,CA1110003,california water service company willows,2024,0.0,Forecasted
+443,CA5610019,city of camarillo,2024,1.0,Actual
+443,CA5610019,camarillo  city of,2024,0.0,Forecasted
+445,CA4010014,cambria community service district,2024,1.0,Actual
+445,CA4010014,cambria community service district,2024,0.7142857142857143,Forecasted
+467,CA5610063,camrosa water district,2024,0.0,Actual
+478,CA3710005,carlsbad municipal water district,2024,1.0,Actual
+478,CA3710005,carlsbad municipal water district,2024,0.0,Forecasted
+481,CA3410004,carmichael water district,2024,0.0,Actual
+485,CA4210001,carpinteria valley water district,2024,0.7142857142857143,Actual
+485,CA4210001,carpinteria valley water district,2024,0.0,Forecasted
+495,"CA5610014,CA5610024",casitas municipal water district,2024,0.0,Actual
+522,CA5010028,city of ceres,2024,2.0,Actual
+524,CA1910019,city of cerritos,2024,1.0,Actual
+524,CA1910019,cerritos  city of,2024,0.0,Forecasted
+545,CA3610012,city of chino,2024,2.0,Actual
+545,CA3610012,chino  city of,2024,0.0,Forecasted
+547,CA3610036,city of chino hills,2024,2.0,Actual
+547,CA3610036,chino hills  city of,2024,0.0,Forecasted
+561,CA3410006,citrus heights water district,2024,0.0,Actual
+561,CA3410006,citrus heights water district,2024,0.0,Forecasted
+572,CA4910002,city of cloverdale,2024,1.0,Actual
+574,CA1010003,city of clovis,2024,2.0,Actual
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2024,0.0,Forecasted
+577,"CA3310001,CA3310048",coachella valley water district,2024,1.0,Actual
+578,CA1010004,city of coalinga,2024,0.0,Actual
+583,CA4110011,coastside county water district,2024,0.0,Actual
+583,CA4110011,coastside county water district,2024,0.0,Forecasted
+607,CA1910026,city of compton,2024,1.0,Actual
+607,CA1910026,compton  city of,2024,0.0,Forecasted
+613,CA0710003,contra costa water district,2024,0.0,Actual
+613,CA0710003,contra costa water district,2024,0.0,Forecasted
+618,CA1610004,city of corcoran,2024,1.0,Actual
+624,CA3310037,city of corona,2024,2.0,Actual
+644,CA1910127,city of covina,2024,2.0,Actual
+644,CA1910127,covina  city of,2024,0.0,Forecasted
+649,CA0810001,crescent city,2024,2.0,Actual
+651,CA1910028,crescenta valley community water district,2024,2.0,Actual
+651,CA1910028,crescenta valley community water district,2024,0.0,Forecasted
+664,CA3610018,cucamonga valley water district,2024,0.0,Actual
+673,CA4110013,daly city,2024,2.0,Actual
+678,CA5710001,city of davis,2024,0.0,Actual
+678,CA5710001,davis  city of,2024,0.0,Forecasted
+699,CA0410011,del oro water company,2024,2.0,Actual
+699,CA0410011,del oro water company,2024,0.0,Forecasted
+711,CA1510005,city of delano,2024,0.0,Actual
+727,CA3310005,desert water agency,2024,1.0,Actual
+731,CA0710007,diablo water district,2024,0.0,Actual
+737,CA5410002,city of dinuba,2024,2.0,Actual
+739,CA0710009,discovery bay community services district,2024,0.0,Forecasted
+748,CA1910034,city of downey,2024,1.0,Actual
+759,CA0110009,dublin san ramon services district,2024,2.0,Actual
+775,CA0110005,east bay municipal utility district,2024,0.0,Actual
+775,CA0110005,east bay municipal utility district,2024,0.0,Forecasted
+784,CA1510006,east niles community services district,2024,0.0,Actual
+787,CA4110024,east palo alto  city of,2024,0.0,Forecasted
+793,CA3610064,east valley water district,2024,1.0,Actual
+794,CA3310009,eastern municipal water district,2024,1.0,Actual
+794,CA3310009,eastern municipal water district,2024,0.0,Forecasted
+814,CA1310004,el centro  city of,2024,0.0,Forecasted
+816,"CA0910001,CA0910017,CA0910018",el dorado irrigation district,2024,0.0,Actual
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2024,0.0,Forecasted
+821,CA1910038,city of el monte,2024,3.0,Actual
+827,CA1910040,city of el segundo,2024,1.0,Actual
+830,CA3010079,el toro water district,2024,0.0,Actual
+830,CA3010079,el toro water district,2024,0.0,Forecasted
+835,CA3410008,elk grove water district,2024,0.0,Actual
+835,CA3410008,elk grove water district,2024,0.0,Forecasted
+842,CA3310012,elsinore valley municipal water district,2024,1.0,Actual
+842,CA3310012,elsinore valley municipal water district,2024,0.0,Forecasted
+856,CA4110021,estero municipal improvement district,2024,0.0,Actual
+859,CA1210004,city of eureka,2024,0.0,Actual
+863,CA5410003,city of exeter,2024,0.0,Actual
+866,CA3410009,fair oaks water district,2024,2.0,Actual
+866,CA3410009,fair oaks water district,2024,0.0,Forecasted
+867,CA4810003,city of fairfield,2024,1.0,Actual
+867,CA4810003,fairfield  city of,2024,0.0,Forecasted
+873,CA3710008,fallbrook public utility district,2024,1.0,Actual
+873,CA3710008,fallbrook public utility district,2024,0.0,Forecasted
+890,CA5610002,city of fillmore,2024,0.0,Actual
+890,CA5610002,fillmore  city of,2024,0.2857142857142857,Forecasted
+904,"CA3410014,CA3410030",city of folsom,2024,0.0,Actual
+904,"CA3410030, CA3410014",folsom  city of,2024,0.0,Forecasted
+920,CA1210006,city of fortuna,2024,3.0,Actual
+920,CA1210006,fortuna  city of,2024,0.0,Forecasted
+924,CA3010069,city of fountain valley,2024,0.0,Actual
+934,CA1010007,city of fresno,2024,2.0,Actual
+967,CA3010010,city of fullerton,2024,2.0,Actual
+977,CA3010062,city of garden grove,2024,2.0,Actual
+977,CA3010062,garden grove  city of,2024,0.0,Forecasted
+990,CA0910013,georgetown divide public utility district,2024,0.0,Actual
+995,CA4310004,city of gilroy,2024,2.0,Actual
+1004,CA1910043,city of glendale,2024,3.0,Actual
+1005,CA1910044,city of glendora,2024,3.0,Actual
+1005,CA1910044,glendora  city of,2024,0.0,Forecasted
+1029,CA1910004,golden state water company - artesia,2024,1.0,Actual
+1029,CA1910004,golden state water company - artesia,2024,0.0,Forecasted
+1030,CA1910004,golden state water company - barstow,2024,0.0,Forecasted
+1030,CA3610043,golden state water company - barstow,2024,1.0,Actual
+1031,CA0710002,golden state water company - bay point,2024,1.0,Actual
+1031,CA0710002,golden state water company - bay point,2024,0.0,Forecasted
+1032,CA1910011,golden state water company - bell-bell gardens,2024,1.0,Actual
+1032,CA1910011,golden state water company - bell-bell gardens,2024,0.0,Forecasted
+1034,CA1910024,golden state water company - claremont,2024,1.0,Actual
+1034,CA1910024,golden state water company - claremont,2024,0.0,Forecasted
+1036,CA3410015,golden state water company - cordova,2024,1.0,Actual
+1036,CA3410015,golden state water company - cordova,2024,0.0,Forecasted
+1038,CA1910030,golden state water company - culver city,2024,1.0,Actual
+1038,CA1910030,golden state water company - culver city,2024,0.0,Forecasted
+1041,CA1910077,golden state water company - florence graham,2024,1.0,Actual
+1041,CA1910077,golden state water company - florence graham,2024,0.0,Forecasted
+1049,CA1910098,golden state water company - norwalk,2024,1.0,Actual
+1049,CA1910098,golden state water company - norwalk,2024,0.0,Forecasted
+1052,CA4210016,golden state water company - orcutt,2024,1.0,Actual
+1052,CA4210016,golden state water company - orcutt,2024,0.0,Forecasted
+1053,CA3010035,golden state water company - placentia,2024,1.0,Actual
+1053,CA3010035,golden state water company - placentia,2024,0.0,Forecasted
+1054,CA1910142,golden state water company - san dimas,2024,1.0,Actual
+1054,CA1910142,golden state water company - san dimas,2024,0.0,Forecasted
+1057,CA5610059,golden state water company - simi valley,2024,1.0,Actual
+1057,CA5610059,golden state water company - simi valley,2024,0.0,Forecasted
+1058,CA1910212,golden state water company - south arcadia,2024,1.0,Actual
+1058,CA1910212,golden state water company - south arcadia,2024,0.0,Forecasted
+1059,CA1910223,golden state water company - south san gabriel,2024,1.0,Actual
+1059,CA1910223,golden state water company - south san gabriel,2024,0.0,Forecasted
+1060,CA1910155,golden state water company - southwest,2024,1.0,Actual
+1060,CA1910155,golden state water company - southwest,2024,0.0,Forecasted
+1062,CA3010022,golden state water company - west orange,2024,1.0,Actual
+1062,CA3010022,golden state water company - west orange,2024,0.0,Forecasted
+1068,CA4210004,goleta water district,2024,0.0,Actual
+1083,CA4310022,great oaks water company incorporated,2024,1.0,Actual
+1093,CA2710008,city of greenfield,2024,0.0,Actual
+1094,CA1510024,greenfield county water district,2024,0.0,Actual
+1094,CA1510024,greenfield county water district,2024,0.0,Forecasted
+1109,CA5510009,groveland community services district,2024,0.0,Actual
+1110,CA4010004,city of grover beach,2024,3.0,Actual
+1142,CA1910047,city of hawthorne,2024,1.0,Actual
+1142,CA1910047,hawthorne  city of,2024,0.0,Forecasted
+1143,CA0110006,city of hayward,2024,1.0,Actual
+1144,CA4910005,city of healdsburg,2024,0.0,Actual
+1144,CA4910005,healdsburg  city of,2024,0.0,Forecasted
+1154,CA3710010,helix water district,2024,0.0,Actual
+1154,CA3710010,helix water district,2024,0.0,Forecasted
+1157,CA3310016,hemet  city of,2024,0.0,Forecasted
+1166,CA3610024,hesperia water district,2024,2.0,Actual
+1167,CA3610073,hi desert water district,2024,1.0,Actual
+1181,CA4110016,hillsborough town of,2024,1.0,Actual
+1188,CA3510001,city of hollister,2024,2.0,Actual
+1210,CA1210009,humboldt community services district,2024,0.0,Actual
+1210,CA1210009,humboldt community services district,2024,0.0,Forecasted
+1215,CA3010053,city of huntington beach,2024,1.0,Actual
+1215,CA3010053,huntington beach  city of,2024,0.0,Forecasted
+1217,CA1910049,city of huntington park,2024,2.0,Actual
+1234,CA1510017,indian wells valley water district,2024,2.0,Actual
+1234,CA1510017,indian wells valley water district,2024,0.0,Forecasted
+1236,CA3310020,city of indio,2024,1.0,Actual
+1236,CA3310020,indio  city of,2024,0.0,Forecasted
+1238,CA1910051,city of inglewood,2024,4.0,Actual
+1238,CA1910051,inglewood  city of,2024,0.0,Forecasted
+1245,CA3010092,irvine ranch water district,2024,0.0,Actual
+1245,CA3010092,irvine ranch water district,2024,0.0,Forecasted
+1270,CA3610025,joshua basin water district,2024,2.0,Actual
+1270,CA3610025,joshua basin water district,2024,0.0,Forecasted
+1273,CA3310021,jurupa community service district,2024,0.0,Actual
+1273,CA3310021,jurupa community service district,2024,0.0,Forecasted
+1286,CA1010018,city of kerman,2024,1.0,Actual
+1286,CA1010018,kerman  city of,2024,0.0,Forecasted
+1304,CA1010019,city of kingsburg,2024,2.0,Actual
+1324,CA3010018,city of la habra,2024,2.0,Actual
+1324,CA3010018,la habra  city of,2024,0.0,Forecasted
+1327,CA3010100,city of la palma,2024,0.0,Actual
+1333,CA1910062,la verne  city of,2024,0.0,Forecasted
+1335,CA3010017,laguna beach county water district,2024,0.0,Actual
+1343,CA3610005,lake arrowhead community services district,2024,2.0,Actual
+1343,CA3610005,lake arrowhead community services district,2024,1.1428571428571428,Forecasted
+1352,CA3310022,lake hemet municipal water district,2024,3.0,Actual
+1352,CA3310022,lake hemet municipal water district,2024,0.0,Forecasted
+1368,CA3710013,lakeside water district,2024,1.0,Actual
+1370,CA1910239,city of lakewood,2024,0.0,Actual
+1370,CA1910239,lakewood  city of,2024,0.0,Forecasted
+1371,CA1510012,lamont public utility district,2024,0.0,Actual
+1384,CA1910225,las virgenes municipal water district,2024,0.0,Actual
+1384,CA1910225,las virgenes municipal water district,2024,0.0,Forecasted
+1388,CA3910015,city of lathrop,2024,0.0,Actual
+1388,CA3910015,lathrop  city of,2024,0.0,Forecasted
+1408,CA3310074,temescal valley water district,2024,1.0,Actual
+1415,CA1610005,city of lemoore,2024,4.0,Actual
+1424,CA3110004,city of lincoln,2024,0.0,Actual
+1425,CA1910063,lincoln avenue water company,2024,3.0,Actual
+1427,CA5810002,linda county water district,2024,0.0,Actual
+1427,CA5810002,linda county water district,2024,0.0,Forecasted
+1432,CA5410006,city of lindsay,2024,4.0,Actual
+1443,CA0110001,livermore  city of,2024,0.0,Forecasted
+1443,CA0110011,city of livermore,2024,0.0,Actual
+1444,CA5010013,livingston  city of,2024,0.0,Forecasted
+1450,CA3910004,city of lodi,2024,1.0,Actual
+1450,CA3910004,lodi  city of,2024,0.0,Forecasted
+1452,CA3610013,city of loma linda,2024,0.0,Actual
+1452,CA3610013,loma linda  city of,2024,0.0,Forecasted
+1456,CA1910073,city of lomita,2024,1.0,Actual
+1459,CA4210006,city of lompoc,2024,2.0,Actual
+1459,CA4210006,lompoc  city of,2024,0.0,Forecasted
+1464,CA1910065,city of long beach,2024,1.0,Actual
+1473,CA1910067,los angeles city department of water and power,2024,2.0,Actual
+1481,CA1910204,los angeles county waterworks district 29 - malibu & marina del rey,2024,2.0,Actual
+1484,"CA1910005,CA1910025,CA1910027,CA1910070,CA1910203",los angeles county waterworks district 40 - antelope valley,2024,2.0,Actual
+1487,CA2410005,city of los banos,2024,1.0,Actual
+1506,CA1910079,city of lynwood,2024,2.0,Actual
+1510,CA2010002,city of madera,2024,1.0,Actual
+1533,CA2610001,mammoth community water district,2024,1.4285714285714286,Actual
+1536,CA1910083,city of manhattan beach,2024,2.0,Actual
+1539,CA3910005,city of manteca,2024,2.0,Actual
+1546,CA2110002,marin municipal water district,2024,0.0,Actual
+1546,CA2110003,marin municipal water district,2024,0.0,Forecasted
+1547,CA2710017,marina coast water district,2024,0.0,Actual
+1547,"CA2710017, CA2790009",marina coast water district,2024,0.0,Forecasted
+1554,CA0710006,city of martinez,2024,0.0,Actual
+1554,CA0710006,martinez  city of,2024,0.0,Forecasted
+1570,CA,mckinleyville community services district,2024,0.0,Forecasted
+1570,CA1210016,mckinleyville community services district,2024,2.0,Actual
+1587,CA4110017,city of menlo park,2024,0.0,Actual
+1589,CA2410009,city of merced,2024,2.0,Actual
+1589,CA2410009,merced  city of,2024,0.0,Forecasted
+1596,CA3010004,mesa water district,2024,0.0,Actual
+1596,CA3010004,mesa water district,2024,0.0,Forecasted
+1605,CA4110001,mid-peninsula water district,2024,1.0,Actual
+1613,CA4110018,city of millbrae,2024,1.0,Actual
+1613,CA4110018,millbrae  city of,2024,0.0,Forecasted
+1619,CA4310005,city of milpitas,2024,0.0,Actual
+1626,"CA3310008,CA3310078,CA3310081",mission springs water district,2024,1.0,Actual
+1631,"CA5010005,CA5010010,CA5010023,CA5010029,CA5010031,CA5010033,CA5010034,CA5010035",city of modesto,2024,2.0,Actual
+1639,CA1910090,city of monrovia,2024,2.0,Actual
+1642,CA3610029,monte vista water district,2024,0.0,Actual
+1642,CA3610029,monte vista water district,2024,0.0,Forecasted
+1644,CA1910091,montebello land and water company,2024,2.0,Actual
+1644,CA1910091,montebello land and water company,2024,0.0,Forecasted
+1645,CA4210007,montecito water district,2024,1.0,Actual
+1650,CA1910092,city of monterey park,2024,2.0,Actual
+1650,CA1910092,monterey park  city of,2024,0.0,Forecasted
+1656,CA4310006,city of morgan hill,2024,4.0,Actual
+1663,CA3010073,moulton niguel water district,2024,0.0,Actual
+1671,CA4310007,city of mountain view,2024,0.0,Actual
+1671,CA4310007,mountain view  city of,2024,0.0,Forecasted
+1697,CA3310051,myoma dunes mutual water company,2024,1.0,Actual
+1701,CA2810003,city of napa,2024,0.0,Actual
+1701,CA2810003,napa  city of,2024,0.0,Forecasted
+1718,"CA2910004, CA2910014, CA2910023, CA2910006, CA3110026, CA5810005",nevada irrigation district,2024,0.0,Forecasted
+1718,"CA2910004,CA2910006,CA2910014,CA2910023,CA3110026,CA5810005",nevada irrigation district,2024,1.0,Actual
+1729,CA5010013,city of newman,2024,0.0,Actual
+1729,CA5010013,newman  city of,2024,0.0,Forecasted
+1730,CA3010023,city of newport beach,2024,0.0,Actual
+1731,CA4010026,nipomo community service district,2024,4.428571428571429,Actual
+1732,CA3310025,city of norco,2024,1.0,Actual
+1739,CA4110025,north coast county water district,2024,0.0,Actual
+1748,CA2110003,north marin water district,2024,0.0,Actual
+1748,CA2110003,north marin water district,2024,0.0,Forecasted
+1752,"CA3110001,CA3110023,CA3110036",north tahoe public utilities district,2024,2.0,Actual
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2024,0.0,Forecasted
+1756,CA1910191,city of norwalk,2024,2.0,Actual
+1765,CA5010014,city of oakdale,2024,0.0,Actual
+1777,CA3710014,city of oceanside,2024,1.0,Actual
+1792,"CA5805001,CA5810003",olivehurst public utilities district,2024,2.0,Actual
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2024,0.0,Forecasted
+1793,CA3710029,olivenhain municipal water district,2024,1.0,Actual
+1793,CA3710029,olivenhain municipal water district,2024,0.0,Forecasted
+1795,CA3610034,city of ontario,2024,0.0,Actual
+1797,CA3010027,city of orange,2024,0.0,Actual
+1797,CA3010027,orange  city of,2024,0.0,Forecasted
+1803,CA3410016,orangevale water company,2024,1.0,Actual
+1804,CA1910101,orchard dale water district,2024,2.0,Actual
+1804,CA1910101,orchard dale water district,2024,2.142857142857143,Forecasted
+1821,CA3710034,otay water district,2024,0.0,Actual
+1827,CA5610007,city of oxnard,2024,1.0,Actual
+1827,CA5610007,oxnard  city of,2024,0.0,Forecasted
+1838,CA3710037,padre dam municipal water district,2024,0.0,Actual
+1849,CA1910102,palmdale water district,2024,0.0,Actual
+1851,CA4310009,city of palo alto,2024,1.0,Actual
+1851,CA4310009,palo alto  city of,2024,0.0,Forecasted
+1859,CA0410007,paradise irrigation district,2024,0.0,Forecasted
+1866,CA1910105,city of paramount,2024,1.0,Actual
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2024,0.0,Forecasted
+1869,"CA1910021,CA1910161,CA1910211",liberty utilities (park water) corp,2024,1.0,Actual
+1873,CA1910124,city of pasadena,2024,2.0,Actual
+1875,CA4010007,city of paso robles,2024,2.0,Actual
+1877,CA5010017,city of patterson,2024,1.0,Actual
+1894,CA4910006,city of petaluma,2024,0.0,Actual
+1894,CA4910006,petaluma  city of,2024,0.0,Forecasted
+1896,CA3610120,phelan pinon hills community services district,2024,1.0,Actual
+1896,CA3610120,phelan pinon hills community services district,2024,0.0,Forecasted
+1899,CA1910042,city of pico rivera,2024,2.0,Actual
+1900,CA1910125,pico water district,2024,1.0,Actual
+1923,CA4010008,city of pismo beach,2024,0.0,Actual
+1923,CA4010008,pismo beach  city of,2024,0.0,Forecasted
+1925,CA0710008,city of pittsburg,2024,1.0,Actual
+1927,"CA3110005,CA3110006,CA3110024,CA3110025,CA3110040,CA3110050,CA3110124",placer county water agency,2024,0.0,Actual
+1927,"CA3110124, CA3110040, CA3110024, CA3110025, CA3110005, CA3110006, CA3110050",placer county water agency,2024,0.0,Forecasted
+1940,CA0110008,city of pleasanton,2024,0.0,Actual
+1940,CA0110008,pleasanton  city of,2024,0.0,Forecasted
+1945,CA1910126,city of pomona,2024,2.0,Actual
+1945,CA1910126,pomona  city of,2024,0.0,Forecasted
+1953,CA5610009,city of port hueneme,2024,1.0,Actual
+1964,CA3710015,city of poway,2024,1.0,Actual
+1964,CA3710015,poway  city of,2024,0.0,Forecasted
+1983,CA1910130,quartz hill water district,2024,2.0,Actual
+1983,CA4010002,quartz hill water district,2024,0.0,Forecasted
+1990,CA3710016,rainbow municipal water district,2024,0.0,Actual
+1996,CA3710019,ramona municipal water district,2024,1.0,Actual
+2000,CA3310038,rancho california water district,2024,1.0,Actual
+2000,CA3310038,rancho california water district,2024,0.0,Forecasted
+2031,CA5210004,city of red bluff,2024,2.0,Actual
+2033,CA4510005,city of redding,2024,1.0,Actual
+2033,CA4510005,redding  city of,2024,0.0,Forecasted
+2035,CA3610037,city of redlands,2024,2.0,Actual
+2037,CA4110022,redwood city,2024,0.0,Actual
+2042,CA1010027,city of reedley,2024,0.0,Actual
+2049,CA3610038,city of rialto,2024,2.0,Actual
+2057,"CA3710018,CA3710044",rincon del diablo municipal water district,2024,1.0,Actual
+2060,CA3410018,rio linda - elverta community water district,2024,2.0,Actual
+2063,CA4810004,city of rio vista,2024,2.0,Actual
+2063,CA4810004,rio vista  city of,2024,0.0,Forecasted
+2065,CA3910007,city of ripon,2024,2.0,Actual
+2074,CA5010018,city of riverbank,2024,0.0,Actual
+2083,CA3310031,city of riverside,2024,0.0,Actual
+2083,CA3310031,riverside  city of,2024,0.0,Forecasted
+2087,CA3610057,riverside highland water company,2024,2.0,Actual
+2087,CA3610057,riverside highland water company,2024,0.0,Forecasted
+2103,CA4910014,city of rohnert park,2024,0.0,Actual
+2107,CA1510018,rosamond community service district,2024,2.0,Actual
+2111,CA3110008,city of roseville,2024,1.0,Actual
+2111,CA3110008,roseville  city of,2024,0.0,Forecasted
+2115,CA1910194,rowland water district,2024,2.0,Actual
+2115,CA1910194,rowland water district,2024,0.0,Forecasted
+2118,CA3310044,rubidoux community service district,2024,1.0,Actual
+2119,CA1910140,rubio canyon land and water association,2024,2.0,Actual
+2119,CA1910140,rubio canyon land and water association,2024,0.0,Forecasted
+2122,CA3610062,running springs water district,2024,2.0,Actual
+2122,CA3610062,running springs water district,2024,0.0,Forecasted
+2130,CA3410020,city of sacramento,2024,2.0,Actual
+2132,"CA3400101,CA3400106,CA3400156,CA3410002,CA3410029,CA3410704",sacramento county water agency,2024,1.0,Actual
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2024,0.0,Forecasted
+2140,CA3410001,sacramento suburban water district,2024,0.0,Actual
+2150,CA3610039,city of san bernardino,2024,3.0,Actual
+2157,CA4110023,city of san bruno,2024,1.0,Actual
+2157,CA4110023,san bruno  city of,2024,0.0,Forecasted
+2158,CA5610017,city of (ventura) san buenaventura,2024,0.0,Actual
+2159,CA3010036,city of san clemente,2024,0.0,Actual
+2160,CA3710020,city of san diego,2024,0.0,Actual
+2162,CA3710021,san dieguito water district,2024,1.0,Actual
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2024,0.0,Forecasted
+2164,"CA0110012,CA0110018,CA3810011",san francisco public utilities commission,2024,0.0,Actual
+2165,CA1910144,san gabriel county water district,2024,1.0,Actual
+2166,CA3610041,san gabriel valley water company fontana division,2024,1.0,Actual
+2167,"CA1910039, CA1910189",san gabriel valley water company,2024,0.0,Forecasted
+2167,"CA1910039,CA1910189",san gabriel valley water company,2024,1.0,Actual
+2169,CA3310032,city of san jacinto,2024,2.0,Actual
+2169,CA3310032,san jacinto  city of,2024,0.0,Forecasted
+2174,"CA4310019, CA4310020",san jose  city of,2024,0.0,Forecasted
+2174,"CA4310019,CA4310020",city of san jose,2024,1.0,Actual
+2175,"CA4310011,CA4310018",san jose water company,2024,2.0,Actual
+2175,"CA4310018, CA4310011",san jose water company,2024,0.0,Forecasted
+2177,CA3010030,city of san juan capistrano,2024,0.0,Actual
+2179,CA3410021,san juan water district,2024,0.0,Actual
+2180,"CA4410002,CA4410014",san lorenzo valley water district,2024,0.0,Actual
+2182,CA4010009,city of san luis obispo,2024,0.0,Actual
+2207,CA3010038,city of santa ana,2024,0.0,Actual
+2209,CA4210010,city of santa barbara,2024,0.0,Actual
+2209,CA4210010,santa barbara  city of,2024,0.0,Forecasted
+2210,CA4310012,city of santa clara,2024,0.0,Actual
+2213,CA4410010,city of santa cruz,2024,0.0,Actual
+2213,CA4410010,santa cruz  city of,2024,0.0,Forecasted
+2215,CA1910245,city of santa fe springs,2024,1.0,Actual
+2215,CA1910245,santa fe springs  city of,2024,0.0,Forecasted
+2217,CA3010101,santa margarita water district,2024,0.0,Actual
+2220,CA1910146,city of santa monica,2024,2.0,Actual
+2220,CA1910146,santa monica  city of,2024,0.0,Forecasted
+2222,CA5610011,city of santa paula,2024,0.0,Actual
+2224,CA4910009,city of santa rosa,2024,0.0,Actual
+2237,CA4410013,scotts valley water district,2024,0.0,Actual
+2241,CA3010041,city of seal beach,2024,0.0,Actual
+2241,CA3010041,seal beach  city of,2024,0.0,Forecasted
+2260,CA1510019,city of shafter,2024,1.0,Actual
+2260,CA1510019,shafter  city of,2024,0.0,Forecasted
+2273,CA4510006,city of shasta lake,2024,0.0,Actual
+2273,CA4510006,shasta lake  city of,2024,0.0,Forecasted
+2290,CA1910148,city of sierra madre,2024,0.0,Actual
+2290,CA1910148,sierra madre  city of,2024,0.0,Forecasted
+2298,CA1910149,city of signal hill,2024,2.0,Actual
+2298,CA1910149,signal hill  city of,2024,0.0,Forecasted
+2323,CA2710011,city of soledad,2024,1.0,Actual
+2323,CA2710011,soledad  city of,2024,0.42857142857142855,Forecasted
+2326,CA4910012,city of sonoma,2024,0.0,Actual
+2330,CA4410017,soquel creek water district,2024,3.0,Actual
+2330,CA4410017,soquel creek water district,2024,0.0,Forecasted
+2334,CA3010042,south coast water district,2024,1.0,Actual
+2334,CA3010042,south coast water district,2024,0.0,Forecasted
+2337,"CA0410006, CA0410012",south feather water and power,2024,0.0,Forecasted
+2337,"CA0410006,CA0410012",south feather water and power,2024,2.0,Actual
+2341,CA1910152,city of south gate,2024,2.0,Actual
+2341,CA1910152,south gate  city of,2024,0.0,Forecasted
+2345,CA1910154,city of south pasadena,2024,2.0,Actual
+2348,CA0910002,south tahoe public utility district,2024,1.0,Actual
+2348,CA0910002,south tahoe public utility district,2024,0.0,Forecasted
+2381,CA3910012,city of stockton,2024,1.5714285714285714,Actual
+2402,"CA1910059,CA1910174",suburban water systems - whittier/la mirada,2024,1.0,Actual
+2405,CA4810005,suisun - solano water authority,2024,2.0,Actual
+2419,CA1910157,sunny slope water company,2024,2.0,Actual
+2424,CA3510003,sunnyslope county water district,2024,0.0,Actual
+2425,CA4310014,city of sunnyvale,2024,1.0,Actual
+2432,CA1810001,city of susanville,2024,0.0,Actual
+2437,CA3710025,sweetwater authority,2024,1.0,Actual
+2438,"CA4910004,CA4910028",sweetwater springs water district,2024,1.0,Actual
+2438,"CA4910028, CA4910004",sweetwater springs water district,2024,0.0,Forecasted
+2444,"CA0910012,CA3100029,CA3110010,CA3110011,CA3110013,CA3110043,CA3110044",tahoe city public utilities district,2024,1.0,Actual
+2466,CA0410008,thermalito water and sewer district,2024,0.0,Actual
+2469,CA5610020,city of thousand oaks,2024,1.0,Actual
+2487,CA1910213,city of torrance,2024,0.0,Actual
+2487,CA1910213,torrance  city of,2024,0.0,Forecasted
+2490,CA3010094,trabuco canyon water district,2024,0.0,Actual
+2490,CA3010094,trabuco canyon water district,2024,0.0,Forecasted
+2496,CA3910011,city of tracy,2024,3.0,Actual
+2510,CA5610043,triunfo sanitation district/oak park water service,2024,1.0,Actual
+2510,CA5610043,triunfo sanitation district/oak park water service,2024,0.0,Forecasted
+2512,CA2910003,truckee - donner public utilities district,2024,0.0,Actual
+2516,CA5410015,city of tulare,2024,4.0,Actual
+2516,CA5410015,tulare  city of,2024,0.0,Forecasted
+2523,"CA5500363,CA5510001,CA5510002,CA5510003,CA5510012,CA5510013,CA5510015,CA5510021,CA5510025,CA5510028,CA5510033",tuolumne utilities district,2024,0.0,Actual
+2524,CA5010019,city of turlock,2024,2.0,Actual
+2524,CA5010019,turlock  city of,2024,0.14285714285714285,Forecasted
+2528,CA3010046,city of tustin,2024,0.7142857142857143,Actual
+2528,CA3010046,tustin  city of,2024,0.0,Forecasted
+2530,CA3610049,twentynine palms water district,2024,0.0,Actual
+2536,CA2310003,city of ukiah,2024,0.0,Actual
+2541,CA3610050,city of upland,2024,0.0,Actual
+2597,CA4810008,city of vacaville,2024,2.0,Actual
+2597,CA4810008,vacaville  city of,2024,0.0,Forecasted
+2602,CA3710002,vallecitos water district,2024,0.7142857142857143,Actual
+2602,CA3710002,vallecitos water district,2024,0.0,Forecasted
+2603,"CA4810007,CA4810021",city of vallejo,2024,0.0,Actual
+2604,CA3710026,valley center municipal water district,2024,1.0,Actual
+2604,CA3710026,valley center municipal water district,2024,0.0,Forecasted
+2610,CA4910013,valley of the moon water district,2024,1.0,Actual
+2610,CA4910013,valley of the moon water district,2024,0.0,Forecasted
+2618,CA1910166,valley water company,2024,1.7142857142857142,Actual
+2626,CA1510029,vaughn water company,2024,2.0,Actual
+2629,CA,ventura county waterworks district no 01 - moorpark,2024,0.0,Forecasted
+2629,CA5610018,ventura county waterworks district no 01 - moorpark,2024,0.0,Actual
+2631,CA5610023,ventura county waterworks district no 08 - simi valley,2024,1.0,Actual
+2633,CA1910167,city of vernon,2024,2.0,Actual
+2635,CA3610052,victorville water district,2024,2.0,Actual
+2635,CA3610052,victorville water district,2024,0.0,Forecasted
+2649,CA3710027,vista irrigation district,2024,0.0,Actual
+2649,CA3710027,vista irrigation district,2024,0.0,Forecasted
+2661,CA1910234,walnut valley water district,2024,2.0,Actual
+2661,CA1910234,walnut valley water district,2024,0.0,Forecasted
+2662,CA1510021,city of wasco,2024,2.0,Actual
+2669,CA4410011,city of watsonville,2024,2.0,Actual
+2679,CA1510022,west kern water district,2024,1.0,Actual
+2683,CA5710003,city of west sacramento,2024,2.0,Actual
+2690,CA3610004,west valley water district,2024,0.0,Forecasted
+2691,CA4110027,westborough water district,2024,0.0,Actual
+2697,"CA3310036, CA3310076, CA3310049",western municipal water district of riverside,2024,0.0,Forecasted
+2697,"CA3310036,CA3310049,CA3310076",western municipal water district of riverside,2024,1.0,Actual
+2704,CA3010064,city of westminster,2024,0.0,Actual
+2704,CA3010064,westminster  city of,2024,0.0,Forecasted
+2723,CA1910173,city of whittier,2024,1.0,Actual
+2751,CA4910017,windsor town of,2024,0.0,Actual
+2751,CA4910017,windsor  town of,2024,0.0,Forecasted
+2766,CA5710006,city of woodland,2024,0.0,Actual
+2766,CA5710006,woodland  city of,2024,0.0,Forecasted
+2782,CA3010037,yorba linda water district,2024,0.0,Actual
+2782,CA3010037,yorba linda water district,2024,0.0,Forecasted
+2789,CA4710011,city of yreka,2024,2.0,Actual
+2790,CA5110002,yuba city,2024,0.0,Actual
+2790,CA5110002,yuba city,2024,0.0,Forecasted
+2793,CA3610055,yucaipa valley water district,2024,1.0,Actual
+2979,CA2010001,city of chowchilla,2024,1.0,Actual
+4231,CA3910027,mountain house community services district,2024,2.0,Actual
+4231,CA3910027,mountain house community services district,2024,0.14285714285714285,Forecasted
+4993,"CA1910017,CA1910096,CA1910240,CA1910247,CA1910250,CA1910255",santa clarita valley water agency,2024,0.0,Actual
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2024,0.2857142857142857,Forecasted
+23,CA0110001,alameda county water district,2025,1.0,Forecasted
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2025,0.0,Forecasted
+57,CA2810005,american canyon  city of,2025,0.0,Forecasted
+66,CA4510001,anderson  city of,2025,0.0,Forecasted
+87,CA3610003,apple valley ranchos water company,2025,0.0,Forecasted
+107,CA4010002,atascadero mutual water company,2025,0.0,Forecasted
+110,CA2410001,atwater  city of,2025,0.0,Forecasted
+117,CA1910007,azusa light and water,2025,0.5,Forecasted
+193,CA1910156,beverly hills  city of,2025,0.0,Forecasted
+197,CA3610008,big bear community services district,2025,0.0,Forecasted
+241,CA3310003,blythe  city of,2025,0.0,Forecasted
+286,CA4110003,burlingame  city of,2025,0.0,Forecasted
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2025,0.0,Forecasted
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2025,0.0,Forecasted
+386,"CA1510003, CA1510055",california water service company bakersfield,2025,0.0,Forecasted
+387,CA4110006,california water service company bear gulch,2025,0.0,Forecasted
+388,"CA0410002, CA1110002",california water service company chico district,2025,0.0,Forecasted
+390,CA4810002,"california water service company dixon, city of",2025,0.0,Forecasted
+391,CA1910033,california water service company dominguez,2025,0.0,Forecasted
+392,CA1910036,california water service company east los angeles,2025,0.0,Forecasted
+396,CA1910134,california water service company hermosa/redondo,2025,0.0,Forecasted
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2025,0.0,Forecasted
+398,CA2710009,california water service company king city,2025,0.0,Forecasted
+401,CA0110003,california water service company livermore,2025,0.0,Forecasted
+402,CA4310001,california water service company los altos/suburban,2025,0.0,Forecasted
+405,CA5810001,california water service company marysville,2025,0.0,Forecasted
+412,CA0410005,california water service company oroville,2025,0.0,Forecasted
+413,CA1910104,california water service company palos verdes,2025,0.0,Forecasted
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2025,0.0,Forecasted
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2025,0.0,Forecasted
+420,"CA4110008, CA4110007",california water service company mid peninsula,2025,0.0,Forecasted
+421,CA1010024,california water service company selma,2025,0.0,Forecasted
+422,CA4110009,california water service company south san francisco,2025,0.0,Forecasted
+424,CA3910001,california water service company stockton,2025,0.0,Forecasted
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2025,0.0,Forecasted
+428,CA5610016,california water service company westlake,2025,0.0,Forecasted
+429,CA1110003,california water service company willows,2025,0.0,Forecasted
+443,CA5610019,camarillo  city of,2025,0.0,Forecasted
+445,CA4010014,cambria community service district,2025,0.16666666666666666,Forecasted
+478,CA3710005,carlsbad municipal water district,2025,0.0,Forecasted
+485,CA4210001,carpinteria valley water district,2025,0.0,Forecasted
+524,CA1910019,cerritos  city of,2025,0.0,Forecasted
+545,CA3610012,chino  city of,2025,0.0,Forecasted
+547,CA3610036,chino hills  city of,2025,0.0,Forecasted
+561,CA3410006,citrus heights water district,2025,0.0,Forecasted
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2025,0.0,Forecasted
+583,CA4110011,coastside county water district,2025,0.0,Forecasted
+607,CA1910026,compton  city of,2025,0.0,Forecasted
+644,CA1910127,covina  city of,2025,0.0,Forecasted
+651,CA1910028,crescenta valley community water district,2025,0.0,Forecasted
+678,CA5710001,davis  city of,2025,0.0,Forecasted
+699,CA0410011,del oro water company,2025,0.0,Forecasted
+739,CA0710009,discovery bay community services district,2025,0.0,Forecasted
+787,CA4110024,east palo alto  city of,2025,0.0,Forecasted
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2025,0.0,Forecasted
+830,CA3010079,el toro water district,2025,0.0,Forecasted
+835,CA3410008,elk grove water district,2025,0.0,Forecasted
+842,CA3310012,elsinore valley municipal water district,2025,0.0,Forecasted
+866,CA3410009,fair oaks water district,2025,0.0,Forecasted
+873,CA3710008,fallbrook public utility district,2025,0.0,Forecasted
+890,CA5610002,fillmore  city of,2025,0.0,Forecasted
+904,"CA3410030, CA3410014",folsom  city of,2025,0.0,Forecasted
+920,CA1210006,fortuna  city of,2025,0.0,Forecasted
+1005,CA1910044,glendora  city of,2025,0.0,Forecasted
+1029,CA1910004,golden state water company - artesia,2025,0.0,Forecasted
+1030,CA1910004,golden state water company - barstow,2025,0.0,Forecasted
+1031,CA0710002,golden state water company - bay point,2025,0.0,Forecasted
+1032,CA1910011,golden state water company - bell-bell gardens,2025,0.0,Forecasted
+1034,CA1910024,golden state water company - claremont,2025,0.0,Forecasted
+1036,CA3410015,golden state water company - cordova,2025,0.0,Forecasted
+1038,CA1910030,golden state water company - culver city,2025,0.0,Forecasted
+1041,CA1910077,golden state water company - florence graham,2025,0.0,Forecasted
+1049,CA1910098,golden state water company - norwalk,2025,0.0,Forecasted
+1052,CA4210016,golden state water company - orcutt,2025,0.0,Forecasted
+1053,CA3010035,golden state water company - placentia,2025,0.0,Forecasted
+1054,CA1910142,golden state water company - san dimas,2025,0.0,Forecasted
+1057,CA5610059,golden state water company - simi valley,2025,0.0,Forecasted
+1058,CA1910212,golden state water company - south arcadia,2025,0.0,Forecasted
+1059,CA1910223,golden state water company - south san gabriel,2025,0.0,Forecasted
+1060,CA1910155,golden state water company - southwest,2025,0.0,Forecasted
+1062,CA3010022,golden state water company - west orange,2025,0.0,Forecasted
+1094,CA1510024,greenfield county water district,2025,0.0,Forecasted
+1142,CA1910047,hawthorne  city of,2025,0.0,Forecasted
+1144,CA4910005,healdsburg  city of,2025,0.0,Forecasted
+1157,CA3310016,hemet  city of,2025,0.0,Forecasted
+1210,CA1210009,humboldt community services district,2025,0.0,Forecasted
+1234,CA1510017,indian wells valley water district,2025,0.0,Forecasted
+1236,CA3310020,indio  city of,2025,0.0,Forecasted
+1238,CA1910051,inglewood  city of,2025,0.0,Forecasted
+1245,CA3010092,irvine ranch water district,2025,0.0,Forecasted
+1270,CA3610025,joshua basin water district,2025,0.0,Forecasted
+1273,CA3310021,jurupa community service district,2025,0.0,Forecasted
+1286,CA1010018,kerman  city of,2025,0.0,Forecasted
+1333,CA1910062,la verne  city of,2025,0.0,Forecasted
+1343,CA3610005,lake arrowhead community services district,2025,0.16666666666666666,Forecasted
+1370,CA1910239,lakewood  city of,2025,0.0,Forecasted
+1384,CA1910225,las virgenes municipal water district,2025,0.0,Forecasted
+1388,CA3910015,lathrop  city of,2025,0.0,Forecasted
+1424,CA3110004,lincoln  city of,2025,0.0,Forecasted
+1443,CA0110001,livermore  city of,2025,0.0,Forecasted
+1444,CA5010013,livingston  city of,2025,0.0,Forecasted
+1450,CA3910004,lodi  city of,2025,0.0,Forecasted
+1452,CA3610013,loma linda  city of,2025,0.0,Forecasted
+1459,CA4210006,lompoc  city of,2025,0.0,Forecasted
+1546,CA2110003,marin municipal water district,2025,0.0,Forecasted
+1547,"CA2710017, CA2790009",marina coast water district,2025,0.0,Forecasted
+1570,CA,mckinleyville community services district,2025,0.0,Forecasted
+1589,CA2410009,merced  city of,2025,0.0,Forecasted
+1613,CA4110018,millbrae  city of,2025,0.0,Forecasted
+1644,CA1910091,montebello land and water company,2025,0.0,Forecasted
+1650,CA1910092,monterey park  city of,2025,0.0,Forecasted
+1671,CA4310007,mountain view  city of,2025,0.0,Forecasted
+1701,CA2810003,napa  city of,2025,0.0,Forecasted
+1729,CA5010013,newman  city of,2025,0.0,Forecasted
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2025,0.0,Forecasted
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2025,0.0,Forecasted
+1793,CA3710029,olivenhain municipal water district,2025,0.0,Forecasted
+1804,CA1910101,orchard dale water district,2025,1.5,Forecasted
+1827,CA5610007,oxnard  city of,2025,0.0,Forecasted
+1849,CA1910102,palmdale water district,2025,0.0,Forecasted
+1851,CA4310009,palo alto  city of,2025,0.0,Forecasted
+1859,CA0410007,paradise irrigation district,2025,0.0,Forecasted
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2025,0.0,Forecasted
+1873,CA1910124,pasadena  city of,2025,0.0,Forecasted
+1896,CA3610120,phelan pinon hills community services district,2025,0.0,Forecasted
+1923,CA4010008,pismo beach  city of,2025,0.0,Forecasted
+1940,CA0110008,pleasanton  city of,2025,0.0,Forecasted
+1945,CA1910126,pomona  city of,2025,0.0,Forecasted
+1983,CA4010002,quartz hill water district,2025,0.0,Forecasted
+2033,CA4510005,redding  city of,2025,0.0,Forecasted
+2063,CA4810004,rio vista  city of,2025,0.0,Forecasted
+2083,CA3310031,riverside  city of,2025,0.0,Forecasted
+2087,CA3610057,riverside highland water company,2025,0.0,Forecasted
+2103,CA4910014,rohnert park  city of,2025,0.0,Forecasted
+2107,CA1510018,rosamond community service district,2025,0.0,Forecasted
+2111,CA3110008,roseville  city of,2025,0.0,Forecasted
+2115,CA1910194,rowland water district,2025,0.0,Forecasted
+2119,CA1910140,rubio canyon land and water association,2025,0.0,Forecasted
+2122,CA3610062,running springs water district,2025,0.0,Forecasted
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2025,0.0,Forecasted
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2025,0.0,Forecasted
+2166,CA3610041,san gabriel valley water company   fontana division,2025,0.0,Forecasted
+2167,"CA1910039, CA1910189",san gabriel valley water company,2025,0.0,Forecasted
+2169,CA3310032,san jacinto  city of,2025,0.0,Forecasted
+2175,"CA4310018, CA4310011",san jose water company,2025,0.0,Forecasted
+2179,CA3410021,san juan water district,2025,0.0,Forecasted
+2209,CA4210010,santa barbara  city of,2025,0.0,Forecasted
+2213,CA4410010,santa cruz  city of,2025,0.0,Forecasted
+2215,CA1910245,santa fe springs  city of,2025,0.0,Forecasted
+2217,CA3010101,santa margarita water district,2025,0.0,Forecasted
+2224,CA4910009,santa rosa  city of,2025,0.0,Forecasted
+2260,CA1510019,shafter  city of,2025,0.0,Forecasted
+2273,CA4510006,shasta lake  city of,2025,0.0,Forecasted
+2290,CA1910148,sierra madre  city of,2025,0.0,Forecasted
+2298,CA1910149,signal hill  city of,2025,0.0,Forecasted
+2323,CA2710011,soledad  city of,2025,0.0,Forecasted
+2337,"CA0410006, CA0410012",south feather water and power,2025,0.0,Forecasted
+2341,CA1910152,south gate  city of,2025,0.0,Forecasted
+2438,"CA4910028, CA4910004",sweetwater springs water district,2025,0.0,Forecasted
+2487,CA1910213,torrance  city of,2025,0.0,Forecasted
+2512,CA2910003,truckee - donner public utilities district,2025,0.0,Forecasted
+2516,CA5410015,tulare  city of,2025,0.0,Forecasted
+2524,CA5010019,turlock  city of,2025,0.0,Forecasted
+2597,CA4810008,vacaville  city of,2025,0.0,Forecasted
+2602,CA3710002,vallecitos water district,2025,0.0,Forecasted
+2610,CA4910013,valley of the moon water district,2025,0.0,Forecasted
+2629,CA,ventura county waterworks district no 01 - moorpark,2025,0.0,Forecasted
+2633,CA1910167,vernon  city of,2025,0.0,Forecasted
+2690,CA3610004,west valley water district,2025,0.0,Forecasted
+2766,CA5710006,woodland  city of,2025,0.0,Forecasted
+2790,CA5110002,yuba city,2025,0.0,Forecasted
+2998,CA4810009,dixon  city of,2025,0.0,Forecasted
+4231,CA3910027,mountain house community services district,2025,0.16666666666666666,Forecasted
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2025,4.0,Forecasted
+1873,CA1910124,pasadena  city of,2026,0.0,Forecasted
+2179,CA3410021,san juan water district,2026,0.0,Forecasted
+2633,CA1910167,vernon  city of,2026,0.0,Forecasted

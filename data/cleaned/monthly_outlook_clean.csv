@@ -1,0 +1,2230 @@
+org_id,pwsid,supplier_name,start_date,end_date,state_standard_shortage_level
+23,CA0110001,alameda county water district,2024-07-01,2024-07-31,2
+23,CA0110001,alameda county water district,2024-08-01,2024-08-31,2
+23,CA0110001,alameda county water district,2024-09-01,2024-09-30,2
+23,CA0110001,alameda county water district,2024-10-01,2024-10-31,3
+23,CA0110001,alameda county water district,2024-11-01,2024-11-30,1
+23,CA0110001,alameda county water district,2024-12-01,2024-12-31,0
+23,CA0110001,alameda county water district,2025-01-01,2025-01-31,0
+23,CA0110001,alameda county water district,2025-02-01,2025-02-28,1
+23,CA0110001,alameda county water district,2025-03-01,2025-03-31,0
+23,CA0110001,alameda county water district,2025-04-01,2025-04-30,1
+23,CA0110001,alameda county water district,2025-05-01,2025-05-31,2
+23,CA0110001,alameda county water district,2025-06-01,2025-06-30,2
+23,CA0110001,alameda county water district,2024-07-01,2025-06-30,2
+30,CA1910001,alhambra  city of,2024-07-01,2025-06-30,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2024-07-01,2024-07-31,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2024-08-01,2024-08-31,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2024-09-01,2024-09-30,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2024-10-01,2024-10-31,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2024-11-01,2024-11-30,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2024-12-01,2024-12-31,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2025-01-01,2025-01-31,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2025-02-01,2025-02-28,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2025-03-01,2025-03-31,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2025-04-01,2025-04-30,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2025-05-01,2025-05-31,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2024-06-01,2024-06-30,0
+55,"CA0310012, CA0300002, CA0310019, CA0310003, CA0310002",amador water agency,2024-06-01,2025-07-31,0
+57,CA2810005,american canyon  city of,2024-07-01,2024-07-31,0
+57,CA2810005,american canyon  city of,2024-08-01,2024-08-31,0
+57,CA2810005,american canyon  city of,2024-09-01,2024-09-30,0
+57,CA2810005,american canyon  city of,2024-10-01,2024-10-31,0
+57,CA2810005,american canyon  city of,2024-11-01,2024-11-30,0
+57,CA2810005,american canyon  city of,2024-12-01,2024-12-31,0
+57,CA2810005,american canyon  city of,2025-01-01,2025-01-31,0
+57,CA2810005,american canyon  city of,2025-02-01,2025-02-28,0
+57,CA2810005,american canyon  city of,2025-03-01,2025-03-31,0
+57,CA2810005,american canyon  city of,2025-04-01,2025-04-30,0
+57,CA2810005,american canyon  city of,2025-05-01,2025-05-31,0
+57,CA2810005,american canyon  city of,2025-06-01,2025-06-30,0
+57,CA2810005,american canyon  city of,2024-07-01,2025-06-30,0
+64,CA3010001,anaheim  city of,2024-07-01,2025-06-30,0
+66,CA4510001,anderson  city of,2024-07-01,2024-07-31,0
+66,CA4510001,anderson  city of,2024-08-01,2024-08-31,0
+66,CA4510001,anderson  city of,2024-09-01,2024-09-30,0
+66,CA4510001,anderson  city of,2024-10-01,2024-10-31,0
+66,CA4510001,anderson  city of,2024-11-01,2024-11-30,0
+66,CA4510001,anderson  city of,2024-12-01,2024-12-31,0
+66,CA4510001,anderson  city of,2025-01-01,2025-01-31,0
+66,CA4510001,anderson  city of,2025-02-01,2025-02-28,0
+66,CA4510001,anderson  city of,2025-03-01,2025-03-31,0
+66,CA4510001,anderson  city of,2025-04-01,2025-04-30,0
+66,CA4510001,anderson  city of,2025-05-01,2025-05-31,0
+66,CA4510001,anderson  city of,2025-06-01,2025-06-30,0
+66,CA4510001,anderson  city of,2024-07-01,2025-06-30,0
+87,CA3610003,apple valley ranchos water company,2024-07-01,2024-07-31,0
+87,CA3610003,apple valley ranchos water company,2024-08-01,2024-08-31,0
+87,CA3610003,apple valley ranchos water company,2024-09-01,2024-09-30,0
+87,CA3610003,apple valley ranchos water company,2024-10-01,2024-10-31,0
+87,CA3610003,apple valley ranchos water company,2024-11-01,2024-11-30,0
+87,CA3610003,apple valley ranchos water company,2024-12-01,2024-12-31,0
+87,CA3610003,apple valley ranchos water company,2025-01-01,2025-01-31,0
+87,CA3610003,apple valley ranchos water company,2025-02-01,2025-02-28,0
+87,CA3610003,apple valley ranchos water company,2025-03-01,2025-03-31,0
+87,CA3610003,apple valley ranchos water company,2025-04-01,2025-04-30,0
+87,CA3610003,apple valley ranchos water company,2025-05-01,2025-05-31,0
+87,CA3610003,apple valley ranchos water company,2025-06-01,2025-06-30,0
+87,CA3610003,apple valley ranchos water company,2024-07-01,2025-06-30,0
+107,CA4010002,atascadero mutual water company,2024-07-01,2024-07-31,0
+107,CA4010002,atascadero mutual water company,2024-08-01,2024-08-31,0
+107,CA4010002,atascadero mutual water company,2024-09-01,2024-09-30,0
+107,CA4010002,atascadero mutual water company,2024-10-01,2024-10-31,0
+107,CA4010002,atascadero mutual water company,2024-11-01,2024-11-30,0
+107,CA4010002,atascadero mutual water company,2024-12-01,2024-12-31,0
+107,CA4010002,atascadero mutual water company,2025-01-01,2025-01-31,0
+107,CA4010002,atascadero mutual water company,2025-02-01,2025-02-28,0
+107,CA4010002,atascadero mutual water company,2025-03-01,2025-03-31,0
+107,CA4010002,atascadero mutual water company,2025-04-01,2025-04-30,0
+107,CA4010002,atascadero mutual water company,2025-05-01,2025-05-31,0
+107,CA4010002,atascadero mutual water company,2025-06-01,2025-06-30,0
+107,CA4010002,atascadero mutual water company,2024-07-01,2025-06-30,0
+110,CA2410001,atwater  city of,2024-07-01,2024-07-31,0
+110,CA2410001,atwater  city of,2024-08-01,2024-08-31,0
+110,CA2410001,atwater  city of,2024-09-01,2024-09-30,0
+110,CA2410001,atwater  city of,2024-10-01,2024-10-31,0
+110,CA2410001,atwater  city of,2024-11-01,2024-11-30,0
+110,CA2410001,atwater  city of,2024-12-01,2024-12-31,0
+110,CA2410001,atwater  city of,2025-01-01,2025-01-31,0
+110,CA2410001,atwater  city of,2025-02-01,2025-02-28,0
+110,CA2410001,atwater  city of,2025-03-01,2025-03-31,0
+110,CA2410001,atwater  city of,2025-04-01,2025-04-30,0
+110,CA2410001,atwater  city of,2025-05-01,2025-05-31,0
+110,CA2410001,atwater  city of,2025-06-01,2025-06-30,0
+110,CA2410001,atwater  city of,2024-07-01,2025-06-30,0
+117,CA1910007,azusa light and water,2024-07-01,2024-07-31,0
+117,CA1910007,azusa light and water,2024-08-01,2024-08-31,0
+117,CA1910007,azusa light and water,2024-09-01,2024-09-30,0
+117,CA1910007,azusa light and water,2024-10-01,2024-10-31,0
+117,CA1910007,azusa light and water,2024-11-01,2024-11-30,0
+117,CA1910007,azusa light and water,2024-12-01,2024-12-31,0
+117,CA1910007,azusa light and water,2025-01-01,2025-01-31,2
+117,CA1910007,azusa light and water,2025-02-01,2025-02-28,0
+117,CA1910007,azusa light and water,2025-03-01,2025-03-31,1
+117,CA1910007,azusa light and water,2025-04-01,2025-04-30,0
+117,CA1910007,azusa light and water,2025-05-01,2025-05-31,0
+117,CA1910007,azusa light and water,2025-06-01,2025-06-30,0
+117,CA1910007,azusa light and water,2024-07-01,2025-06-30,0
+178,CA4810001,benicia  city of,2024-07-01,2025-06-30,0
+193,CA1910156,beverly hills  city of,2024-07-01,2024-07-31,0
+193,CA1910156,beverly hills  city of,2024-08-01,2024-08-31,0
+193,CA1910156,beverly hills  city of,2024-09-01,2024-09-30,0
+193,CA1910156,beverly hills  city of,2024-10-01,2024-10-31,0
+193,CA1910156,beverly hills  city of,2024-11-01,2024-11-30,0
+193,CA1910156,beverly hills  city of,2024-12-01,2024-12-31,0
+193,CA1910156,beverly hills  city of,2025-01-01,2025-01-31,0
+193,CA1910156,beverly hills  city of,2025-02-01,2025-02-28,0
+193,CA1910156,beverly hills  city of,2025-03-01,2025-03-31,0
+193,CA1910156,beverly hills  city of,2025-04-01,2025-04-30,0
+193,CA1910156,beverly hills  city of,2025-05-01,2025-05-31,0
+193,CA1910156,beverly hills  city of,2025-06-01,2025-06-30,0
+193,CA1910156,beverly hills  city of,2024-07-01,2025-06-30,0
+197,CA3610008,big bear community services district,2024-07-01,2024-07-31,0
+197,CA3610008,big bear community services district,2024-09-01,2024-09-30,0
+197,CA3610008,big bear community services district,2024-11-01,2024-11-30,0
+197,CA3610008,big bear community services district,2025-01-01,2025-01-31,0
+197,CA3610008,big bear community services district,2025-03-01,2025-03-31,0
+197,CA3610008,big bear community services district,2025-05-01,2025-05-31,0
+197,CA3610008,big bear community services district,2024-07-01,2025-06-30,0
+241,CA3310003,blythe  city of,2024-07-01,2024-07-31,0
+241,CA3310003,blythe  city of,2024-08-01,2024-08-31,0
+241,CA3310003,blythe  city of,2024-09-01,2024-09-30,0
+241,CA3310003,blythe  city of,2024-10-01,2024-10-31,0
+241,CA3310003,blythe  city of,2024-11-01,2024-11-30,0
+241,CA3310003,blythe  city of,2024-12-01,2024-12-31,0
+241,CA3310003,blythe  city of,2025-01-01,2025-01-31,0
+241,CA3310003,blythe  city of,2025-02-01,2025-02-28,0
+241,CA3310003,blythe  city of,2025-03-01,2025-03-31,0
+241,CA3310003,blythe  city of,2025-04-01,2025-04-30,0
+241,CA3310003,blythe  city of,2025-05-01,2025-05-31,0
+241,CA3310003,blythe  city of,2025-06-01,2025-06-30,0
+241,CA3310003,blythe  city of,2024-07-01,2025-06-30,0
+263,CA3010002,brea  city of,2024-07-01,2025-06-30,0
+283,CA3010003,buena park  city of,2024-07-01,2025-06-30,0
+286,CA4110003,burlingame  city of,2024-07-01,2024-07-31,0
+286,CA4110003,burlingame  city of,2024-08-01,2024-08-31,0
+286,CA4110003,burlingame  city of,2024-09-01,2024-09-30,0
+286,CA4110003,burlingame  city of,2024-10-01,2024-10-31,0
+286,CA4110003,burlingame  city of,2024-11-01,2024-11-30,0
+286,CA4110003,burlingame  city of,2024-12-01,2024-12-31,0
+286,CA4110003,burlingame  city of,2025-01-01,2025-01-31,0
+286,CA4110003,burlingame  city of,2025-02-01,2025-02-28,0
+286,CA4110003,burlingame  city of,2025-03-01,2025-03-31,0
+286,CA4110003,burlingame  city of,2025-04-01,2025-04-30,0
+286,CA4110003,burlingame  city of,2025-05-01,2025-05-31,0
+286,CA4110003,burlingame  city of,2025-06-01,2025-06-30,0
+286,CA4110003,burlingame  city of,2024-07-01,2025-06-30,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2024-07-01,2024-07-31,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2024-08-01,2024-08-31,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2024-09-01,2024-09-30,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2024-10-01,2024-10-31,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2024-11-01,2024-11-30,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2024-12-01,2024-12-31,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2025-01-01,2025-01-31,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2025-02-01,2025-02-28,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2025-03-01,2025-03-31,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2025-04-01,2025-04-30,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2025-05-01,2025-05-31,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2025-06-01,2025-06-30,0
+351,"CA0510005, CA0510006, CA0510017, CA0510016, CA0510019, CA0510004",calaveras county water district,2024-07-01,2025-06-30,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2024-07-01,2024-07-31,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2024-08-01,2024-08-31,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2024-09-01,2024-09-30,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2024-10-01,2024-10-31,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2024-11-01,2024-11-30,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2024-12-01,2024-12-31,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2025-01-01,2025-01-31,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2025-02-01,2025-02-28,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2025-03-01,2025-03-31,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2025-04-01,2025-04-30,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2025-05-01,2025-05-31,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2025-06-01,2025-06-30,0
+384,"CA1500333, CA1910243, CA1910010, CA1910242",california water service company antelope valley,2024-07-01,2025-06-30,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2024-07-01,2024-07-31,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2024-08-01,2024-08-31,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2024-09-01,2024-09-30,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2024-10-01,2024-10-31,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2024-11-01,2024-11-30,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2024-12-01,2024-12-31,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2025-01-01,2025-01-31,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2025-02-01,2025-02-28,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2025-03-01,2025-03-31,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2025-04-01,2025-04-30,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2025-05-01,2025-05-31,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2025-06-01,2025-06-30,0
+386,"CA1510003, CA1510055",california water service company bakersfield,2024-07-01,2025-06-30,0
+387,CA4110006,california water service company bear gulch,2024-07-01,2024-07-31,0
+387,CA4110006,california water service company bear gulch,2024-08-01,2024-08-31,0
+387,CA4110006,california water service company bear gulch,2024-09-01,2024-09-30,0
+387,CA4110006,california water service company bear gulch,2024-10-01,2024-10-31,0
+387,CA4110006,california water service company bear gulch,2024-11-01,2024-11-30,0
+387,CA4110006,california water service company bear gulch,2024-12-01,2024-12-31,0
+387,CA4110006,california water service company bear gulch,2025-01-01,2025-01-31,0
+387,CA4110006,california water service company bear gulch,2025-02-01,2025-02-28,0
+387,CA4110006,california water service company bear gulch,2025-03-01,2025-03-31,0
+387,CA4110006,california water service company bear gulch,2025-04-01,2025-04-30,0
+387,CA4110006,california water service company bear gulch,2025-05-01,2025-05-31,0
+387,CA4110006,california water service company bear gulch,2025-06-01,2025-06-30,0
+387,CA4110006,california water service company bear gulch,2024-07-01,2025-06-30,0
+388,"CA0410002, CA1110002",california water service company chico district,2024-07-01,2024-07-31,0
+388,"CA0410002, CA1110002",california water service company chico district,2024-08-01,2024-08-31,0
+388,"CA0410002, CA1110002",california water service company chico district,2024-09-01,2024-09-30,0
+388,"CA0410002, CA1110002",california water service company chico district,2024-10-01,2024-10-31,0
+388,"CA0410002, CA1110002",california water service company chico district,2024-11-01,2024-11-30,0
+388,"CA0410002, CA1110002",california water service company chico district,2024-12-01,2024-12-31,0
+388,"CA0410002, CA1110002",california water service company chico district,2025-01-01,2025-01-31,0
+388,"CA0410002, CA1110002",california water service company chico district,2025-02-01,2025-02-28,0
+388,"CA0410002, CA1110002",california water service company chico district,2025-03-01,2025-03-31,0
+388,"CA0410002, CA1110002",california water service company chico district,2025-04-01,2025-04-30,0
+388,"CA0410002, CA1110002",california water service company chico district,2025-05-01,2025-05-31,0
+388,"CA0410002, CA1110002",california water service company chico district,2025-06-01,2025-06-30,0
+388,"CA0410002, CA1110002",california water service company chico district,2024-07-01,2025-06-30,0
+390,CA4810002,"california water service company dixon, city of",2024-07-01,2024-07-31,0
+390,CA4810002,"california water service company dixon, city of",2024-08-01,2024-08-31,0
+390,CA4810002,"california water service company dixon, city of",2024-09-01,2024-09-30,0
+390,CA4810002,"california water service company dixon, city of",2024-10-01,2024-10-31,0
+390,CA4810002,"california water service company dixon, city of",2024-11-01,2024-11-30,0
+390,CA4810002,"california water service company dixon, city of",2024-12-01,2024-12-31,0
+390,CA4810002,"california water service company dixon, city of",2025-01-01,2025-01-31,0
+390,CA4810002,"california water service company dixon, city of",2025-02-01,2025-02-28,0
+390,CA4810002,"california water service company dixon, city of",2025-03-01,2025-03-31,0
+390,CA4810002,"california water service company dixon, city of",2025-04-01,2025-04-30,0
+390,CA4810002,"california water service company dixon, city of",2025-05-01,2025-05-31,0
+390,CA4810002,"california water service company dixon, city of",2025-06-01,2025-06-30,0
+390,CA4810002,"california water service company dixon, city of",2024-07-01,2025-06-30,0
+391,CA1910033,california water service company dominguez,2024-07-01,2024-07-31,0
+391,CA1910033,california water service company dominguez,2024-08-01,2024-08-31,0
+391,CA1910033,california water service company dominguez,2024-09-01,2024-09-30,0
+391,CA1910033,california water service company dominguez,2024-10-01,2024-10-31,0
+391,CA1910033,california water service company dominguez,2024-11-01,2024-11-30,0
+391,CA1910033,california water service company dominguez,2024-12-01,2024-12-31,0
+391,CA1910033,california water service company dominguez,2025-01-01,2025-01-31,0
+391,CA1910033,california water service company dominguez,2025-02-01,2025-02-28,0
+391,CA1910033,california water service company dominguez,2025-03-01,2025-03-31,0
+391,CA1910033,california water service company dominguez,2025-04-01,2025-04-30,0
+391,CA1910033,california water service company dominguez,2025-05-01,2025-05-31,0
+391,CA1910033,california water service company dominguez,2025-06-01,2025-06-30,0
+391,CA1910033,california water service company dominguez,2024-07-01,2025-06-30,0
+392,CA1910036,california water service company east los angeles,2024-07-01,2024-07-31,0
+392,CA1910036,california water service company east los angeles,2024-08-01,2024-08-31,0
+392,CA1910036,california water service company east los angeles,2024-09-01,2024-09-30,0
+392,CA1910036,california water service company east los angeles,2024-10-01,2024-10-31,0
+392,CA1910036,california water service company east los angeles,2024-11-01,2024-11-30,0
+392,CA1910036,california water service company east los angeles,2024-12-01,2024-12-31,0
+392,CA1910036,california water service company east los angeles,2025-01-01,2025-01-31,0
+392,CA1910036,california water service company east los angeles,2025-02-01,2025-02-28,0
+392,CA1910036,california water service company east los angeles,2025-03-01,2025-03-31,0
+392,CA1910036,california water service company east los angeles,2025-04-01,2025-04-30,0
+392,CA1910036,california water service company east los angeles,2025-05-01,2025-05-31,0
+392,CA1910036,california water service company east los angeles,2025-06-01,2025-06-30,0
+392,CA1910036,california water service company east los angeles,2024-07-01,2025-06-30,0
+396,CA1910134,california water service company hermosa/redondo,2024-07-01,2024-07-31,0
+396,CA1910134,california water service company hermosa/redondo,2024-08-01,2024-08-31,0
+396,CA1910134,california water service company hermosa/redondo,2024-09-01,2024-09-30,0
+396,CA1910134,california water service company hermosa/redondo,2024-10-01,2024-10-31,0
+396,CA1910134,california water service company hermosa/redondo,2024-11-01,2024-11-30,0
+396,CA1910134,california water service company hermosa/redondo,2024-12-01,2024-12-31,0
+396,CA1910134,california water service company hermosa/redondo,2025-01-01,2025-01-31,0
+396,CA1910134,california water service company hermosa/redondo,2025-02-01,2025-02-28,0
+396,CA1910134,california water service company hermosa/redondo,2025-03-01,2025-03-31,0
+396,CA1910134,california water service company hermosa/redondo,2025-04-01,2025-04-30,0
+396,CA1910134,california water service company hermosa/redondo,2025-05-01,2025-05-31,0
+396,CA1910134,california water service company hermosa/redondo,2025-06-01,2025-06-30,0
+396,CA1910134,california water service company hermosa/redondo,2024-07-01,2025-06-30,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2024-07-01,2024-07-31,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2024-08-01,2024-08-31,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2024-09-01,2024-09-30,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2024-10-01,2024-10-31,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2024-11-01,2024-11-30,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2024-12-01,2024-12-31,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2025-01-01,2025-01-31,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2025-02-01,2025-02-28,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2025-03-01,2025-03-31,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2025-04-01,2025-04-30,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2025-05-01,2025-05-31,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2025-06-01,2025-06-30,0
+397,"CA1510026, CA1510043, CA1500407, CA1510049, CA1510056, CA1510039, CA1510033",california water service company kern river valley,2024-07-01,2025-06-30,0
+398,CA2710009,california water service company king city,2024-07-01,2024-07-31,0
+398,CA2710009,california water service company king city,2024-08-01,2024-08-31,0
+398,CA2710009,california water service company king city,2024-09-01,2024-09-30,0
+398,CA2710009,california water service company king city,2024-10-01,2024-10-31,0
+398,CA2710009,california water service company king city,2024-11-01,2024-11-30,0
+398,CA2710009,california water service company king city,2024-12-01,2024-12-31,0
+398,CA2710009,california water service company king city,2025-01-01,2025-01-31,0
+398,CA2710009,california water service company king city,2025-02-01,2025-02-28,0
+398,CA2710009,california water service company king city,2025-03-01,2025-03-31,0
+398,CA2710009,california water service company king city,2025-04-01,2025-04-30,0
+398,CA2710009,california water service company king city,2025-05-01,2025-05-31,0
+398,CA2710009,california water service company king city,2025-06-01,2025-06-30,0
+398,CA2710009,california water service company king city,2024-07-01,2025-06-30,0
+401,CA0110003,california water service company livermore,2024-07-01,2024-07-31,0
+401,CA0110003,california water service company livermore,2024-08-01,2024-08-31,0
+401,CA0110003,california water service company livermore,2024-09-01,2024-09-30,0
+401,CA0110003,california water service company livermore,2024-10-01,2024-10-31,0
+401,CA0110003,california water service company livermore,2024-11-01,2024-11-30,0
+401,CA0110003,california water service company livermore,2024-12-01,2024-12-31,0
+401,CA0110003,california water service company livermore,2025-01-01,2025-01-31,0
+401,CA0110003,california water service company livermore,2025-02-01,2025-02-28,0
+401,CA0110003,california water service company livermore,2025-03-01,2025-03-31,0
+401,CA0110003,california water service company livermore,2025-04-01,2025-04-30,0
+401,CA0110003,california water service company livermore,2025-05-01,2025-05-31,0
+401,CA0110003,california water service company livermore,2025-06-01,2025-06-30,0
+401,CA0110003,california water service company livermore,2024-07-01,2025-06-30,0
+402,CA4310001,california water service company los altos/suburban,2024-07-01,2024-07-31,0
+402,CA4310001,california water service company los altos/suburban,2024-08-01,2024-08-31,0
+402,CA4310001,california water service company los altos/suburban,2024-09-01,2024-09-30,0
+402,CA4310001,california water service company los altos/suburban,2024-10-01,2024-10-31,0
+402,CA4310001,california water service company los altos/suburban,2024-11-01,2024-11-30,0
+402,CA4310001,california water service company los altos/suburban,2024-12-01,2024-12-31,0
+402,CA4310001,california water service company los altos/suburban,2025-01-01,2025-01-31,0
+402,CA4310001,california water service company los altos/suburban,2025-02-01,2025-02-28,0
+402,CA4310001,california water service company los altos/suburban,2025-03-01,2025-03-31,0
+402,CA4310001,california water service company los altos/suburban,2025-04-01,2025-04-30,0
+402,CA4310001,california water service company los altos/suburban,2025-05-01,2025-05-31,0
+402,CA4310001,california water service company los altos/suburban,2025-06-01,2025-06-30,0
+402,CA4310001,california water service company los altos/suburban,2024-07-01,2025-06-30,0
+405,CA5810001,california water service company marysville,2024-07-01,2024-07-31,0
+405,CA5810001,california water service company marysville,2024-08-01,2024-08-31,0
+405,CA5810001,california water service company marysville,2024-09-01,2024-09-30,0
+405,CA5810001,california water service company marysville,2024-10-01,2024-10-31,0
+405,CA5810001,california water service company marysville,2024-11-01,2024-11-30,0
+405,CA5810001,california water service company marysville,2024-12-01,2024-12-31,0
+405,CA5810001,california water service company marysville,2025-01-01,2025-01-31,0
+405,CA5810001,california water service company marysville,2025-02-01,2025-02-28,0
+405,CA5810001,california water service company marysville,2025-03-01,2025-03-31,0
+405,CA5810001,california water service company marysville,2025-04-01,2025-04-30,0
+405,CA5810001,california water service company marysville,2025-05-01,2025-05-31,0
+405,CA5810001,california water service company marysville,2025-06-01,2025-06-30,0
+405,CA5810001,california water service company marysville,2024-07-01,2025-06-30,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2024-07-01,2024-07-31,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2024-08-01,2024-08-31,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2024-09-01,2024-09-30,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2024-10-01,2024-10-31,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2024-11-01,2024-11-30,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2024-12-01,2024-12-31,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2025-01-01,2025-01-31,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2025-02-01,2025-02-28,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2025-03-01,2025-03-31,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2025-04-01,2025-04-30,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2025-05-01,2025-05-31,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2025-06-01,2025-06-30,0
+420,"CA4110008, CA4110007",california water service company mid peninsula,2024-07-01,2025-06-30,0
+412,CA0410005,california water service company oroville,2024-07-01,2024-07-31,0
+412,CA0410005,california water service company oroville,2024-08-01,2024-08-31,0
+412,CA0410005,california water service company oroville,2024-09-01,2024-09-30,0
+412,CA0410005,california water service company oroville,2024-10-01,2024-10-31,0
+412,CA0410005,california water service company oroville,2024-11-01,2024-11-30,0
+412,CA0410005,california water service company oroville,2024-12-01,2024-12-31,0
+412,CA0410005,california water service company oroville,2025-01-01,2025-01-31,0
+412,CA0410005,california water service company oroville,2025-02-01,2025-02-28,0
+412,CA0410005,california water service company oroville,2025-03-01,2025-03-31,0
+412,CA0410005,california water service company oroville,2025-04-01,2025-04-30,0
+412,CA0410005,california water service company oroville,2025-05-01,2025-05-31,0
+412,CA0410005,california water service company oroville,2025-06-01,2025-06-30,0
+412,CA0410005,california water service company oroville,2024-07-01,2025-06-30,0
+413,CA1910104,california water service company palos verdes,2024-07-01,2024-07-31,0
+413,CA1910104,california water service company palos verdes,2024-08-01,2024-08-31,0
+413,CA1910104,california water service company palos verdes,2024-09-01,2024-09-30,0
+413,CA1910104,california water service company palos verdes,2024-10-01,2024-10-31,0
+413,CA1910104,california water service company palos verdes,2024-11-01,2024-11-30,0
+413,CA1910104,california water service company palos verdes,2024-12-01,2024-12-31,0
+413,CA1910104,california water service company palos verdes,2025-01-01,2025-01-31,0
+413,CA1910104,california water service company palos verdes,2025-02-01,2025-02-28,0
+413,CA1910104,california water service company palos verdes,2025-03-01,2025-03-31,0
+413,CA1910104,california water service company palos verdes,2025-04-01,2025-04-30,0
+413,CA1910104,california water service company palos verdes,2025-05-01,2025-05-31,0
+413,CA1910104,california water service company palos verdes,2025-06-01,2025-06-30,0
+413,CA1910104,california water service company palos verdes,2024-07-01,2025-06-30,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2024-07-01,2024-07-31,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2024-08-01,2024-08-31,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2024-09-01,2024-09-30,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2024-10-01,2024-10-31,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2024-11-01,2024-11-30,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2024-12-01,2024-12-31,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2025-01-01,2025-01-31,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2025-02-01,2025-02-28,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2025-03-01,2025-03-31,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2025-04-01,2025-04-30,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2025-05-01,2025-05-31,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2025-06-01,2025-06-30,0
+416,"CA1710005, CA4900546, CA2110007, CA4910018, CA4900514, CA4900785",california water service company redwood valley,2024-07-01,2025-06-30,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2024-07-01,2024-07-31,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2024-08-01,2024-08-31,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2024-09-01,2024-09-30,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2024-10-01,2024-10-31,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2024-11-01,2024-11-30,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2024-12-01,2024-12-31,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2025-01-01,2025-01-31,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2025-02-01,2025-02-28,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2025-03-01,2025-03-31,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2025-04-01,2025-04-30,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2025-05-01,2025-05-31,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2025-06-01,2025-06-30,0
+417,"CA2701929, CA2710012, CA2710019, CA2710013, CA2710010",california water service company salinas district,2024-07-01,2025-06-30,0
+421,CA1010024,california water service company selma,2024-07-01,2024-07-31,0
+421,CA1010024,california water service company selma,2024-08-01,2024-08-31,0
+421,CA1010024,california water service company selma,2024-09-01,2024-09-30,0
+421,CA1010024,california water service company selma,2024-10-01,2024-10-31,0
+421,CA1010024,california water service company selma,2024-11-01,2024-11-30,0
+421,CA1010024,california water service company selma,2024-12-01,2024-12-31,0
+421,CA1010024,california water service company selma,2025-01-01,2025-01-31,0
+421,CA1010024,california water service company selma,2025-02-01,2025-02-28,0
+421,CA1010024,california water service company selma,2025-03-01,2025-03-31,0
+421,CA1010024,california water service company selma,2025-04-01,2025-04-30,0
+421,CA1010024,california water service company selma,2025-05-01,2025-05-31,0
+421,CA1010024,california water service company selma,2025-06-01,2025-06-30,0
+421,CA1010024,california water service company selma,2024-07-01,2025-06-30,0
+422,CA4110009,california water service company south san francisco,2024-07-01,2024-07-31,0
+422,CA4110009,california water service company south san francisco,2024-08-01,2024-08-31,0
+422,CA4110009,california water service company south san francisco,2024-09-01,2024-09-30,0
+422,CA4110009,california water service company south san francisco,2024-10-01,2024-10-31,0
+422,CA4110009,california water service company south san francisco,2024-11-01,2024-11-30,0
+422,CA4110009,california water service company south san francisco,2024-12-01,2024-12-31,0
+422,CA4110009,california water service company south san francisco,2025-01-01,2025-01-31,0
+422,CA4110009,california water service company south san francisco,2025-02-01,2025-02-28,0
+422,CA4110009,california water service company south san francisco,2025-03-01,2025-03-31,0
+422,CA4110009,california water service company south san francisco,2025-04-01,2025-04-30,0
+422,CA4110009,california water service company south san francisco,2025-05-01,2025-05-31,0
+422,CA4110009,california water service company south san francisco,2025-06-01,2025-06-30,0
+422,CA4110009,california water service company south san francisco,2024-07-01,2025-06-30,0
+424,CA3910001,california water service company stockton,2024-07-01,2024-07-31,0
+424,CA3910001,california water service company stockton,2024-08-01,2024-08-31,0
+424,CA3910001,california water service company stockton,2024-09-01,2024-09-30,0
+424,CA3910001,california water service company stockton,2024-10-01,2024-10-31,0
+424,CA3910001,california water service company stockton,2024-11-01,2024-11-30,0
+424,CA3910001,california water service company stockton,2024-12-01,2024-12-31,0
+424,CA3910001,california water service company stockton,2025-01-01,2025-01-31,0
+424,CA3910001,california water service company stockton,2025-02-01,2025-02-28,0
+424,CA3910001,california water service company stockton,2025-03-01,2025-03-31,0
+424,CA3910001,california water service company stockton,2025-04-01,2025-04-30,0
+424,CA3910001,california water service company stockton,2025-05-01,2025-05-31,0
+424,CA3910001,california water service company stockton,2025-06-01,2025-06-30,0
+424,CA3910001,california water service company stockton,2024-07-01,2025-06-30,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2024-07-01,2024-07-31,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2024-08-01,2024-08-31,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2024-09-01,2024-09-30,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2024-10-01,2024-10-31,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2024-11-01,2024-11-30,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2024-12-01,2024-12-31,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2025-01-01,2025-01-31,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2025-02-01,2025-02-28,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2025-03-01,2025-03-31,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2025-04-01,2025-04-30,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2025-05-01,2025-05-31,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2025-06-01,2025-06-30,0
+427,"CA5400935, CA5410016, CA5410041",california water service company visalia,2024-07-01,2025-06-30,0
+428,CA5610016,california water service company westlake,2024-07-01,2024-07-31,0
+428,CA5610016,california water service company westlake,2024-08-01,2024-08-31,0
+428,CA5610016,california water service company westlake,2024-09-01,2024-09-30,0
+428,CA5610016,california water service company westlake,2024-10-01,2024-10-31,0
+428,CA5610016,california water service company westlake,2024-11-01,2024-11-30,0
+428,CA5610016,california water service company westlake,2024-12-01,2024-12-31,0
+428,CA5610016,california water service company westlake,2025-01-01,2025-01-31,0
+428,CA5610016,california water service company westlake,2025-02-01,2025-02-28,0
+428,CA5610016,california water service company westlake,2025-03-01,2025-03-31,0
+428,CA5610016,california water service company westlake,2025-04-01,2025-04-30,0
+428,CA5610016,california water service company westlake,2025-05-01,2025-05-31,0
+428,CA5610016,california water service company westlake,2025-06-01,2025-06-30,0
+428,CA5610016,california water service company westlake,2024-07-01,2025-06-30,0
+429,CA1110003,california water service company willows,2024-07-01,2024-07-31,0
+429,CA1110003,california water service company willows,2024-08-01,2024-08-31,0
+429,CA1110003,california water service company willows,2024-09-01,2024-09-30,0
+429,CA1110003,california water service company willows,2024-10-01,2024-10-31,0
+429,CA1110003,california water service company willows,2024-11-01,2024-11-30,0
+429,CA1110003,california water service company willows,2024-12-01,2024-12-31,0
+429,CA1110003,california water service company willows,2025-01-01,2025-01-31,0
+429,CA1110003,california water service company willows,2025-02-01,2025-02-28,0
+429,CA1110003,california water service company willows,2025-03-01,2025-03-31,0
+429,CA1110003,california water service company willows,2025-04-01,2025-04-30,0
+429,CA1110003,california water service company willows,2025-05-01,2025-05-31,0
+429,CA1110003,california water service company willows,2025-06-01,2025-06-30,0
+429,CA1110003,california water service company willows,2024-07-01,2025-06-30,0
+443,CA5610019,camarillo  city of,2024-07-01,2024-07-31,0
+443,CA5610019,camarillo  city of,2024-08-01,2024-08-31,0
+443,CA5610019,camarillo  city of,2024-09-01,2024-09-30,0
+443,CA5610019,camarillo  city of,2024-10-01,2024-10-31,0
+443,CA5610019,camarillo  city of,2024-11-01,2024-11-30,0
+443,CA5610019,camarillo  city of,2024-12-01,2024-12-31,0
+443,CA5610019,camarillo  city of,2025-01-01,2025-01-31,0
+443,CA5610019,camarillo  city of,2025-02-01,2025-02-28,0
+443,CA5610019,camarillo  city of,2025-03-01,2025-03-31,0
+443,CA5610019,camarillo  city of,2025-04-01,2025-04-30,0
+443,CA5610019,camarillo  city of,2025-05-01,2025-05-31,0
+443,CA5610019,camarillo  city of,2025-06-01,2025-06-30,0
+443,CA5610019,camarillo  city of,2024-07-01,2025-06-30,0
+445,CA4010014,cambria community service district,2024-07-01,2024-07-31,0
+445,CA4010014,cambria community service district,2024-08-01,2024-08-31,0
+445,CA4010014,cambria community service district,2024-09-01,2024-09-30,2
+445,CA4010014,cambria community service district,2024-10-01,2024-10-31,2
+445,CA4010014,cambria community service district,2024-11-01,2024-11-30,1
+445,CA4010014,cambria community service district,2024-12-01,2024-12-31,0
+445,CA4010014,cambria community service district,2025-01-01,2025-01-31,0
+445,CA4010014,cambria community service district,2025-02-01,2025-02-28,0
+445,CA4010014,cambria community service district,2025-03-01,2025-03-31,0
+445,CA4010014,cambria community service district,2025-04-01,2025-04-30,1
+445,CA4010014,cambria community service district,2025-05-01,2025-05-31,0
+445,CA4010014,cambria community service district,2025-06-01,2025-06-30,0
+445,CA4010014,cambria community service district,2024-07-01,2025-06-30,0
+478,CA3710005,carlsbad municipal water district,2024-07-01,2024-07-31,0
+478,CA3710005,carlsbad municipal water district,2024-08-01,2024-08-31,0
+478,CA3710005,carlsbad municipal water district,2024-09-01,2024-09-30,0
+478,CA3710005,carlsbad municipal water district,2024-10-01,2024-10-31,0
+478,CA3710005,carlsbad municipal water district,2024-11-01,2024-11-30,0
+478,CA3710005,carlsbad municipal water district,2024-12-01,2024-12-31,0
+478,CA3710005,carlsbad municipal water district,2025-01-01,2025-01-31,0
+478,CA3710005,carlsbad municipal water district,2025-02-01,2025-02-28,0
+478,CA3710005,carlsbad municipal water district,2025-03-01,2025-03-31,0
+478,CA3710005,carlsbad municipal water district,2025-04-01,2025-04-30,0
+478,CA3710005,carlsbad municipal water district,2025-05-01,2025-05-31,0
+478,CA3710005,carlsbad municipal water district,2025-06-01,2025-06-30,0
+478,CA3710005,carlsbad municipal water district,2024-07-01,2025-06-30,0
+485,CA4210001,carpinteria valley water district,2024-07-01,2024-07-31,0
+485,CA4210001,carpinteria valley water district,2024-08-01,2024-08-31,0
+485,CA4210001,carpinteria valley water district,2024-09-01,2024-09-30,0
+485,CA4210001,carpinteria valley water district,2024-10-01,2024-10-31,0
+485,CA4210001,carpinteria valley water district,2024-11-01,2024-11-30,0
+485,CA4210001,carpinteria valley water district,2024-12-01,2024-12-31,0
+485,CA4210001,carpinteria valley water district,2025-01-01,2025-01-31,0
+485,CA4210001,carpinteria valley water district,2025-02-01,2025-02-28,0
+485,CA4210001,carpinteria valley water district,2025-03-01,2025-03-31,0
+485,CA4210001,carpinteria valley water district,2025-04-01,2025-04-30,0
+485,CA4210001,carpinteria valley water district,2025-05-01,2025-05-31,0
+485,CA4210001,carpinteria valley water district,2025-06-01,2025-06-30,0
+485,CA4210001,carpinteria valley water district,2024-07-01,2025-06-30,0
+524,CA1910019,cerritos  city of,2024-07-01,2024-07-31,0
+524,CA1910019,cerritos  city of,2024-08-01,2024-08-31,0
+524,CA1910019,cerritos  city of,2024-09-01,2024-09-30,0
+524,CA1910019,cerritos  city of,2024-10-01,2024-10-31,0
+524,CA1910019,cerritos  city of,2024-11-01,2024-11-30,0
+524,CA1910019,cerritos  city of,2024-12-01,2024-12-31,0
+524,CA1910019,cerritos  city of,2025-01-01,2025-01-31,0
+524,CA1910019,cerritos  city of,2025-02-01,2025-02-28,0
+524,CA1910019,cerritos  city of,2025-03-01,2025-03-31,0
+524,CA1910019,cerritos  city of,2025-04-01,2025-04-30,0
+524,CA1910019,cerritos  city of,2025-05-01,2025-05-31,0
+524,CA1910019,cerritos  city of,2025-06-01,2025-06-30,0
+524,CA1910019,cerritos  city of,2024-07-01,2025-06-30,0
+545,CA3610012,chino  city of,2024-07-01,2024-07-31,0
+545,CA3610012,chino  city of,2024-08-01,2024-08-31,0
+545,CA3610012,chino  city of,2024-09-01,2024-09-30,0
+545,CA3610012,chino  city of,2024-10-01,2024-10-31,0
+545,CA3610012,chino  city of,2024-11-01,2024-11-30,0
+545,CA3610012,chino  city of,2024-12-01,2024-12-31,0
+545,CA3610012,chino  city of,2025-01-01,2025-01-31,0
+545,CA3610012,chino  city of,2025-02-01,2025-02-28,0
+545,CA3610012,chino  city of,2025-03-01,2025-03-31,0
+545,CA3610012,chino  city of,2025-04-01,2025-04-30,0
+545,CA3610012,chino  city of,2025-05-01,2025-05-31,0
+545,CA3610012,chino  city of,2025-06-01,2025-06-30,0
+545,CA3610012,chino  city of,2024-07-01,2025-06-30,0
+547,CA3610036,chino hills  city of,2024-07-01,2024-07-31,0
+547,CA3610036,chino hills  city of,2024-08-01,2024-08-31,0
+547,CA3610036,chino hills  city of,2024-09-01,2024-09-30,0
+547,CA3610036,chino hills  city of,2024-10-01,2024-10-31,0
+547,CA3610036,chino hills  city of,2024-11-01,2024-11-30,0
+547,CA3610036,chino hills  city of,2024-12-01,2024-12-31,0
+547,CA3610036,chino hills  city of,2025-01-01,2025-01-31,0
+547,CA3610036,chino hills  city of,2025-02-01,2025-02-28,0
+547,CA3610036,chino hills  city of,2025-03-01,2025-03-31,0
+547,CA3610036,chino hills  city of,2025-04-01,2025-04-30,0
+547,CA3610036,chino hills  city of,2025-05-01,2025-05-31,0
+547,CA3610036,chino hills  city of,2025-06-01,2025-06-30,0
+547,CA3610036,chino hills  city of,2024-07-01,2025-06-30,0
+561,CA3410006,citrus heights water district,2024-07-01,2024-07-31,0
+561,CA3410006,citrus heights water district,2024-08-01,2024-08-31,0
+561,CA3410006,citrus heights water district,2024-09-01,2024-09-30,0
+561,CA3410006,citrus heights water district,2024-10-01,2024-10-31,0
+561,CA3410006,citrus heights water district,2024-11-01,2024-11-30,0
+561,CA3410006,citrus heights water district,2024-12-01,2024-12-31,0
+561,CA3410006,citrus heights water district,2025-01-01,2025-01-31,0
+561,CA3410006,citrus heights water district,2025-02-01,2025-02-28,0
+561,CA3410006,citrus heights water district,2025-03-01,2025-03-31,0
+561,CA3410006,citrus heights water district,2025-04-01,2025-04-30,0
+561,CA3410006,citrus heights water district,2025-05-01,2025-05-31,0
+561,CA3410006,citrus heights water district,2025-06-01,2025-06-30,0
+561,CA3410006,citrus heights water district,2024-07-01,2025-06-30,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2024-07-01,2024-07-31,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2024-08-01,2024-08-31,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2024-09-01,2024-09-30,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2024-10-01,2024-10-31,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2024-11-01,2024-11-30,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2024-12-01,2024-12-31,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2025-01-01,2025-01-31,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2025-02-01,2025-02-28,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2025-03-01,2025-03-31,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2025-04-01,2025-04-30,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2025-05-01,2025-05-31,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2025-06-01,2025-06-30,0
+577,"CA3310001, CA3310048, CA1310011",coachella valley water district,2024-07-01,2025-06-30,0
+583,CA4110011,coastside county water district,2024-07-01,2024-07-31,0
+583,CA4110011,coastside county water district,2024-08-01,2024-08-31,0
+583,CA4110011,coastside county water district,2024-09-01,2024-09-30,0
+583,CA4110011,coastside county water district,2024-10-01,2024-10-31,0
+583,CA4110011,coastside county water district,2024-11-01,2024-11-30,0
+583,CA4110011,coastside county water district,2024-12-01,2024-12-31,0
+583,CA4110011,coastside county water district,2025-01-01,2025-01-31,0
+583,CA4110011,coastside county water district,2025-02-01,2025-02-28,0
+583,CA4110011,coastside county water district,2025-03-01,2025-03-31,0
+583,CA4110011,coastside county water district,2025-04-01,2025-04-30,0
+583,CA4110011,coastside county water district,2025-05-01,2025-05-31,0
+583,CA4110011,coastside county water district,2025-06-01,2025-06-30,0
+583,CA4110011,coastside county water district,2024-07-01,2025-06-30,0
+607,CA1910026,compton  city of,2024-07-01,2024-07-31,0
+607,CA1910026,compton  city of,2024-08-01,2024-08-31,0
+607,CA1910026,compton  city of,2024-09-01,2024-09-30,0
+607,CA1910026,compton  city of,2024-10-01,2024-10-31,0
+607,CA1910026,compton  city of,2024-11-01,2024-11-30,0
+607,CA1910026,compton  city of,2024-12-01,2024-12-31,0
+607,CA1910026,compton  city of,2025-01-01,2025-01-31,0
+607,CA1910026,compton  city of,2025-02-01,2025-02-28,0
+607,CA1910026,compton  city of,2025-03-01,2025-03-31,0
+607,CA1910026,compton  city of,2025-04-01,2025-04-30,0
+607,CA1910026,compton  city of,2025-05-01,2025-05-31,0
+607,CA1910026,compton  city of,2025-06-01,2025-06-30,0
+607,CA1910026,compton  city of,2024-07-01,2025-06-30,0
+613,CA0710003,contra costa water district,2024-07-01,2025-06-30,0
+644,CA1910127,covina  city of,2024-07-01,2024-07-31,0
+644,CA1910127,covina  city of,2024-08-01,2024-08-31,0
+644,CA1910127,covina  city of,2024-09-01,2024-09-30,0
+644,CA1910127,covina  city of,2024-10-01,2024-10-31,0
+644,CA1910127,covina  city of,2024-11-01,2024-11-30,0
+644,CA1910127,covina  city of,2024-12-01,2024-12-31,0
+644,CA1910127,covina  city of,2025-01-01,2025-01-31,0
+644,CA1910127,covina  city of,2025-02-01,2025-02-28,0
+644,CA1910127,covina  city of,2025-03-01,2025-03-31,0
+644,CA1910127,covina  city of,2025-04-01,2025-04-30,0
+644,CA1910127,covina  city of,2025-05-01,2025-05-31,0
+644,CA1910127,covina  city of,2025-06-01,2025-06-30,0
+644,CA1910127,covina  city of,2024-07-01,2025-06-30,0
+651,CA1910028,crescenta valley community water district,2024-07-01,2024-07-31,0
+651,CA1910028,crescenta valley community water district,2024-08-01,2024-08-31,0
+651,CA1910028,crescenta valley community water district,2024-09-01,2024-09-30,0
+651,CA1910028,crescenta valley community water district,2024-10-01,2024-10-31,0
+651,CA1910028,crescenta valley community water district,2024-11-01,2024-11-30,0
+651,CA1910028,crescenta valley community water district,2024-12-01,2024-12-31,0
+651,CA1910028,crescenta valley community water district,2025-01-01,2025-01-31,0
+651,CA1910028,crescenta valley community water district,2025-02-01,2025-02-28,0
+651,CA1910028,crescenta valley community water district,2025-03-01,2025-03-31,0
+651,CA1910028,crescenta valley community water district,2025-04-01,2025-04-30,0
+651,CA1910028,crescenta valley community water district,2025-05-01,2025-05-31,0
+651,CA1910028,crescenta valley community water district,2025-06-01,2025-06-30,0
+651,CA1910028,crescenta valley community water district,2024-07-01,2025-06-30,0
+678,CA5710001,davis  city of,2024-07-01,2024-07-31,0
+678,CA5710001,davis  city of,2024-08-01,2024-08-31,0
+678,CA5710001,davis  city of,2024-09-01,2024-09-30,0
+678,CA5710001,davis  city of,2024-10-01,2024-10-31,0
+678,CA5710001,davis  city of,2024-11-01,2024-11-30,0
+678,CA5710001,davis  city of,2024-12-01,2024-12-31,0
+678,CA5710001,davis  city of,2025-01-01,2025-01-31,0
+678,CA5710001,davis  city of,2025-02-01,2025-02-28,0
+678,CA5710001,davis  city of,2025-03-01,2025-03-31,0
+678,CA5710001,davis  city of,2025-04-01,2025-04-30,0
+678,CA5710001,davis  city of,2025-05-01,2025-05-31,0
+678,CA5710001,davis  city of,2025-06-01,2025-06-30,0
+678,CA5710001,davis  city of,2024-07-01,2025-06-30,0
+699,CA0410011,del oro water company,2024-07-01,2024-07-31,0
+699,CA0410011,del oro water company,2024-08-01,2024-08-31,0
+699,CA0410011,del oro water company,2024-09-01,2024-09-30,0
+699,CA0410011,del oro water company,2024-10-01,2024-10-31,0
+699,CA0410011,del oro water company,2024-11-01,2024-11-30,0
+699,CA0410011,del oro water company,2024-12-01,2024-12-31,0
+699,CA0410011,del oro water company,2025-01-01,2025-01-31,0
+699,CA0410011,del oro water company,2025-02-01,2025-02-28,0
+699,CA0410011,del oro water company,2025-03-01,2025-03-31,0
+699,CA0410011,del oro water company,2025-04-01,2025-04-30,0
+699,CA0410011,del oro water company,2025-05-01,2025-05-31,0
+699,CA0410011,del oro water company,2025-06-01,2025-06-30,0
+699,CA0410011,del oro water company,2024-07-01,2025-06-30,0
+739,CA0710009,discovery bay community services district,2024-07-01,2024-07-31,0
+739,CA0710009,discovery bay community services district,2024-08-01,2024-08-31,0
+739,CA0710009,discovery bay community services district,2024-09-01,2024-09-30,0
+739,CA0710009,discovery bay community services district,2024-10-01,2024-10-31,0
+739,CA0710009,discovery bay community services district,2024-11-01,2024-11-30,0
+739,CA0710009,discovery bay community services district,2024-12-01,2024-12-31,0
+739,CA0710009,discovery bay community services district,2025-01-01,2025-01-31,0
+739,CA0710009,discovery bay community services district,2025-02-01,2025-02-28,0
+739,CA0710009,discovery bay community services district,2025-03-01,2025-03-31,0
+739,CA0710009,discovery bay community services district,2025-04-01,2025-04-30,0
+739,CA0710009,discovery bay community services district,2025-05-01,2025-05-31,0
+739,CA0710009,discovery bay community services district,2025-06-01,2025-06-30,0
+739,CA0710009,discovery bay community services district,2024-07-01,2025-06-30,0
+2998,CA4810009,dixon  city of,2025-01-01,2025-12-31,0
+775,CA0110005,east bay municipal utility district,2024-07-01,2025-06-30,0
+787,CA4110024,east palo alto  city of,2024-07-01,2024-07-31,0
+787,CA4110024,east palo alto  city of,2024-08-01,2024-08-31,0
+787,CA4110024,east palo alto  city of,2024-09-01,2024-09-30,0
+787,CA4110024,east palo alto  city of,2024-10-01,2024-10-31,0
+787,CA4110024,east palo alto  city of,2024-11-01,2024-11-30,0
+787,CA4110024,east palo alto  city of,2024-12-01,2024-12-31,0
+787,CA4110024,east palo alto  city of,2025-01-01,2025-01-31,0
+787,CA4110024,east palo alto  city of,2025-02-01,2025-02-28,0
+787,CA4110024,east palo alto  city of,2025-03-01,2025-03-31,0
+787,CA4110024,east palo alto  city of,2025-04-01,2025-04-30,0
+787,CA4110024,east palo alto  city of,2025-05-01,2025-05-31,0
+787,CA4110024,east palo alto  city of,2025-06-01,2025-06-30,0
+787,CA4110024,east palo alto  city of,2024-07-01,2025-06-30,0
+794,CA3310009,eastern municipal water district,2024-07-01,2025-06-30,0
+814,CA1310004,el centro  city of,2024-07-01,2025-06-30,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2024-07-01,2024-07-31,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2024-08-01,2024-08-31,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2024-09-01,2024-09-30,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2024-10-01,2024-10-31,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2024-11-01,2024-11-30,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2024-12-01,2024-12-31,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2025-01-01,2025-01-31,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2025-02-01,2025-02-28,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2025-03-01,2025-03-31,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2025-04-01,2025-04-30,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2025-05-01,2025-05-31,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2025-06-01,2025-06-30,0
+816,"CA0910018, CA0910017, CA0910001",el dorado irrigation district,2024-07-01,2025-06-30,0
+830,CA3010079,el toro water district,2024-07-01,2024-07-31,0
+830,CA3010079,el toro water district,2024-08-01,2024-08-31,0
+830,CA3010079,el toro water district,2024-09-01,2024-09-30,0
+830,CA3010079,el toro water district,2024-10-01,2024-10-31,0
+830,CA3010079,el toro water district,2024-11-01,2024-11-30,0
+830,CA3010079,el toro water district,2024-12-01,2024-12-31,0
+830,CA3010079,el toro water district,2025-01-01,2025-01-31,0
+830,CA3010079,el toro water district,2025-02-01,2025-02-28,0
+830,CA3010079,el toro water district,2025-03-01,2025-03-31,0
+830,CA3010079,el toro water district,2025-04-01,2025-04-30,0
+830,CA3010079,el toro water district,2025-05-01,2025-05-31,0
+830,CA3010079,el toro water district,2025-06-01,2025-06-30,0
+830,CA3010079,el toro water district,2024-07-01,2025-06-30,0
+835,CA3410008,elk grove water district,2024-07-01,2024-07-31,0
+835,CA3410008,elk grove water district,2024-08-01,2024-08-31,0
+835,CA3410008,elk grove water district,2024-09-01,2024-09-30,0
+835,CA3410008,elk grove water district,2024-10-01,2024-10-31,0
+835,CA3410008,elk grove water district,2024-11-01,2024-11-30,0
+835,CA3410008,elk grove water district,2024-12-01,2024-12-31,0
+835,CA3410008,elk grove water district,2025-01-01,2025-01-31,0
+835,CA3410008,elk grove water district,2025-02-01,2025-02-28,0
+835,CA3410008,elk grove water district,2025-03-01,2025-03-31,0
+835,CA3410008,elk grove water district,2025-04-01,2025-04-30,0
+835,CA3410008,elk grove water district,2025-05-01,2025-05-31,0
+835,CA3410008,elk grove water district,2025-06-01,2025-06-30,0
+835,CA3410008,elk grove water district,2024-07-01,2025-06-30,0
+842,CA3310012,elsinore valley municipal water district,2024-07-01,2024-07-31,0
+842,CA3310012,elsinore valley municipal water district,2024-08-01,2024-08-31,0
+842,CA3310012,elsinore valley municipal water district,2024-09-01,2024-09-30,0
+842,CA3310012,elsinore valley municipal water district,2024-10-01,2024-10-31,0
+842,CA3310012,elsinore valley municipal water district,2024-11-01,2024-11-30,0
+842,CA3310012,elsinore valley municipal water district,2024-12-01,2024-12-31,0
+842,CA3310012,elsinore valley municipal water district,2025-01-01,2025-01-31,0
+842,CA3310012,elsinore valley municipal water district,2025-02-01,2025-02-28,0
+842,CA3310012,elsinore valley municipal water district,2025-03-01,2025-03-31,0
+842,CA3310012,elsinore valley municipal water district,2025-04-01,2025-04-30,0
+842,CA3310012,elsinore valley municipal water district,2025-05-01,2025-05-31,0
+842,CA3310012,elsinore valley municipal water district,2025-06-01,2025-06-30,0
+842,CA3310012,elsinore valley municipal water district,2024-07-01,2025-06-30,0
+866,CA3410009,fair oaks water district,2024-07-01,2024-07-31,0
+866,CA3410009,fair oaks water district,2024-08-01,2024-08-31,0
+866,CA3410009,fair oaks water district,2024-09-01,2024-09-30,0
+866,CA3410009,fair oaks water district,2024-10-01,2024-10-31,0
+866,CA3410009,fair oaks water district,2024-11-01,2024-11-30,0
+866,CA3410009,fair oaks water district,2024-12-01,2024-12-31,0
+866,CA3410009,fair oaks water district,2025-01-01,2025-01-31,0
+866,CA3410009,fair oaks water district,2025-02-01,2025-02-28,0
+866,CA3410009,fair oaks water district,2025-03-01,2025-03-31,0
+866,CA3410009,fair oaks water district,2025-04-01,2025-04-30,0
+866,CA3410009,fair oaks water district,2025-05-01,2025-05-31,0
+866,CA3410009,fair oaks water district,2025-06-01,2025-06-30,0
+866,CA3410009,fair oaks water district,2024-07-01,2025-06-30,0
+867,CA4810003,fairfield  city of,2024-07-01,2025-06-30,0
+873,CA3710008,fallbrook public utility district,2024-07-01,2024-07-31,0
+873,CA3710008,fallbrook public utility district,2024-08-01,2024-08-31,0
+873,CA3710008,fallbrook public utility district,2024-09-01,2024-09-30,0
+873,CA3710008,fallbrook public utility district,2024-10-01,2024-10-31,0
+873,CA3710008,fallbrook public utility district,2024-11-01,2024-11-30,0
+873,CA3710008,fallbrook public utility district,2024-12-01,2024-12-31,0
+873,CA3710008,fallbrook public utility district,2025-01-01,2025-01-31,0
+873,CA3710008,fallbrook public utility district,2025-02-01,2025-02-28,0
+873,CA3710008,fallbrook public utility district,2025-03-01,2025-03-31,0
+873,CA3710008,fallbrook public utility district,2025-04-01,2025-04-30,0
+873,CA3710008,fallbrook public utility district,2025-05-01,2025-05-31,0
+873,CA3710008,fallbrook public utility district,2025-06-01,2025-06-30,0
+873,CA3710008,fallbrook public utility district,2024-07-01,2025-06-30,0
+890,CA5610002,fillmore  city of,2024-07-01,2024-07-31,0
+890,CA5610002,fillmore  city of,2024-08-01,2024-08-31,0
+890,CA5610002,fillmore  city of,2024-09-01,2024-09-30,1
+890,CA5610002,fillmore  city of,2024-10-01,2024-10-31,1
+890,CA5610002,fillmore  city of,2024-11-01,2024-11-30,0
+890,CA5610002,fillmore  city of,2024-12-01,2024-12-31,0
+890,CA5610002,fillmore  city of,2025-01-01,2025-01-31,0
+890,CA5610002,fillmore  city of,2025-02-01,2025-02-28,0
+890,CA5610002,fillmore  city of,2025-03-01,2025-03-31,0
+890,CA5610002,fillmore  city of,2025-04-01,2025-04-30,0
+890,CA5610002,fillmore  city of,2025-05-01,2025-05-31,0
+890,CA5610002,fillmore  city of,2025-06-01,2025-06-30,0
+890,CA5610002,fillmore  city of,2024-07-01,2025-06-30,0
+904,"CA3410030, CA3410014",folsom  city of,2024-07-01,2024-07-31,0
+904,"CA3410030, CA3410014",folsom  city of,2024-08-01,2024-08-31,0
+904,"CA3410030, CA3410014",folsom  city of,2024-09-01,2024-09-30,0
+904,"CA3410030, CA3410014",folsom  city of,2024-10-01,2024-10-31,0
+904,"CA3410030, CA3410014",folsom  city of,2024-11-01,2024-11-30,0
+904,"CA3410030, CA3410014",folsom  city of,2024-12-01,2024-12-31,0
+904,"CA3410030, CA3410014",folsom  city of,2025-01-01,2025-01-31,0
+904,"CA3410030, CA3410014",folsom  city of,2025-02-01,2025-02-28,0
+904,"CA3410030, CA3410014",folsom  city of,2025-03-01,2025-03-31,0
+904,"CA3410030, CA3410014",folsom  city of,2025-04-01,2025-04-30,0
+904,"CA3410030, CA3410014",folsom  city of,2025-05-01,2025-05-31,0
+904,"CA3410030, CA3410014",folsom  city of,2025-06-01,2025-06-30,0
+904,"CA3410030, CA3410014",folsom  city of,2024-07-01,2025-06-30,0
+920,CA1210006,fortuna  city of,2024-07-01,2024-07-31,0
+920,CA1210006,fortuna  city of,2024-08-01,2024-08-31,0
+920,CA1210006,fortuna  city of,2024-09-01,2024-09-30,0
+920,CA1210006,fortuna  city of,2024-10-01,2024-10-31,0
+920,CA1210006,fortuna  city of,2024-11-01,2024-11-30,0
+920,CA1210006,fortuna  city of,2024-12-01,2024-12-31,0
+920,CA1210006,fortuna  city of,2025-01-01,2025-01-31,0
+920,CA1210006,fortuna  city of,2025-02-01,2025-02-28,0
+920,CA1210006,fortuna  city of,2025-03-01,2025-03-31,0
+920,CA1210006,fortuna  city of,2025-04-01,2025-04-30,0
+920,CA1210006,fortuna  city of,2025-05-01,2025-05-31,0
+920,CA1210006,fortuna  city of,2025-06-01,2025-06-30,0
+920,CA1210006,fortuna  city of,2024-07-01,2025-06-30,0
+977,CA3010062,garden grove  city of,2024-07-01,2025-06-30,0
+1005,CA1910044,glendora  city of,2024-07-01,2024-07-31,0
+1005,CA1910044,glendora  city of,2024-08-01,2024-08-31,0
+1005,CA1910044,glendora  city of,2024-09-01,2024-09-30,0
+1005,CA1910044,glendora  city of,2024-10-01,2024-10-31,0
+1005,CA1910044,glendora  city of,2024-11-01,2024-11-30,0
+1005,CA1910044,glendora  city of,2024-12-01,2024-12-31,0
+1005,CA1910044,glendora  city of,2025-01-01,2025-01-31,0
+1005,CA1910044,glendora  city of,2025-02-01,2025-02-28,0
+1005,CA1910044,glendora  city of,2025-03-01,2025-03-31,0
+1005,CA1910044,glendora  city of,2025-04-01,2025-04-30,0
+1005,CA1910044,glendora  city of,2025-05-01,2025-05-31,0
+1005,CA1910044,glendora  city of,2025-06-01,2025-06-30,0
+1005,CA1910044,glendora  city of,2024-07-01,2025-06-30,0
+1029,CA1910004,golden state water company - artesia,2024-07-01,2024-07-31,0
+1029,CA1910004,golden state water company - artesia,2024-08-01,2024-08-31,0
+1029,CA1910004,golden state water company - artesia,2024-09-01,2024-09-30,0
+1029,CA1910004,golden state water company - artesia,2024-10-01,2024-10-31,0
+1029,CA1910004,golden state water company - artesia,2024-11-01,2024-11-30,0
+1029,CA1910004,golden state water company - artesia,2024-12-01,2024-12-31,0
+1029,CA1910004,golden state water company - artesia,2025-01-01,2025-01-31,0
+1029,CA1910004,golden state water company - artesia,2025-02-01,2025-02-28,0
+1029,CA1910004,golden state water company - artesia,2025-03-01,2025-03-31,0
+1029,CA1910004,golden state water company - artesia,2025-04-01,2025-04-30,0
+1029,CA1910004,golden state water company - artesia,2025-05-01,2025-05-31,0
+1029,CA1910004,golden state water company - artesia,2025-06-01,2025-06-30,0
+1029,CA1910004,golden state water company - artesia,2024-07-01,2025-06-30,0
+1030,CA1910004,golden state water company - barstow,2024-07-01,2024-07-31,0
+1030,CA1910004,golden state water company - barstow,2024-08-01,2024-08-31,0
+1030,CA1910004,golden state water company - barstow,2024-09-01,2024-09-30,0
+1030,CA1910004,golden state water company - barstow,2024-10-01,2024-10-31,0
+1030,CA1910004,golden state water company - barstow,2024-11-01,2024-11-30,0
+1030,CA1910004,golden state water company - barstow,2024-12-01,2024-12-31,0
+1030,CA1910004,golden state water company - barstow,2025-01-01,2025-01-31,0
+1030,CA1910004,golden state water company - barstow,2025-02-01,2025-02-28,0
+1030,CA1910004,golden state water company - barstow,2025-03-01,2025-03-31,0
+1030,CA1910004,golden state water company - barstow,2025-04-01,2025-04-30,0
+1030,CA1910004,golden state water company - barstow,2025-05-01,2025-05-31,0
+1030,CA1910004,golden state water company - barstow,2025-06-01,2025-06-30,0
+1030,CA1910004,golden state water company - barstow,2024-07-01,2025-06-30,0
+1031,CA0710002,golden state water company - bay point,2024-07-01,2024-07-31,0
+1031,CA0710002,golden state water company - bay point,2024-08-01,2024-08-31,0
+1031,CA0710002,golden state water company - bay point,2024-09-01,2024-09-30,0
+1031,CA0710002,golden state water company - bay point,2024-10-01,2024-10-31,0
+1031,CA0710002,golden state water company - bay point,2024-11-01,2024-11-30,0
+1031,CA0710002,golden state water company - bay point,2024-12-01,2024-12-31,0
+1031,CA0710002,golden state water company - bay point,2025-01-01,2025-01-31,0
+1031,CA0710002,golden state water company - bay point,2025-02-01,2025-02-28,0
+1031,CA0710002,golden state water company - bay point,2025-03-01,2025-03-31,0
+1031,CA0710002,golden state water company - bay point,2025-04-01,2025-04-30,0
+1031,CA0710002,golden state water company - bay point,2025-05-01,2025-05-31,0
+1031,CA0710002,golden state water company - bay point,2025-06-01,2025-06-30,0
+1031,CA0710002,golden state water company - bay point,2024-07-01,2025-06-30,0
+1032,CA1910011,golden state water company - bell-bell gardens,2024-07-01,2024-07-31,0
+1032,CA1910011,golden state water company - bell-bell gardens,2024-08-01,2024-08-31,0
+1032,CA1910011,golden state water company - bell-bell gardens,2024-09-01,2024-09-30,0
+1032,CA1910011,golden state water company - bell-bell gardens,2024-10-01,2024-10-31,0
+1032,CA1910011,golden state water company - bell-bell gardens,2024-11-01,2024-11-30,0
+1032,CA1910011,golden state water company - bell-bell gardens,2024-12-01,2024-12-31,0
+1032,CA1910011,golden state water company - bell-bell gardens,2025-01-01,2025-01-31,0
+1032,CA1910011,golden state water company - bell-bell gardens,2025-02-01,2025-02-28,0
+1032,CA1910011,golden state water company - bell-bell gardens,2025-03-01,2025-03-31,0
+1032,CA1910011,golden state water company - bell-bell gardens,2025-04-01,2025-04-30,0
+1032,CA1910011,golden state water company - bell-bell gardens,2025-05-01,2025-05-31,0
+1032,CA1910011,golden state water company - bell-bell gardens,2025-06-01,2025-06-30,0
+1032,CA1910011,golden state water company - bell-bell gardens,2024-07-01,2025-06-30,0
+1034,CA1910024,golden state water company - claremont,2024-07-01,2024-07-31,0
+1034,CA1910024,golden state water company - claremont,2024-08-01,2024-08-31,0
+1034,CA1910024,golden state water company - claremont,2024-09-01,2024-09-30,0
+1034,CA1910024,golden state water company - claremont,2024-10-01,2024-10-31,0
+1034,CA1910024,golden state water company - claremont,2024-11-01,2024-11-30,0
+1034,CA1910024,golden state water company - claremont,2024-12-01,2024-12-31,0
+1034,CA1910024,golden state water company - claremont,2025-01-01,2025-01-31,0
+1034,CA1910024,golden state water company - claremont,2025-02-01,2025-02-28,0
+1034,CA1910024,golden state water company - claremont,2025-03-01,2025-03-31,0
+1034,CA1910024,golden state water company - claremont,2025-04-01,2025-04-30,0
+1034,CA1910024,golden state water company - claremont,2025-05-01,2025-05-31,0
+1034,CA1910024,golden state water company - claremont,2025-06-01,2025-06-30,0
+1034,CA1910024,golden state water company - claremont,2024-07-01,2025-06-30,0
+1036,CA3410015,golden state water company - cordova,2024-07-01,2024-07-31,0
+1036,CA3410015,golden state water company - cordova,2024-08-01,2024-08-31,0
+1036,CA3410015,golden state water company - cordova,2024-09-01,2024-09-30,0
+1036,CA3410015,golden state water company - cordova,2024-10-01,2024-10-31,0
+1036,CA3410015,golden state water company - cordova,2024-11-01,2024-11-30,0
+1036,CA3410015,golden state water company - cordova,2024-12-01,2024-12-31,0
+1036,CA3410015,golden state water company - cordova,2025-01-01,2025-01-31,0
+1036,CA3410015,golden state water company - cordova,2025-02-01,2025-02-28,0
+1036,CA3410015,golden state water company - cordova,2025-03-01,2025-03-31,0
+1036,CA3410015,golden state water company - cordova,2025-04-01,2025-04-30,0
+1036,CA3410015,golden state water company - cordova,2025-05-01,2025-05-31,0
+1036,CA3410015,golden state water company - cordova,2025-06-01,2025-06-30,0
+1036,CA3410015,golden state water company - cordova,2024-07-01,2025-06-30,0
+1038,CA1910030,golden state water company - culver city,2024-07-01,2024-07-31,0
+1038,CA1910030,golden state water company - culver city,2024-08-01,2024-08-31,0
+1038,CA1910030,golden state water company - culver city,2024-09-01,2024-09-30,0
+1038,CA1910030,golden state water company - culver city,2024-10-01,2024-10-31,0
+1038,CA1910030,golden state water company - culver city,2024-11-01,2024-11-30,0
+1038,CA1910030,golden state water company - culver city,2024-12-01,2024-12-31,0
+1038,CA1910030,golden state water company - culver city,2025-01-01,2025-01-31,0
+1038,CA1910030,golden state water company - culver city,2025-02-01,2025-02-28,0
+1038,CA1910030,golden state water company - culver city,2025-03-01,2025-03-31,0
+1038,CA1910030,golden state water company - culver city,2025-04-01,2025-04-30,0
+1038,CA1910030,golden state water company - culver city,2025-05-01,2025-05-31,0
+1038,CA1910030,golden state water company - culver city,2025-06-01,2025-06-30,0
+1038,CA1910030,golden state water company - culver city,2024-07-01,2025-06-30,0
+1041,CA1910077,golden state water company - florence graham,2024-07-01,2024-07-31,0
+1041,CA1910077,golden state water company - florence graham,2024-08-01,2024-08-31,0
+1041,CA1910077,golden state water company - florence graham,2024-09-01,2024-09-30,0
+1041,CA1910077,golden state water company - florence graham,2024-10-01,2024-10-31,0
+1041,CA1910077,golden state water company - florence graham,2024-11-01,2024-11-30,0
+1041,CA1910077,golden state water company - florence graham,2024-12-01,2024-12-31,0
+1041,CA1910077,golden state water company - florence graham,2025-01-01,2025-01-31,0
+1041,CA1910077,golden state water company - florence graham,2025-02-01,2025-02-28,0
+1041,CA1910077,golden state water company - florence graham,2025-03-01,2025-03-31,0
+1041,CA1910077,golden state water company - florence graham,2025-04-01,2025-04-30,0
+1041,CA1910077,golden state water company - florence graham,2025-05-01,2025-05-31,0
+1041,CA1910077,golden state water company - florence graham,2025-06-01,2025-06-30,0
+1041,CA1910077,golden state water company - florence graham,2024-07-01,2025-06-30,0
+1049,CA1910098,golden state water company - norwalk,2024-07-01,2024-07-31,0
+1049,CA1910098,golden state water company - norwalk,2024-08-01,2024-08-31,0
+1049,CA1910098,golden state water company - norwalk,2024-09-01,2024-09-30,0
+1049,CA1910098,golden state water company - norwalk,2024-10-01,2024-10-31,0
+1049,CA1910098,golden state water company - norwalk,2024-11-01,2024-11-30,0
+1049,CA1910098,golden state water company - norwalk,2024-12-01,2024-12-31,0
+1049,CA1910098,golden state water company - norwalk,2025-01-01,2025-01-31,0
+1049,CA1910098,golden state water company - norwalk,2025-02-01,2025-02-28,0
+1049,CA1910098,golden state water company - norwalk,2025-03-01,2025-03-31,0
+1049,CA1910098,golden state water company - norwalk,2025-04-01,2025-04-30,0
+1049,CA1910098,golden state water company - norwalk,2025-05-01,2025-05-31,0
+1049,CA1910098,golden state water company - norwalk,2025-06-01,2025-06-30,0
+1049,CA1910098,golden state water company - norwalk,2024-07-01,2025-06-30,0
+1052,CA4210016,golden state water company - orcutt,2024-07-01,2024-07-31,0
+1052,CA4210016,golden state water company - orcutt,2024-08-01,2024-08-31,0
+1052,CA4210016,golden state water company - orcutt,2024-09-01,2024-09-30,0
+1052,CA4210016,golden state water company - orcutt,2024-10-01,2024-10-31,0
+1052,CA4210016,golden state water company - orcutt,2024-11-01,2024-11-30,0
+1052,CA4210016,golden state water company - orcutt,2024-12-01,2024-12-31,0
+1052,CA4210016,golden state water company - orcutt,2025-01-01,2025-01-31,0
+1052,CA4210016,golden state water company - orcutt,2025-02-01,2025-02-28,0
+1052,CA4210016,golden state water company - orcutt,2025-03-01,2025-03-31,0
+1052,CA4210016,golden state water company - orcutt,2025-04-01,2025-04-30,0
+1052,CA4210016,golden state water company - orcutt,2025-05-01,2025-05-31,0
+1052,CA4210016,golden state water company - orcutt,2025-06-01,2025-06-30,0
+1052,CA4210016,golden state water company - orcutt,2024-07-01,2025-07-31,0
+1053,CA3010035,golden state water company - placentia,2024-07-01,2024-07-31,0
+1053,CA3010035,golden state water company - placentia,2024-08-01,2024-08-31,0
+1053,CA3010035,golden state water company - placentia,2024-09-01,2024-09-30,0
+1053,CA3010035,golden state water company - placentia,2024-10-01,2024-10-31,0
+1053,CA3010035,golden state water company - placentia,2024-11-01,2024-11-30,0
+1053,CA3010035,golden state water company - placentia,2024-12-01,2024-12-31,0
+1053,CA3010035,golden state water company - placentia,2025-01-01,2025-01-31,0
+1053,CA3010035,golden state water company - placentia,2025-02-01,2025-02-28,0
+1053,CA3010035,golden state water company - placentia,2025-03-01,2025-03-31,0
+1053,CA3010035,golden state water company - placentia,2025-04-01,2025-04-30,0
+1053,CA3010035,golden state water company - placentia,2025-05-01,2025-05-31,0
+1053,CA3010035,golden state water company - placentia,2025-06-01,2025-06-30,0
+1053,CA3010035,golden state water company - placentia,2024-07-01,2025-06-30,0
+1054,CA1910142,golden state water company - san dimas,2024-07-01,2024-07-31,0
+1054,CA1910142,golden state water company - san dimas,2024-08-01,2024-08-31,0
+1054,CA1910142,golden state water company - san dimas,2024-09-01,2024-09-30,0
+1054,CA1910142,golden state water company - san dimas,2024-10-01,2024-10-31,0
+1054,CA1910142,golden state water company - san dimas,2024-11-01,2024-11-30,0
+1054,CA1910142,golden state water company - san dimas,2024-12-01,2024-12-31,0
+1054,CA1910142,golden state water company - san dimas,2025-01-01,2025-01-31,0
+1054,CA1910142,golden state water company - san dimas,2025-02-01,2025-02-28,0
+1054,CA1910142,golden state water company - san dimas,2025-03-01,2025-03-31,0
+1054,CA1910142,golden state water company - san dimas,2025-04-01,2025-04-30,0
+1054,CA1910142,golden state water company - san dimas,2025-05-01,2025-05-31,0
+1054,CA1910142,golden state water company - san dimas,2025-06-01,2025-06-30,0
+1054,CA1910142,golden state water company - san dimas,2024-07-01,2025-06-30,0
+1057,CA5610059,golden state water company - simi valley,2024-07-01,2024-07-31,0
+1057,CA5610059,golden state water company - simi valley,2024-08-01,2024-08-31,0
+1057,CA5610059,golden state water company - simi valley,2024-09-01,2024-09-30,0
+1057,CA5610059,golden state water company - simi valley,2024-10-01,2024-10-31,0
+1057,CA5610059,golden state water company - simi valley,2024-11-01,2024-11-30,0
+1057,CA5610059,golden state water company - simi valley,2024-12-01,2024-12-31,0
+1057,CA5610059,golden state water company - simi valley,2025-01-01,2025-01-31,0
+1057,CA5610059,golden state water company - simi valley,2025-02-01,2025-02-28,0
+1057,CA5610059,golden state water company - simi valley,2025-03-01,2025-03-31,0
+1057,CA5610059,golden state water company - simi valley,2025-04-01,2025-04-30,0
+1057,CA5610059,golden state water company - simi valley,2025-05-01,2025-05-31,0
+1057,CA5610059,golden state water company - simi valley,2025-06-01,2025-06-30,0
+1057,CA5610059,golden state water company - simi valley,2024-07-01,2025-06-30,0
+1058,CA1910212,golden state water company - south arcadia,2024-07-01,2024-07-31,0
+1058,CA1910212,golden state water company - south arcadia,2024-08-01,2024-08-31,0
+1058,CA1910212,golden state water company - south arcadia,2024-09-01,2024-09-30,0
+1058,CA1910212,golden state water company - south arcadia,2024-10-01,2024-10-31,0
+1058,CA1910212,golden state water company - south arcadia,2024-11-01,2024-11-30,0
+1058,CA1910212,golden state water company - south arcadia,2024-12-01,2024-12-31,0
+1058,CA1910212,golden state water company - south arcadia,2025-01-01,2025-01-31,0
+1058,CA1910212,golden state water company - south arcadia,2025-02-01,2025-02-28,0
+1058,CA1910212,golden state water company - south arcadia,2025-03-01,2025-03-31,0
+1058,CA1910212,golden state water company - south arcadia,2025-04-01,2025-04-30,0
+1058,CA1910212,golden state water company - south arcadia,2025-05-01,2025-05-31,0
+1058,CA1910212,golden state water company - south arcadia,2025-06-01,2025-06-30,0
+1058,CA1910212,golden state water company - south arcadia,2024-07-01,2025-06-30,0
+1059,CA1910223,golden state water company - south san gabriel,2024-07-01,2024-07-31,0
+1059,CA1910223,golden state water company - south san gabriel,2024-08-01,2024-08-31,0
+1059,CA1910223,golden state water company - south san gabriel,2024-09-01,2024-09-30,0
+1059,CA1910223,golden state water company - south san gabriel,2024-10-01,2024-10-31,0
+1059,CA1910223,golden state water company - south san gabriel,2024-11-01,2024-11-30,0
+1059,CA1910223,golden state water company - south san gabriel,2024-12-01,2024-12-31,0
+1059,CA1910223,golden state water company - south san gabriel,2025-01-01,2025-01-31,0
+1059,CA1910223,golden state water company - south san gabriel,2025-02-01,2025-02-28,0
+1059,CA1910223,golden state water company - south san gabriel,2025-03-01,2025-03-31,0
+1059,CA1910223,golden state water company - south san gabriel,2025-04-01,2025-04-30,0
+1059,CA1910223,golden state water company - south san gabriel,2025-05-01,2025-05-31,0
+1059,CA1910223,golden state water company - south san gabriel,2025-06-01,2025-06-30,0
+1059,CA1910223,golden state water company - south san gabriel,2024-07-01,2025-06-30,0
+1060,CA1910155,golden state water company - southwest,2024-07-01,2024-07-31,0
+1060,CA1910155,golden state water company - southwest,2024-08-01,2024-08-31,0
+1060,CA1910155,golden state water company - southwest,2024-09-01,2024-09-30,0
+1060,CA1910155,golden state water company - southwest,2024-10-01,2024-10-31,0
+1060,CA1910155,golden state water company - southwest,2024-11-01,2024-11-30,0
+1060,CA1910155,golden state water company - southwest,2024-12-01,2024-12-31,0
+1060,CA1910155,golden state water company - southwest,2025-01-01,2025-01-31,0
+1060,CA1910155,golden state water company - southwest,2025-02-01,2025-02-28,0
+1060,CA1910155,golden state water company - southwest,2025-03-01,2025-03-31,0
+1060,CA1910155,golden state water company - southwest,2025-04-01,2025-04-30,0
+1060,CA1910155,golden state water company - southwest,2025-05-01,2025-05-31,0
+1060,CA1910155,golden state water company - southwest,2025-06-01,2025-06-30,0
+1060,CA1910155,golden state water company - southwest,2024-07-01,2025-06-30,0
+1062,CA3010022,golden state water company - west orange,2024-07-01,2024-07-31,0
+1062,CA3010022,golden state water company - west orange,2024-08-01,2024-08-31,0
+1062,CA3010022,golden state water company - west orange,2024-09-01,2024-09-30,0
+1062,CA3010022,golden state water company - west orange,2024-10-01,2024-10-31,0
+1062,CA3010022,golden state water company - west orange,2024-11-01,2024-11-30,0
+1062,CA3010022,golden state water company - west orange,2024-12-01,2024-12-31,0
+1062,CA3010022,golden state water company - west orange,2025-01-01,2025-01-31,0
+1062,CA3010022,golden state water company - west orange,2025-02-01,2025-02-28,0
+1062,CA3010022,golden state water company - west orange,2025-03-01,2025-03-31,0
+1062,CA3010022,golden state water company - west orange,2025-04-01,2025-04-30,0
+1062,CA3010022,golden state water company - west orange,2025-05-01,2025-05-31,0
+1062,CA3010022,golden state water company - west orange,2025-06-01,2025-06-30,0
+1062,CA3010022,golden state water company - west orange,2024-07-01,2025-06-30,0
+1094,CA1510024,greenfield county water district,2024-07-01,2024-07-31,0
+1094,CA1510024,greenfield county water district,2024-08-01,2024-08-31,0
+1094,CA1510024,greenfield county water district,2024-09-01,2024-09-30,0
+1094,CA1510024,greenfield county water district,2024-10-01,2024-10-31,0
+1094,CA1510024,greenfield county water district,2024-11-01,2024-11-30,0
+1094,CA1510024,greenfield county water district,2024-12-01,2024-12-31,0
+1094,CA1510024,greenfield county water district,2025-01-01,2025-01-31,0
+1094,CA1510024,greenfield county water district,2025-02-01,2025-02-28,0
+1094,CA1510024,greenfield county water district,2025-03-01,2025-03-31,0
+1094,CA1510024,greenfield county water district,2025-04-01,2025-04-30,0
+1094,CA1510024,greenfield county water district,2025-05-01,2025-05-31,0
+1094,CA1510024,greenfield county water district,2025-06-01,2025-06-30,0
+1094,CA1510024,greenfield county water district,2024-07-01,2025-06-30,0
+1142,CA1910047,hawthorne  city of,2024-07-01,2024-07-31,0
+1142,CA1910047,hawthorne  city of,2024-08-01,2024-08-31,0
+1142,CA1910047,hawthorne  city of,2024-09-01,2024-09-30,0
+1142,CA1910047,hawthorne  city of,2024-10-01,2024-10-31,0
+1142,CA1910047,hawthorne  city of,2024-11-01,2024-11-30,0
+1142,CA1910047,hawthorne  city of,2024-12-01,2024-12-31,0
+1142,CA1910047,hawthorne  city of,2025-01-01,2025-01-31,0
+1142,CA1910047,hawthorne  city of,2025-02-01,2025-02-28,0
+1142,CA1910047,hawthorne  city of,2025-03-01,2025-03-31,0
+1142,CA1910047,hawthorne  city of,2025-04-01,2025-04-30,0
+1142,CA1910047,hawthorne  city of,2025-05-01,2025-05-31,0
+1142,CA1910047,hawthorne  city of,2025-06-01,2025-06-30,0
+1142,CA1910047,hawthorne  city of,2024-07-01,2025-06-30,0
+1144,CA4910005,healdsburg  city of,2024-07-01,2024-07-31,0
+1144,CA4910005,healdsburg  city of,2024-08-01,2024-08-31,0
+1144,CA4910005,healdsburg  city of,2024-09-01,2024-09-30,0
+1144,CA4910005,healdsburg  city of,2024-10-01,2024-10-31,0
+1144,CA4910005,healdsburg  city of,2024-11-01,2024-11-30,0
+1144,CA4910005,healdsburg  city of,2024-12-01,2024-12-31,0
+1144,CA4910005,healdsburg  city of,2025-01-01,2025-01-31,0
+1144,CA4910005,healdsburg  city of,2025-02-01,2025-02-28,0
+1144,CA4910005,healdsburg  city of,2025-03-01,2025-03-31,0
+1144,CA4910005,healdsburg  city of,2025-04-01,2025-04-30,0
+1144,CA4910005,healdsburg  city of,2025-05-01,2025-05-31,0
+1144,CA4910005,healdsburg  city of,2025-06-01,2025-06-30,0
+1144,CA4910005,healdsburg  city of,2024-07-01,2025-06-30,0
+1154,CA3710010,helix water district,2024-07-01,2025-06-30,0
+1157,CA3310016,hemet  city of,2024-07-01,2024-07-31,0
+1157,CA3310016,hemet  city of,2024-08-01,2024-08-31,0
+1157,CA3310016,hemet  city of,2024-09-01,2024-09-30,0
+1157,CA3310016,hemet  city of,2024-10-01,2024-10-31,0
+1157,CA3310016,hemet  city of,2024-11-01,2024-11-30,0
+1157,CA3310016,hemet  city of,2024-12-01,2024-12-31,0
+1157,CA3310016,hemet  city of,2025-01-01,2025-01-31,0
+1157,CA3310016,hemet  city of,2025-02-01,2025-02-28,0
+1157,CA3310016,hemet  city of,2025-03-01,2025-03-31,0
+1157,CA3310016,hemet  city of,2025-04-01,2025-04-30,0
+1157,CA3310016,hemet  city of,2025-05-01,2025-05-31,0
+1157,CA3310016,hemet  city of,2025-06-01,2025-06-30,0
+1157,CA3310016,hemet  city of,2024-07-01,2025-06-30,0
+1210,CA1210009,humboldt community services district,2024-07-01,2024-07-31,0
+1210,CA1210009,humboldt community services district,2024-08-01,2024-08-31,0
+1210,CA1210009,humboldt community services district,2024-09-01,2024-09-30,0
+1210,CA1210009,humboldt community services district,2024-10-01,2024-10-31,0
+1210,CA1210009,humboldt community services district,2024-11-01,2024-11-30,0
+1210,CA1210009,humboldt community services district,2024-12-01,2024-12-31,0
+1210,CA1210009,humboldt community services district,2025-01-01,2025-01-31,0
+1210,CA1210009,humboldt community services district,2025-02-01,2025-02-28,0
+1210,CA1210009,humboldt community services district,2025-03-01,2025-03-31,0
+1210,CA1210009,humboldt community services district,2025-04-01,2025-04-30,0
+1210,CA1210009,humboldt community services district,2025-05-01,2025-05-31,0
+1210,CA1210009,humboldt community services district,2025-06-01,2025-06-30,0
+1210,CA1210009,humboldt community services district,2024-07-01,2025-06-30,0
+1215,CA3010053,huntington beach  city of,2024-07-01,2025-06-30,0
+1234,CA1510017,indian wells valley water district,2024-07-01,2024-07-31,0
+1234,CA1510017,indian wells valley water district,2024-08-01,2024-08-31,0
+1234,CA1510017,indian wells valley water district,2024-09-01,2024-09-30,0
+1234,CA1510017,indian wells valley water district,2024-10-01,2024-10-31,0
+1234,CA1510017,indian wells valley water district,2024-11-01,2024-11-30,0
+1234,CA1510017,indian wells valley water district,2024-12-01,2024-12-31,0
+1234,CA1510017,indian wells valley water district,2025-01-01,2025-01-31,0
+1234,CA1510017,indian wells valley water district,2025-02-01,2025-02-28,0
+1234,CA1510017,indian wells valley water district,2025-03-01,2025-03-31,0
+1234,CA1510017,indian wells valley water district,2025-04-01,2025-04-30,0
+1234,CA1510017,indian wells valley water district,2025-05-01,2025-05-31,0
+1234,CA1510017,indian wells valley water district,2025-06-01,2025-06-30,0
+1234,CA1510017,indian wells valley water district,2024-07-01,2025-06-30,0
+1236,CA3310020,indio  city of,2024-07-01,2024-07-31,0
+1236,CA3310020,indio  city of,2024-08-01,2024-08-31,0
+1236,CA3310020,indio  city of,2024-09-01,2024-09-30,0
+1236,CA3310020,indio  city of,2024-10-01,2024-10-31,0
+1236,CA3310020,indio  city of,2024-11-01,2024-11-30,0
+1236,CA3310020,indio  city of,2024-12-01,2024-12-31,0
+1236,CA3310020,indio  city of,2025-01-01,2025-01-31,0
+1236,CA3310020,indio  city of,2025-02-01,2025-02-28,0
+1236,CA3310020,indio  city of,2025-03-01,2025-03-31,0
+1236,CA3310020,indio  city of,2025-04-01,2025-04-30,0
+1236,CA3310020,indio  city of,2025-05-01,2025-05-31,0
+1236,CA3310020,indio  city of,2025-06-01,2025-06-30,0
+1236,CA3310020,indio  city of,2024-07-01,2025-06-30,0
+1238,CA1910051,inglewood  city of,2024-07-01,2024-07-31,0
+1238,CA1910051,inglewood  city of,2024-08-01,2024-08-31,0
+1238,CA1910051,inglewood  city of,2024-09-01,2024-09-30,0
+1238,CA1910051,inglewood  city of,2024-10-01,2024-10-31,0
+1238,CA1910051,inglewood  city of,2024-11-01,2024-11-30,0
+1238,CA1910051,inglewood  city of,2024-12-01,2024-12-31,0
+1238,CA1910051,inglewood  city of,2025-01-01,2025-01-31,0
+1238,CA1910051,inglewood  city of,2025-02-01,2025-02-28,0
+1238,CA1910051,inglewood  city of,2025-03-01,2025-03-31,0
+1238,CA1910051,inglewood  city of,2025-04-01,2025-04-30,0
+1238,CA1910051,inglewood  city of,2025-05-01,2025-05-31,0
+1238,CA1910051,inglewood  city of,2025-06-01,2025-06-30,0
+1238,CA1910051,inglewood  city of,2024-07-01,2025-06-30,0
+1245,CA3010092,irvine ranch water district,2024-07-01,2024-07-31,0
+1245,CA3010092,irvine ranch water district,2024-08-01,2024-08-31,0
+1245,CA3010092,irvine ranch water district,2024-09-01,2024-09-30,0
+1245,CA3010092,irvine ranch water district,2024-10-01,2024-10-31,0
+1245,CA3010092,irvine ranch water district,2024-11-01,2024-11-30,0
+1245,CA3010092,irvine ranch water district,2024-12-01,2024-12-31,0
+1245,CA3010092,irvine ranch water district,2025-01-01,2025-01-31,0
+1245,CA3010092,irvine ranch water district,2025-02-01,2025-02-28,0
+1245,CA3010092,irvine ranch water district,2025-03-01,2025-03-31,0
+1245,CA3010092,irvine ranch water district,2025-04-01,2025-04-30,0
+1245,CA3010092,irvine ranch water district,2025-05-01,2025-05-31,0
+1245,CA3010092,irvine ranch water district,2025-06-01,2025-06-30,0
+1245,CA3010092,irvine ranch water district,2024-07-01,2025-06-30,0
+1270,CA3610025,joshua basin water district,2024-07-01,2024-07-31,0
+1270,CA3610025,joshua basin water district,2024-08-01,2024-08-31,0
+1270,CA3610025,joshua basin water district,2024-09-01,2024-09-30,0
+1270,CA3610025,joshua basin water district,2024-10-01,2024-10-31,0
+1270,CA3610025,joshua basin water district,2024-11-01,2024-11-30,0
+1270,CA3610025,joshua basin water district,2024-12-01,2024-12-31,0
+1270,CA3610025,joshua basin water district,2025-01-01,2025-01-31,0
+1270,CA3610025,joshua basin water district,2025-02-01,2025-02-28,0
+1270,CA3610025,joshua basin water district,2025-03-01,2025-03-31,0
+1270,CA3610025,joshua basin water district,2025-04-01,2025-04-30,0
+1270,CA3610025,joshua basin water district,2025-05-01,2025-05-31,0
+1270,CA3610025,joshua basin water district,2025-06-01,2025-06-30,0
+1270,CA3610025,joshua basin water district,2024-07-01,2025-06-30,0
+1273,CA3310021,jurupa community service district,2024-07-01,2024-07-31,0
+1273,CA3310021,jurupa community service district,2024-08-01,2024-08-31,0
+1273,CA3310021,jurupa community service district,2024-09-01,2024-09-30,0
+1273,CA3310021,jurupa community service district,2024-10-01,2024-10-31,0
+1273,CA3310021,jurupa community service district,2024-11-01,2024-11-30,0
+1273,CA3310021,jurupa community service district,2024-12-01,2024-12-31,0
+1273,CA3310021,jurupa community service district,2025-01-01,2025-01-31,0
+1273,CA3310021,jurupa community service district,2025-02-01,2025-02-28,0
+1273,CA3310021,jurupa community service district,2025-03-01,2025-03-31,0
+1273,CA3310021,jurupa community service district,2025-04-01,2025-04-30,0
+1273,CA3310021,jurupa community service district,2025-05-01,2025-05-31,0
+1273,CA3310021,jurupa community service district,2025-06-01,2025-06-30,0
+1273,CA3310021,jurupa community service district,2024-07-01,2025-06-30,0
+1286,CA1010018,kerman  city of,2024-07-01,2024-07-31,0
+1286,CA1010018,kerman  city of,2024-08-01,2024-08-31,0
+1286,CA1010018,kerman  city of,2024-09-01,2024-09-30,0
+1286,CA1010018,kerman  city of,2024-10-01,2024-10-31,0
+1286,CA1010018,kerman  city of,2024-11-01,2024-11-30,0
+1286,CA1010018,kerman  city of,2024-12-01,2024-12-31,0
+1286,CA1010018,kerman  city of,2025-01-01,2025-01-31,0
+1286,CA1010018,kerman  city of,2025-02-01,2025-02-28,0
+1286,CA1010018,kerman  city of,2025-03-01,2025-03-31,0
+1286,CA1010018,kerman  city of,2025-04-01,2025-04-30,0
+1286,CA1010018,kerman  city of,2025-05-01,2025-05-31,0
+1286,CA1010018,kerman  city of,2025-06-01,2025-06-30,0
+1286,CA1010018,kerman  city of,2024-07-01,2025-06-30,0
+1324,CA3010018,la habra  city of,2024-07-01,2025-06-30,0
+1333,CA1910062,la verne  city of,2024-07-01,2024-07-31,0
+1333,CA1910062,la verne  city of,2024-08-01,2024-08-31,0
+1333,CA1910062,la verne  city of,2024-09-01,2024-09-30,0
+1333,CA1910062,la verne  city of,2024-10-01,2024-10-31,0
+1333,CA1910062,la verne  city of,2024-11-01,2024-11-30,0
+1333,CA1910062,la verne  city of,2024-12-01,2024-12-31,0
+1333,CA1910062,la verne  city of,2025-01-01,2025-01-31,0
+1333,CA1910062,la verne  city of,2025-02-01,2025-02-28,0
+1333,CA1910062,la verne  city of,2025-03-01,2025-03-31,0
+1333,CA1910062,la verne  city of,2025-04-01,2025-04-30,0
+1333,CA1910062,la verne  city of,2025-05-01,2025-05-31,0
+1333,CA1910062,la verne  city of,2025-06-01,2025-06-30,0
+1333,CA1910062,la verne  city of,2024-07-01,2025-06-30,0
+1343,CA3610005,lake arrowhead community services district,2024-07-01,2024-07-31,2
+1343,CA3610005,lake arrowhead community services district,2024-08-01,2024-08-31,2
+1343,CA3610005,lake arrowhead community services district,2024-09-01,2024-09-30,1
+1343,CA3610005,lake arrowhead community services district,2024-10-01,2024-10-31,1
+1343,CA3610005,lake arrowhead community services district,2024-11-01,2024-11-30,1
+1343,CA3610005,lake arrowhead community services district,2024-12-01,2024-12-31,0
+1343,CA3610005,lake arrowhead community services district,2025-01-01,2025-01-31,0
+1343,CA3610005,lake arrowhead community services district,2025-02-01,2025-02-28,0
+1343,CA3610005,lake arrowhead community services district,2025-03-01,2025-03-31,0
+1343,CA3610005,lake arrowhead community services district,2025-04-01,2025-04-30,0
+1343,CA3610005,lake arrowhead community services district,2025-05-01,2025-05-31,0
+1343,CA3610005,lake arrowhead community services district,2025-06-01,2025-06-30,1
+1343,CA3610005,lake arrowhead community services district,2024-07-01,2025-06-30,1
+1352,CA3310022,lake hemet municipal water district,2024-07-01,2025-06-30,0
+1370,CA1910239,lakewood  city of,2024-07-01,2024-07-31,0
+1370,CA1910239,lakewood  city of,2024-08-01,2024-08-31,0
+1370,CA1910239,lakewood  city of,2024-09-01,2024-09-30,0
+1370,CA1910239,lakewood  city of,2024-10-01,2024-10-31,0
+1370,CA1910239,lakewood  city of,2024-11-01,2024-11-30,0
+1370,CA1910239,lakewood  city of,2024-12-01,2024-12-31,0
+1370,CA1910239,lakewood  city of,2025-01-01,2025-01-31,0
+1370,CA1910239,lakewood  city of,2025-02-01,2025-02-28,0
+1370,CA1910239,lakewood  city of,2025-03-01,2025-03-31,0
+1370,CA1910239,lakewood  city of,2025-04-01,2025-04-30,0
+1370,CA1910239,lakewood  city of,2025-05-01,2025-05-31,0
+1370,CA1910239,lakewood  city of,2025-06-01,2025-06-30,0
+1370,CA1910239,lakewood  city of,2024-07-01,2025-06-30,0
+1384,CA1910225,las virgenes municipal water district,2024-07-01,2024-07-31,0
+1384,CA1910225,las virgenes municipal water district,2024-08-01,2024-08-31,0
+1384,CA1910225,las virgenes municipal water district,2024-09-01,2024-09-30,0
+1384,CA1910225,las virgenes municipal water district,2024-10-01,2024-10-31,0
+1384,CA1910225,las virgenes municipal water district,2024-11-01,2024-11-30,0
+1384,CA1910225,las virgenes municipal water district,2024-12-01,2024-12-31,0
+1384,CA1910225,las virgenes municipal water district,2025-01-01,2025-01-31,0
+1384,CA1910225,las virgenes municipal water district,2025-02-01,2025-02-28,0
+1384,CA1910225,las virgenes municipal water district,2025-03-01,2025-03-31,0
+1384,CA1910225,las virgenes municipal water district,2025-04-01,2025-04-30,0
+1384,CA1910225,las virgenes municipal water district,2025-05-01,2025-05-31,0
+1384,CA1910225,las virgenes municipal water district,2025-06-01,2025-06-30,0
+1384,CA1910225,las virgenes municipal water district,2024-07-01,2025-06-30,0
+1388,CA3910015,lathrop  city of,2024-07-01,2024-07-31,0
+1388,CA3910015,lathrop  city of,2024-08-01,2024-08-31,0
+1388,CA3910015,lathrop  city of,2024-09-01,2024-09-30,0
+1388,CA3910015,lathrop  city of,2024-10-01,2024-10-31,0
+1388,CA3910015,lathrop  city of,2024-11-01,2024-11-30,0
+1388,CA3910015,lathrop  city of,2024-12-01,2024-12-31,0
+1388,CA3910015,lathrop  city of,2025-01-01,2025-01-31,0
+1388,CA3910015,lathrop  city of,2025-02-01,2025-02-28,0
+1388,CA3910015,lathrop  city of,2025-03-01,2025-03-31,0
+1388,CA3910015,lathrop  city of,2025-04-01,2025-04-30,0
+1388,CA3910015,lathrop  city of,2025-05-01,2025-05-31,0
+1388,CA3910015,lathrop  city of,2025-06-01,2025-06-30,0
+1388,CA3910015,lathrop  city of,2024-07-01,2025-06-30,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2024-07-01,2024-07-31,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2024-08-01,2024-08-31,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2024-09-01,2024-09-30,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2024-10-01,2024-10-31,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2024-11-01,2024-11-30,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2024-12-01,2024-12-31,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2025-01-01,2025-01-31,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2025-02-01,2025-02-28,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2025-03-01,2025-03-31,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2025-04-01,2025-04-30,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2025-05-01,2025-05-31,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2025-06-01,2025-06-30,0
+1869,"CA1910021, CA1910161, CA1910211",liberty utilities (park water) corp,2024-07-01,2025-06-30,0
+1424,CA3110004,lincoln  city of,2025-01-01,2025-12-31,0
+1427,CA5810002,linda county water district,2024-07-01,2025-06-30,0
+1443,CA0110001,livermore  city of,2024-07-01,2024-07-31,0
+1443,CA0110001,livermore  city of,2024-08-01,2024-08-31,0
+1443,CA0110001,livermore  city of,2024-09-01,2024-09-30,0
+1443,CA0110001,livermore  city of,2024-10-01,2024-10-31,0
+1443,CA0110001,livermore  city of,2024-11-01,2024-11-30,0
+1443,CA0110001,livermore  city of,2024-12-01,2024-12-31,0
+1443,CA0110001,livermore  city of,2025-01-01,2025-01-31,0
+1443,CA0110001,livermore  city of,2025-02-01,2025-02-28,0
+1443,CA0110001,livermore  city of,2025-03-01,2025-03-31,0
+1443,CA0110001,livermore  city of,2025-04-01,2025-04-30,0
+1443,CA0110001,livermore  city of,2025-05-01,2025-05-31,0
+1443,CA0110001,livermore  city of,2025-06-01,2025-06-30,0
+1443,CA0110001,livermore  city of,2024-07-01,2025-06-30,0
+1444,CA5010013,livingston  city of,2024-07-01,2024-07-31,0
+1444,CA5010013,livingston  city of,2024-08-01,2024-08-31,0
+1444,CA5010013,livingston  city of,2024-09-01,2024-09-30,0
+1444,CA5010013,livingston  city of,2024-10-01,2024-10-31,0
+1444,CA5010013,livingston  city of,2024-11-01,2024-11-30,0
+1444,CA5010013,livingston  city of,2024-12-01,2024-12-31,0
+1444,CA5010013,livingston  city of,2025-01-01,2025-01-31,0
+1444,CA5010013,livingston  city of,2025-02-01,2025-02-28,0
+1444,CA5010013,livingston  city of,2025-03-01,2025-03-31,0
+1444,CA5010013,livingston  city of,2025-04-01,2025-04-30,0
+1444,CA5010013,livingston  city of,2025-05-01,2025-05-31,0
+1444,CA5010013,livingston  city of,2025-06-01,2025-06-30,0
+1444,CA5010013,livingston  city of,2024-07-01,2025-06-30,0
+1450,CA3910004,lodi  city of,2024-07-01,2024-07-31,0
+1450,CA3910004,lodi  city of,2024-08-01,2024-08-31,0
+1450,CA3910004,lodi  city of,2024-09-01,2024-09-30,0
+1450,CA3910004,lodi  city of,2024-10-01,2024-10-31,0
+1450,CA3910004,lodi  city of,2024-11-01,2024-11-30,0
+1450,CA3910004,lodi  city of,2024-12-01,2024-12-31,0
+1450,CA3910004,lodi  city of,2025-01-01,2025-01-31,0
+1450,CA3910004,lodi  city of,2025-02-01,2025-02-28,0
+1450,CA3910004,lodi  city of,2025-03-01,2025-03-31,0
+1450,CA3910004,lodi  city of,2025-04-01,2025-04-30,0
+1450,CA3910004,lodi  city of,2025-05-01,2025-05-31,0
+1450,CA3910004,lodi  city of,2025-06-01,2025-06-30,0
+1450,CA3910004,lodi  city of,2024-07-01,2025-06-30,0
+1452,CA3610013,loma linda  city of,2024-07-01,2024-07-31,0
+1452,CA3610013,loma linda  city of,2024-08-01,2024-08-31,0
+1452,CA3610013,loma linda  city of,2024-09-01,2024-09-30,0
+1452,CA3610013,loma linda  city of,2024-10-01,2024-10-31,0
+1452,CA3610013,loma linda  city of,2024-11-01,2024-11-30,0
+1452,CA3610013,loma linda  city of,2024-12-01,2024-12-31,0
+1452,CA3610013,loma linda  city of,2025-01-01,2025-01-31,0
+1452,CA3610013,loma linda  city of,2025-02-01,2025-02-28,0
+1452,CA3610013,loma linda  city of,2025-03-01,2025-03-31,0
+1452,CA3610013,loma linda  city of,2025-04-01,2025-04-30,0
+1452,CA3610013,loma linda  city of,2025-05-01,2025-05-31,0
+1452,CA3610013,loma linda  city of,2025-06-01,2025-06-30,0
+1452,CA3610013,loma linda  city of,2024-07-01,2025-06-30,0
+1459,CA4210006,lompoc  city of,2024-07-01,2024-07-31,0
+1459,CA4210006,lompoc  city of,2024-08-01,2024-08-31,0
+1459,CA4210006,lompoc  city of,2024-09-01,2024-09-30,0
+1459,CA4210006,lompoc  city of,2024-10-01,2024-10-31,0
+1459,CA4210006,lompoc  city of,2024-11-01,2024-11-30,0
+1459,CA4210006,lompoc  city of,2024-12-01,2024-12-31,0
+1459,CA4210006,lompoc  city of,2025-01-01,2025-01-31,0
+1459,CA4210006,lompoc  city of,2025-02-01,2025-02-28,0
+1459,CA4210006,lompoc  city of,2025-03-01,2025-03-31,0
+1459,CA4210006,lompoc  city of,2025-04-01,2025-04-30,0
+1459,CA4210006,lompoc  city of,2025-05-01,2025-05-31,0
+1459,CA4210006,lompoc  city of,2025-06-01,2025-06-30,0
+1459,CA4210006,lompoc  city of,2024-07-01,2025-06-30,0
+1546,CA2110003,marin municipal water district,2024-07-01,2024-07-31,0
+1546,CA2110003,marin municipal water district,2024-08-01,2024-08-31,0
+1546,CA2110003,marin municipal water district,2024-09-01,2024-09-30,0
+1546,CA2110003,marin municipal water district,2024-10-01,2024-10-31,0
+1546,CA2110003,marin municipal water district,2024-11-01,2024-11-30,0
+1546,CA2110003,marin municipal water district,2024-12-01,2024-12-31,0
+1546,CA2110003,marin municipal water district,2025-01-01,2025-01-31,0
+1546,CA2110003,marin municipal water district,2025-02-01,2025-02-28,0
+1546,CA2110003,marin municipal water district,2025-03-01,2025-03-31,0
+1546,CA2110003,marin municipal water district,2025-04-01,2025-04-30,0
+1546,CA2110003,marin municipal water district,2025-05-01,2025-05-31,0
+1546,CA2110003,marin municipal water district,2025-06-01,2025-06-30,0
+1546,CA2110003,marin municipal water district,2024-07-01,2025-06-30,0
+1547,"CA2710017, CA2790009",marina coast water district,2024-07-01,2024-07-31,0
+1547,"CA2710017, CA2790009",marina coast water district,2024-08-01,2024-08-31,0
+1547,"CA2710017, CA2790009",marina coast water district,2024-09-01,2024-09-30,0
+1547,"CA2710017, CA2790009",marina coast water district,2024-10-01,2024-10-31,0
+1547,"CA2710017, CA2790009",marina coast water district,2024-11-01,2024-11-30,0
+1547,"CA2710017, CA2790009",marina coast water district,2024-12-01,2024-12-31,0
+1547,"CA2710017, CA2790009",marina coast water district,2025-01-01,2025-01-31,0
+1547,"CA2710017, CA2790009",marina coast water district,2025-02-01,2025-02-28,0
+1547,"CA2710017, CA2790009",marina coast water district,2025-03-01,2025-03-31,0
+1547,"CA2710017, CA2790009",marina coast water district,2025-04-01,2025-04-30,0
+1547,"CA2710017, CA2790009",marina coast water district,2025-05-01,2025-05-31,0
+1547,"CA2710017, CA2790009",marina coast water district,2025-06-01,2025-06-30,0
+1547,"CA2710017, CA2790009",marina coast water district,2024-07-01,2025-06-30,0
+1554,CA0710006,martinez  city of,2024-07-01,2025-06-30,0
+1570,CA,mckinleyville community services district,2024-07-01,2024-07-31,0
+1570,CA,mckinleyville community services district,2024-08-01,2024-08-31,0
+1570,CA,mckinleyville community services district,2024-09-01,2024-09-30,0
+1570,CA,mckinleyville community services district,2024-10-01,2024-10-31,0
+1570,CA,mckinleyville community services district,2024-11-01,2024-11-30,0
+1570,CA,mckinleyville community services district,2024-12-01,2024-12-31,0
+1570,CA,mckinleyville community services district,2025-01-01,2025-01-31,0
+1570,CA,mckinleyville community services district,2025-02-01,2025-02-28,0
+1570,CA,mckinleyville community services district,2025-03-01,2025-03-31,0
+1570,CA,mckinleyville community services district,2025-04-01,2025-04-30,0
+1570,CA,mckinleyville community services district,2025-05-01,2025-05-31,0
+1570,CA,mckinleyville community services district,2025-06-01,2025-06-30,0
+1570,CA,mckinleyville community services district,2024-07-01,2025-06-30,0
+1589,CA2410009,merced  city of,2024-07-01,2024-07-31,0
+1589,CA2410009,merced  city of,2024-08-01,2024-08-31,0
+1589,CA2410009,merced  city of,2024-09-01,2024-09-30,0
+1589,CA2410009,merced  city of,2024-10-01,2024-10-31,0
+1589,CA2410009,merced  city of,2024-11-01,2024-11-30,0
+1589,CA2410009,merced  city of,2024-12-01,2024-12-31,0
+1589,CA2410009,merced  city of,2025-01-01,2025-01-31,0
+1589,CA2410009,merced  city of,2025-02-01,2025-02-28,0
+1589,CA2410009,merced  city of,2025-03-01,2025-03-31,0
+1589,CA2410009,merced  city of,2025-04-01,2025-04-30,0
+1589,CA2410009,merced  city of,2025-05-01,2025-05-31,0
+1589,CA2410009,merced  city of,2025-06-01,2025-06-30,0
+1589,CA2410009,merced  city of,2024-07-01,2025-06-30,0
+1596,CA3010004,mesa water district,2024-07-01,2025-06-30,0
+1613,CA4110018,millbrae  city of,2024-07-01,2024-07-31,0
+1613,CA4110018,millbrae  city of,2024-08-01,2024-08-31,0
+1613,CA4110018,millbrae  city of,2024-09-01,2024-09-30,0
+1613,CA4110018,millbrae  city of,2024-10-01,2024-10-31,0
+1613,CA4110018,millbrae  city of,2024-11-01,2024-11-30,0
+1613,CA4110018,millbrae  city of,2024-12-01,2024-12-31,0
+1613,CA4110018,millbrae  city of,2025-01-01,2025-01-31,0
+1613,CA4110018,millbrae  city of,2025-02-01,2025-02-28,0
+1613,CA4110018,millbrae  city of,2025-03-01,2025-03-31,0
+1613,CA4110018,millbrae  city of,2025-04-01,2025-04-30,0
+1613,CA4110018,millbrae  city of,2025-05-01,2025-05-31,0
+1613,CA4110018,millbrae  city of,2025-06-01,2025-06-30,0
+1613,CA4110018,millbrae  city of,2024-07-01,2025-06-30,0
+1642,CA3610029,monte vista water district,2024-07-01,2025-06-30,0
+1644,CA1910091,montebello land and water company,2024-07-01,2024-07-31,0
+1644,CA1910091,montebello land and water company,2024-08-01,2024-08-31,0
+1644,CA1910091,montebello land and water company,2024-09-01,2024-09-30,0
+1644,CA1910091,montebello land and water company,2024-10-01,2024-10-31,0
+1644,CA1910091,montebello land and water company,2024-11-01,2024-11-30,0
+1644,CA1910091,montebello land and water company,2024-12-01,2024-12-31,0
+1644,CA1910091,montebello land and water company,2025-01-01,2025-01-31,0
+1644,CA1910091,montebello land and water company,2025-02-01,2025-02-28,0
+1644,CA1910091,montebello land and water company,2025-03-01,2025-03-31,0
+1644,CA1910091,montebello land and water company,2025-04-01,2025-04-30,0
+1644,CA1910091,montebello land and water company,2025-05-01,2025-05-31,0
+1644,CA1910091,montebello land and water company,2025-06-01,2025-06-30,0
+1644,CA1910091,montebello land and water company,2024-07-01,2025-06-30,0
+1650,CA1910092,monterey park  city of,2024-07-01,2024-07-31,0
+1650,CA1910092,monterey park  city of,2024-08-01,2024-08-31,0
+1650,CA1910092,monterey park  city of,2024-09-01,2024-09-30,0
+1650,CA1910092,monterey park  city of,2024-10-01,2024-10-31,0
+1650,CA1910092,monterey park  city of,2024-11-01,2024-11-30,0
+1650,CA1910092,monterey park  city of,2024-12-01,2024-12-31,0
+1650,CA1910092,monterey park  city of,2025-01-01,2025-01-31,0
+1650,CA1910092,monterey park  city of,2025-02-01,2025-02-28,0
+1650,CA1910092,monterey park  city of,2025-03-01,2025-03-31,0
+1650,CA1910092,monterey park  city of,2025-04-01,2025-04-30,0
+1650,CA1910092,monterey park  city of,2025-05-01,2025-05-31,0
+1650,CA1910092,monterey park  city of,2025-06-01,2025-06-30,0
+1650,CA1910092,monterey park  city of,2024-07-01,2025-06-30,0
+4231,CA3910027,mountain house community services district,2024-07-01,2024-07-31,0
+4231,CA3910027,mountain house community services district,2024-08-01,2024-08-31,0
+4231,CA3910027,mountain house community services district,2024-09-01,2024-09-30,0
+4231,CA3910027,mountain house community services district,2024-10-01,2024-10-31,0
+4231,CA3910027,mountain house community services district,2024-11-01,2024-11-30,0
+4231,CA3910027,mountain house community services district,2024-12-01,2024-12-31,0
+4231,CA3910027,mountain house community services district,2025-01-01,2025-01-31,0
+4231,CA3910027,mountain house community services district,2025-02-01,2025-02-28,0
+4231,CA3910027,mountain house community services district,2025-03-01,2025-03-31,0
+4231,CA3910027,mountain house community services district,2025-04-01,2025-04-30,0
+4231,CA3910027,mountain house community services district,2025-05-01,2025-05-31,0
+4231,CA3910027,mountain house community services district,2025-06-01,2025-06-30,1
+4231,CA3910027,mountain house community services district,2024-07-01,2025-06-30,1
+1671,CA4310007,mountain view  city of,2024-07-01,2024-07-31,0
+1671,CA4310007,mountain view  city of,2024-08-01,2024-08-31,0
+1671,CA4310007,mountain view  city of,2024-09-01,2024-09-30,0
+1671,CA4310007,mountain view  city of,2024-10-01,2024-10-31,0
+1671,CA4310007,mountain view  city of,2024-11-01,2024-11-30,0
+1671,CA4310007,mountain view  city of,2024-12-01,2024-12-31,0
+1671,CA4310007,mountain view  city of,2025-01-01,2025-01-31,0
+1671,CA4310007,mountain view  city of,2025-02-01,2025-02-28,0
+1671,CA4310007,mountain view  city of,2025-03-01,2025-03-31,0
+1671,CA4310007,mountain view  city of,2025-04-01,2025-04-30,0
+1671,CA4310007,mountain view  city of,2025-05-01,2025-05-31,0
+1671,CA4310007,mountain view  city of,2025-06-01,2025-06-30,0
+1671,CA4310007,mountain view  city of,2024-07-01,2025-06-30,0
+1701,CA2810003,napa  city of,2024-07-01,2024-07-31,0
+1701,CA2810003,napa  city of,2024-08-01,2024-08-31,0
+1701,CA2810003,napa  city of,2024-09-01,2024-09-30,0
+1701,CA2810003,napa  city of,2024-10-01,2024-10-31,0
+1701,CA2810003,napa  city of,2024-11-01,2024-11-30,0
+1701,CA2810003,napa  city of,2024-12-01,2024-12-31,0
+1701,CA2810003,napa  city of,2025-01-01,2025-01-31,0
+1701,CA2810003,napa  city of,2025-02-01,2025-02-28,0
+1701,CA2810003,napa  city of,2025-03-01,2025-03-31,0
+1701,CA2810003,napa  city of,2025-04-01,2025-04-30,0
+1701,CA2810003,napa  city of,2025-05-01,2025-05-31,0
+1701,CA2810003,napa  city of,2025-06-01,2025-06-30,0
+1701,CA2810003,napa  city of,2024-07-01,2025-06-30,0
+1718,"CA2910004, CA2910014, CA2910023, CA2910006, CA3110026, CA5810005",nevada irrigation district,2024-07-01,2025-06-30,0
+1729,CA5010013,newman  city of,2024-07-01,2024-07-31,0
+1729,CA5010013,newman  city of,2024-08-01,2024-08-31,0
+1729,CA5010013,newman  city of,2024-09-01,2024-09-30,0
+1729,CA5010013,newman  city of,2024-10-01,2024-10-31,0
+1729,CA5010013,newman  city of,2024-11-01,2024-11-30,0
+1729,CA5010013,newman  city of,2024-12-01,2024-12-31,0
+1729,CA5010013,newman  city of,2025-01-01,2025-01-31,0
+1729,CA5010013,newman  city of,2025-02-01,2025-02-28,0
+1729,CA5010013,newman  city of,2025-03-01,2025-03-31,0
+1729,CA5010013,newman  city of,2025-04-01,2025-04-30,0
+1729,CA5010013,newman  city of,2025-05-01,2025-05-31,0
+1729,CA5010013,newman  city of,2025-06-01,2025-06-30,0
+1729,CA5010013,newman  city of,2024-07-01,2025-06-30,0
+1748,CA2110003,north marin water district,2024-07-01,2025-06-30,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2024-07-01,2024-07-31,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2024-08-01,2024-08-31,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2024-09-01,2024-09-30,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2024-10-01,2024-10-31,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2024-11-01,2024-11-30,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2024-12-01,2024-12-31,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2025-01-01,2025-01-31,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2025-02-01,2025-02-28,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2025-03-01,2025-03-31,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2025-04-01,2025-04-30,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2025-05-01,2025-05-31,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2024-06-01,2024-06-30,0
+1752,"CA3110036, CA3110001, CA3110023",north tahoe public utilities district,2024-06-01,2025-07-31,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2024-07-01,2024-07-31,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2024-08-01,2024-08-31,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2024-09-01,2024-09-30,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2024-10-01,2024-10-31,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2024-11-01,2024-11-30,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2024-12-01,2024-12-31,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2025-01-01,2025-01-31,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2025-02-01,2025-02-28,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2025-03-01,2025-03-31,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2025-04-01,2025-04-30,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2025-05-01,2025-05-31,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2025-06-01,2025-06-30,0
+1792,"CA5810003, CA5805001",olivehurst public utilities district,2024-07-01,2025-06-30,0
+1793,CA3710029,olivenhain municipal water district,2024-07-01,2024-07-31,0
+1793,CA3710029,olivenhain municipal water district,2024-08-01,2024-08-31,0
+1793,CA3710029,olivenhain municipal water district,2024-09-01,2024-09-30,0
+1793,CA3710029,olivenhain municipal water district,2024-10-01,2024-10-31,0
+1793,CA3710029,olivenhain municipal water district,2024-11-01,2024-11-30,0
+1793,CA3710029,olivenhain municipal water district,2024-12-01,2024-12-31,0
+1793,CA3710029,olivenhain municipal water district,2025-01-01,2025-01-31,0
+1793,CA3710029,olivenhain municipal water district,2025-02-01,2025-02-28,0
+1793,CA3710029,olivenhain municipal water district,2025-03-01,2025-03-31,0
+1793,CA3710029,olivenhain municipal water district,2025-04-01,2025-04-30,0
+1793,CA3710029,olivenhain municipal water district,2025-05-01,2025-05-31,0
+1793,CA3710029,olivenhain municipal water district,2025-06-01,2025-06-30,0
+1793,CA3710029,olivenhain municipal water district,2024-07-01,2025-06-30,0
+1797,CA3010027,orange  city of,2024-07-01,2025-06-30,0
+1804,CA1910101,orchard dale water district,2024-07-01,2024-07-31,3
+1804,CA1910101,orchard dale water district,2024-08-01,2024-08-31,0
+1804,CA1910101,orchard dale water district,2024-09-01,2024-09-30,3
+1804,CA1910101,orchard dale water district,2024-10-01,2024-10-31,2
+1804,CA1910101,orchard dale water district,2024-11-01,2024-11-30,4
+1804,CA1910101,orchard dale water district,2024-12-01,2024-12-31,1
+1804,CA1910101,orchard dale water district,2025-01-01,2025-01-31,2
+1804,CA1910101,orchard dale water district,2025-02-01,2025-02-28,2
+1804,CA1910101,orchard dale water district,2025-03-01,2025-03-31,2
+1804,CA1910101,orchard dale water district,2025-04-01,2025-04-30,1
+1804,CA1910101,orchard dale water district,2025-05-01,2025-05-31,1
+1804,CA1910101,orchard dale water district,2025-06-01,2025-06-30,1
+1804,CA1910101,orchard dale water district,2024-07-01,2025-06-30,2
+1827,CA5610007,oxnard  city of,2024-07-01,2024-07-31,0
+1827,CA5610007,oxnard  city of,2024-08-01,2024-08-31,0
+1827,CA5610007,oxnard  city of,2024-09-01,2024-09-30,0
+1827,CA5610007,oxnard  city of,2024-10-01,2024-10-31,0
+1827,CA5610007,oxnard  city of,2024-11-01,2024-11-30,0
+1827,CA5610007,oxnard  city of,2024-12-01,2024-12-31,0
+1827,CA5610007,oxnard  city of,2025-01-01,2025-01-31,0
+1827,CA5610007,oxnard  city of,2025-02-01,2025-02-28,0
+1827,CA5610007,oxnard  city of,2025-03-01,2025-03-31,0
+1827,CA5610007,oxnard  city of,2025-04-01,2025-04-30,0
+1827,CA5610007,oxnard  city of,2025-05-01,2025-05-31,0
+1827,CA5610007,oxnard  city of,2025-06-01,2025-06-30,0
+1827,CA5610007,oxnard  city of,2024-07-01,2025-06-30,0
+1849,CA1910102,palmdale water district,2025-07-01,2025-07-31,0
+1849,CA1910102,palmdale water district,2025-08-01,2025-08-31,0
+1849,CA1910102,palmdale water district,2025-09-01,2025-09-30,0
+1849,CA1910102,palmdale water district,2025-10-01,2025-10-31,0
+1849,CA1910102,palmdale water district,2025-11-01,2025-11-30,0
+1849,CA1910102,palmdale water district,2025-12-01,2025-12-31,0
+1849,CA1910102,palmdale water district,2025-01-01,2025-01-31,0
+1849,CA1910102,palmdale water district,2025-02-01,2025-02-28,0
+1849,CA1910102,palmdale water district,2025-03-01,2025-03-31,0
+1849,CA1910102,palmdale water district,2025-04-01,2025-04-30,0
+1849,CA1910102,palmdale water district,2025-05-01,2025-05-31,0
+1849,CA1910102,palmdale water district,2025-06-01,2025-06-30,0
+1849,CA1910102,palmdale water district,2025-01-01,2025-12-31,0
+1851,CA4310009,palo alto  city of,2024-07-01,2024-07-31,0
+1851,CA4310009,palo alto  city of,2024-08-01,2024-08-31,0
+1851,CA4310009,palo alto  city of,2024-09-01,2024-09-30,0
+1851,CA4310009,palo alto  city of,2024-10-01,2024-10-31,0
+1851,CA4310009,palo alto  city of,2024-11-01,2024-11-30,0
+1851,CA4310009,palo alto  city of,2024-12-01,2024-12-31,0
+1851,CA4310009,palo alto  city of,2025-01-01,2025-01-31,0
+1851,CA4310009,palo alto  city of,2025-02-01,2025-02-28,0
+1851,CA4310009,palo alto  city of,2025-03-01,2025-03-31,0
+1851,CA4310009,palo alto  city of,2025-04-01,2025-04-30,0
+1851,CA4310009,palo alto  city of,2025-05-01,2025-05-31,0
+1851,CA4310009,palo alto  city of,2025-06-01,2025-06-30,0
+1851,CA4310009,palo alto  city of,2024-07-01,2025-06-30,0
+1859,CA0410007,paradise irrigation district,2024-07-01,2024-07-31,0
+1859,CA0410007,paradise irrigation district,2024-08-01,2024-08-31,0
+1859,CA0410007,paradise irrigation district,2024-09-01,2024-09-30,0
+1859,CA0410007,paradise irrigation district,2024-10-01,2024-10-31,0
+1859,CA0410007,paradise irrigation district,2024-11-01,2024-11-30,0
+1859,CA0410007,paradise irrigation district,2024-12-01,2024-12-31,0
+1859,CA0410007,paradise irrigation district,2025-01-01,2025-01-31,0
+1859,CA0410007,paradise irrigation district,2025-02-01,2025-02-28,0
+1859,CA0410007,paradise irrigation district,2025-03-01,2025-03-31,0
+1859,CA0410007,paradise irrigation district,2025-04-01,2025-04-30,0
+1859,CA0410007,paradise irrigation district,2025-05-01,2025-05-31,0
+1859,CA0410007,paradise irrigation district,2025-06-01,2025-06-30,0
+1859,CA0410007,paradise irrigation district,2024-07-01,2025-06-30,0
+1873,CA1910124,pasadena  city of,2025-07-01,2025-07-31,0
+1873,CA1910124,pasadena  city of,2025-08-01,2025-08-31,0
+1873,CA1910124,pasadena  city of,2025-09-01,2025-09-30,0
+1873,CA1910124,pasadena  city of,2025-10-01,2025-10-31,0
+1873,CA1910124,pasadena  city of,2025-11-01,2025-11-30,0
+1873,CA1910124,pasadena  city of,2025-12-01,2025-12-31,0
+1873,CA1910124,pasadena  city of,2026-01-01,2026-01-31,0
+1873,CA1910124,pasadena  city of,2026-02-01,2026-02-28,0
+1873,CA1910124,pasadena  city of,2025-03-01,2025-03-31,0
+1873,CA1910124,pasadena  city of,2025-04-01,2025-04-30,0
+1873,CA1910124,pasadena  city of,2025-05-01,2025-05-31,0
+1873,CA1910124,pasadena  city of,2025-06-01,2025-06-30,0
+1873,CA1910124,pasadena  city of,2025-03-01,2026-05-31,0
+1894,CA4910006,petaluma  city of,2024-07-01,2025-06-30,0
+1896,CA3610120,phelan pinon hills community services district,2024-07-01,2024-07-31,0
+1896,CA3610120,phelan pinon hills community services district,2024-08-01,2024-08-31,0
+1896,CA3610120,phelan pinon hills community services district,2024-09-01,2024-09-30,0
+1896,CA3610120,phelan pinon hills community services district,2024-10-01,2024-10-31,0
+1896,CA3610120,phelan pinon hills community services district,2024-11-01,2024-11-30,0
+1896,CA3610120,phelan pinon hills community services district,2024-12-01,2024-12-31,0
+1896,CA3610120,phelan pinon hills community services district,2025-01-01,2025-01-31,0
+1896,CA3610120,phelan pinon hills community services district,2025-02-01,2025-02-28,0
+1896,CA3610120,phelan pinon hills community services district,2025-03-01,2025-03-31,0
+1896,CA3610120,phelan pinon hills community services district,2025-04-01,2025-04-30,0
+1896,CA3610120,phelan pinon hills community services district,2025-05-01,2025-05-31,0
+1896,CA3610120,phelan pinon hills community services district,2025-06-01,2025-06-30,0
+1896,CA3610120,phelan pinon hills community services district,2024-07-01,2025-06-30,0
+1923,CA4010008,pismo beach  city of,2024-07-01,2024-07-31,0
+1923,CA4010008,pismo beach  city of,2024-08-01,2024-08-31,0
+1923,CA4010008,pismo beach  city of,2024-09-01,2024-09-30,0
+1923,CA4010008,pismo beach  city of,2024-10-01,2024-10-31,0
+1923,CA4010008,pismo beach  city of,2024-11-01,2024-11-30,0
+1923,CA4010008,pismo beach  city of,2024-12-01,2024-12-31,0
+1923,CA4010008,pismo beach  city of,2025-01-01,2025-01-31,0
+1923,CA4010008,pismo beach  city of,2025-02-01,2025-02-28,0
+1923,CA4010008,pismo beach  city of,2025-03-01,2025-03-31,0
+1923,CA4010008,pismo beach  city of,2025-04-01,2025-04-30,0
+1923,CA4010008,pismo beach  city of,2025-05-01,2025-05-31,0
+1923,CA4010008,pismo beach  city of,2025-06-01,2025-06-30,0
+1923,CA4010008,pismo beach  city of,2024-07-01,2025-06-30,0
+1927,"CA3110124, CA3110040, CA3110024, CA3110025, CA3110005, CA3110006, CA3110050",placer county water agency,2024-07-01,2025-06-30,0
+1940,CA0110008,pleasanton  city of,2024-07-01,2024-07-31,0
+1940,CA0110008,pleasanton  city of,2024-08-01,2024-08-31,0
+1940,CA0110008,pleasanton  city of,2024-09-01,2024-09-30,0
+1940,CA0110008,pleasanton  city of,2024-10-01,2024-10-31,0
+1940,CA0110008,pleasanton  city of,2024-11-01,2024-11-30,0
+1940,CA0110008,pleasanton  city of,2024-12-01,2024-12-31,0
+1940,CA0110008,pleasanton  city of,2025-01-01,2025-01-31,0
+1940,CA0110008,pleasanton  city of,2025-02-01,2025-02-28,0
+1940,CA0110008,pleasanton  city of,2025-03-01,2025-03-31,0
+1940,CA0110008,pleasanton  city of,2025-04-01,2025-04-30,0
+1940,CA0110008,pleasanton  city of,2025-05-01,2025-05-31,0
+1940,CA0110008,pleasanton  city of,2025-06-01,2025-06-30,0
+1940,CA0110008,pleasanton  city of,2024-07-01,2025-06-30,0
+1945,CA1910126,pomona  city of,2024-07-01,2024-07-31,0
+1945,CA1910126,pomona  city of,2024-08-01,2024-08-31,0
+1945,CA1910126,pomona  city of,2024-09-01,2024-09-30,0
+1945,CA1910126,pomona  city of,2024-10-01,2024-10-31,0
+1945,CA1910126,pomona  city of,2024-11-01,2024-11-30,0
+1945,CA1910126,pomona  city of,2024-12-01,2024-12-31,0
+1945,CA1910126,pomona  city of,2025-01-01,2025-01-31,0
+1945,CA1910126,pomona  city of,2025-02-01,2025-02-28,0
+1945,CA1910126,pomona  city of,2025-03-01,2025-03-31,0
+1945,CA1910126,pomona  city of,2025-04-01,2025-04-30,0
+1945,CA1910126,pomona  city of,2025-05-01,2025-05-31,0
+1945,CA1910126,pomona  city of,2025-06-01,2025-06-30,0
+1945,CA1910126,pomona  city of,2024-07-01,2025-06-30,0
+1964,CA3710015,poway  city of,2024-06-01,2025-07-31,0
+1983,CA4010002,quartz hill water district,2024-07-01,2024-07-31,0
+1983,CA4010002,quartz hill water district,2024-08-01,2024-08-31,0
+1983,CA4010002,quartz hill water district,2024-09-01,2024-09-30,0
+1983,CA4010002,quartz hill water district,2024-10-01,2024-10-31,0
+1983,CA4010002,quartz hill water district,2024-11-01,2024-11-30,0
+1983,CA4010002,quartz hill water district,2024-12-01,2024-12-31,0
+1983,CA4010002,quartz hill water district,2025-01-01,2025-01-31,0
+1983,CA4010002,quartz hill water district,2025-02-01,2025-02-28,0
+1983,CA4010002,quartz hill water district,2025-03-01,2025-03-31,0
+1983,CA4010002,quartz hill water district,2025-04-01,2025-04-30,0
+1983,CA4010002,quartz hill water district,2025-05-01,2025-05-31,0
+1983,CA4010002,quartz hill water district,2025-06-01,2025-06-30,0
+1983,CA4010002,quartz hill water district,2024-07-01,2025-06-30,0
+2000,CA3310038,rancho california water district,2024-07-01,2025-06-30,0
+2033,CA4510005,redding  city of,2024-07-01,2024-07-31,0
+2033,CA4510005,redding  city of,2024-08-01,2024-08-31,0
+2033,CA4510005,redding  city of,2024-09-01,2024-09-30,0
+2033,CA4510005,redding  city of,2024-10-01,2024-10-31,0
+2033,CA4510005,redding  city of,2024-11-01,2024-11-30,0
+2033,CA4510005,redding  city of,2024-12-01,2024-12-31,0
+2033,CA4510005,redding  city of,2025-01-01,2025-01-31,0
+2033,CA4510005,redding  city of,2025-02-01,2025-02-28,0
+2033,CA4510005,redding  city of,2025-03-01,2025-03-31,0
+2033,CA4510005,redding  city of,2025-04-01,2025-04-30,0
+2033,CA4510005,redding  city of,2025-05-01,2025-05-31,0
+2033,CA4510005,redding  city of,2025-06-01,2025-06-30,0
+2033,CA4510005,redding  city of,2024-07-01,2025-06-30,0
+2063,CA4810004,rio vista  city of,2024-07-01,2024-07-31,0
+2063,CA4810004,rio vista  city of,2024-08-01,2024-08-31,0
+2063,CA4810004,rio vista  city of,2024-09-01,2024-09-30,0
+2063,CA4810004,rio vista  city of,2024-10-01,2024-10-31,0
+2063,CA4810004,rio vista  city of,2024-11-01,2024-11-30,0
+2063,CA4810004,rio vista  city of,2024-12-01,2024-12-31,0
+2063,CA4810004,rio vista  city of,2025-01-01,2025-01-31,0
+2063,CA4810004,rio vista  city of,2025-02-01,2025-02-28,0
+2063,CA4810004,rio vista  city of,2025-03-01,2025-03-31,0
+2063,CA4810004,rio vista  city of,2025-04-01,2025-04-30,0
+2063,CA4810004,rio vista  city of,2025-05-01,2025-05-31,0
+2063,CA4810004,rio vista  city of,2025-06-01,2025-06-30,0
+2063,CA4810004,rio vista  city of,2024-07-01,2025-06-30,0
+2083,CA3310031,riverside  city of,2024-07-01,2024-07-31,0
+2083,CA3310031,riverside  city of,2024-08-01,2024-08-31,0
+2083,CA3310031,riverside  city of,2024-09-01,2024-09-30,0
+2083,CA3310031,riverside  city of,2024-10-01,2024-10-31,0
+2083,CA3310031,riverside  city of,2024-11-01,2024-11-30,0
+2083,CA3310031,riverside  city of,2024-12-01,2024-12-31,0
+2083,CA3310031,riverside  city of,2025-01-01,2025-01-31,0
+2083,CA3310031,riverside  city of,2025-02-01,2025-02-28,0
+2083,CA3310031,riverside  city of,2025-03-01,2025-03-31,0
+2083,CA3310031,riverside  city of,2025-04-01,2025-04-30,0
+2083,CA3310031,riverside  city of,2025-05-01,2025-05-31,0
+2083,CA3310031,riverside  city of,2025-06-01,2025-06-30,0
+2083,CA3310031,riverside  city of,2024-07-01,2025-06-30,0
+2087,CA3610057,riverside highland water company,2024-07-01,2024-07-31,0
+2087,CA3610057,riverside highland water company,2024-08-01,2024-08-31,0
+2087,CA3610057,riverside highland water company,2024-09-01,2024-09-30,0
+2087,CA3610057,riverside highland water company,2024-10-01,2024-10-31,0
+2087,CA3610057,riverside highland water company,2024-11-01,2024-11-30,0
+2087,CA3610057,riverside highland water company,2024-12-01,2024-12-31,0
+2087,CA3610057,riverside highland water company,2025-01-01,2025-01-31,0
+2087,CA3610057,riverside highland water company,2025-02-01,2025-02-28,0
+2087,CA3610057,riverside highland water company,2025-03-01,2025-03-31,0
+2087,CA3610057,riverside highland water company,2025-04-01,2025-04-30,0
+2087,CA3610057,riverside highland water company,2025-05-01,2025-05-31,0
+2087,CA3610057,riverside highland water company,2025-06-01,2025-06-30,0
+2087,CA3610057,riverside highland water company,2024-07-01,2025-06-30,0
+2103,CA4910014,rohnert park  city of,2025-07-01,2025-07-31,0
+2103,CA4910014,rohnert park  city of,2025-08-01,2025-08-31,0
+2103,CA4910014,rohnert park  city of,2025-09-01,2025-09-30,0
+2103,CA4910014,rohnert park  city of,2025-10-01,2025-10-31,0
+2103,CA4910014,rohnert park  city of,2025-11-01,2025-11-30,0
+2103,CA4910014,rohnert park  city of,2025-12-01,2025-12-31,0
+2103,CA4910014,rohnert park  city of,2025-01-01,2025-01-31,0
+2103,CA4910014,rohnert park  city of,2025-02-01,2025-02-28,0
+2103,CA4910014,rohnert park  city of,2025-03-01,2025-03-31,0
+2103,CA4910014,rohnert park  city of,2025-04-01,2025-04-30,0
+2103,CA4910014,rohnert park  city of,2025-05-01,2025-05-31,0
+2103,CA4910014,rohnert park  city of,2025-06-01,2025-06-30,0
+2103,CA4910014,rohnert park  city of,2025-01-01,2025-12-31,0
+2107,CA1510018,rosamond community service district,2025-01-01,2025-12-31,0
+2111,CA3110008,roseville  city of,2024-07-01,2024-07-31,0
+2111,CA3110008,roseville  city of,2024-08-01,2024-08-31,0
+2111,CA3110008,roseville  city of,2024-09-01,2024-09-30,0
+2111,CA3110008,roseville  city of,2024-10-01,2024-10-31,0
+2111,CA3110008,roseville  city of,2024-11-01,2024-11-30,0
+2111,CA3110008,roseville  city of,2024-12-01,2024-12-31,0
+2111,CA3110008,roseville  city of,2025-01-01,2025-01-31,0
+2111,CA3110008,roseville  city of,2025-02-01,2025-02-28,0
+2111,CA3110008,roseville  city of,2025-03-01,2025-03-31,0
+2111,CA3110008,roseville  city of,2025-04-01,2025-04-30,0
+2111,CA3110008,roseville  city of,2025-05-01,2025-05-31,0
+2111,CA3110008,roseville  city of,2025-06-01,2025-06-30,0
+2111,CA3110008,roseville  city of,2024-07-01,2025-06-30,0
+2115,CA1910194,rowland water district,2024-07-01,2024-07-31,0
+2115,CA1910194,rowland water district,2024-08-01,2024-08-31,0
+2115,CA1910194,rowland water district,2024-09-01,2024-09-30,0
+2115,CA1910194,rowland water district,2024-10-01,2024-10-31,0
+2115,CA1910194,rowland water district,2024-11-01,2024-11-30,0
+2115,CA1910194,rowland water district,2024-12-01,2024-12-31,0
+2115,CA1910194,rowland water district,2025-01-01,2025-01-31,0
+2115,CA1910194,rowland water district,2025-02-01,2025-02-28,0
+2115,CA1910194,rowland water district,2025-03-01,2025-03-31,0
+2115,CA1910194,rowland water district,2025-04-01,2025-04-30,0
+2115,CA1910194,rowland water district,2025-05-01,2025-05-31,0
+2115,CA1910194,rowland water district,2025-06-01,2025-06-30,0
+2115,CA1910194,rowland water district,2024-07-01,2025-06-30,0
+2119,CA1910140,rubio canyon land and water association,2024-07-01,2024-07-31,0
+2119,CA1910140,rubio canyon land and water association,2024-08-01,2024-08-31,0
+2119,CA1910140,rubio canyon land and water association,2024-09-01,2024-09-30,0
+2119,CA1910140,rubio canyon land and water association,2024-10-01,2024-10-31,0
+2119,CA1910140,rubio canyon land and water association,2024-11-01,2024-11-30,0
+2119,CA1910140,rubio canyon land and water association,2024-12-01,2024-12-31,0
+2119,CA1910140,rubio canyon land and water association,2025-01-01,2025-01-31,0
+2119,CA1910140,rubio canyon land and water association,2025-02-01,2025-02-28,0
+2119,CA1910140,rubio canyon land and water association,2025-03-01,2025-03-31,0
+2119,CA1910140,rubio canyon land and water association,2025-04-01,2025-04-30,0
+2119,CA1910140,rubio canyon land and water association,2025-05-01,2025-05-31,0
+2119,CA1910140,rubio canyon land and water association,2024-06-01,2024-06-30,0
+2119,CA1910140,rubio canyon land and water association,2024-06-01,2025-07-31,0
+2122,CA3610062,running springs water district,2024-07-01,2024-07-31,0
+2122,CA3610062,running springs water district,2024-08-01,2024-08-31,0
+2122,CA3610062,running springs water district,2024-09-01,2024-09-30,0
+2122,CA3610062,running springs water district,2024-10-01,2024-10-31,0
+2122,CA3610062,running springs water district,2024-11-01,2024-11-30,0
+2122,CA3610062,running springs water district,2024-12-01,2024-12-31,0
+2122,CA3610062,running springs water district,2025-01-01,2025-01-31,0
+2122,CA3610062,running springs water district,2025-02-01,2025-02-28,0
+2122,CA3610062,running springs water district,2025-03-01,2025-03-31,0
+2122,CA3610062,running springs water district,2025-04-01,2025-04-30,0
+2122,CA3610062,running springs water district,2025-05-01,2025-05-31,0
+2122,CA3610062,running springs water district,2025-06-01,2025-06-30,0
+2122,CA3610062,running springs water district,2024-07-01,2025-06-30,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2024-07-01,2024-07-31,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2024-08-01,2024-08-31,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2024-09-01,2024-09-30,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2024-10-01,2024-10-31,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2024-11-01,2024-11-30,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2024-12-01,2024-12-31,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2025-01-01,2025-01-31,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2025-02-01,2025-02-28,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2025-03-01,2025-03-31,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2025-04-01,2025-04-30,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2025-05-01,2025-05-31,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2025-06-01,2025-06-30,0
+2132,"CA3400473, CA3400106, CA3400101, CA3400156, CA3400173, CA3410002, CA3410029, CA3410704",sacramento county water agency,2024-07-01,2025-06-30,0
+2157,CA4110023,san bruno  city of,2024-07-01,2025-06-30,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2024-07-01,2024-07-31,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2024-08-01,2024-08-31,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2024-09-01,2024-09-30,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2024-10-01,2024-10-31,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2024-11-01,2024-11-30,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2024-12-01,2024-12-31,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2025-01-01,2025-01-31,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2025-02-01,2025-02-28,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2025-03-01,2025-03-31,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2025-04-01,2025-04-30,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2025-05-01,2025-05-31,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2025-06-01,2025-06-30,0
+2164,"CA0110012, CA0110018, CA3810011",san francisco public utilities commission,2024-07-01,2025-06-30,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2024-07-01,2024-07-31,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2024-08-01,2024-08-31,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2024-09-01,2024-09-30,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2024-10-01,2024-10-31,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2024-11-01,2024-11-30,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2024-12-01,2024-12-31,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2025-01-01,2025-01-31,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2025-02-01,2025-02-28,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2025-03-01,2025-03-31,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2025-04-01,2025-04-30,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2025-05-01,2025-05-31,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2025-06-01,2025-06-30,0
+2167,"CA1910039, CA1910189",san gabriel valley water company,2024-07-01,2025-06-30,0
+2166,CA3610041,san gabriel valley water company   fontana division,2025-01-01,2025-12-31,0
+2169,CA3310032,san jacinto  city of,2024-07-01,2024-07-31,0
+2169,CA3310032,san jacinto  city of,2024-08-01,2024-08-31,0
+2169,CA3310032,san jacinto  city of,2024-09-01,2024-09-30,0
+2169,CA3310032,san jacinto  city of,2024-10-01,2024-10-31,0
+2169,CA3310032,san jacinto  city of,2024-11-01,2024-11-30,0
+2169,CA3310032,san jacinto  city of,2024-12-01,2024-12-31,0
+2169,CA3310032,san jacinto  city of,2025-01-01,2025-01-31,0
+2169,CA3310032,san jacinto  city of,2025-02-01,2025-02-28,0
+2169,CA3310032,san jacinto  city of,2025-03-01,2025-03-31,0
+2169,CA3310032,san jacinto  city of,2025-04-01,2025-04-30,0
+2169,CA3310032,san jacinto  city of,2025-05-01,2025-05-31,0
+2169,CA3310032,san jacinto  city of,2025-06-01,2025-06-30,0
+2169,CA3310032,san jacinto  city of,2024-07-01,2025-06-30,0
+2174,"CA4310019, CA4310020",san jose  city of,2024-07-01,2025-06-30,0
+2175,"CA4310018, CA4310011",san jose water company,2024-07-01,2024-07-31,0
+2175,"CA4310018, CA4310011",san jose water company,2024-08-01,2024-08-31,0
+2175,"CA4310018, CA4310011",san jose water company,2024-09-01,2024-09-30,0
+2175,"CA4310018, CA4310011",san jose water company,2024-10-01,2024-10-31,0
+2175,"CA4310018, CA4310011",san jose water company,2024-11-01,2024-11-30,0
+2175,"CA4310018, CA4310011",san jose water company,2024-12-01,2024-12-31,0
+2175,"CA4310018, CA4310011",san jose water company,2025-01-01,2025-01-31,0
+2175,"CA4310018, CA4310011",san jose water company,2025-02-01,2025-02-28,0
+2175,"CA4310018, CA4310011",san jose water company,2025-03-01,2025-03-31,0
+2175,"CA4310018, CA4310011",san jose water company,2025-04-01,2025-04-30,0
+2175,"CA4310018, CA4310011",san jose water company,2025-05-01,2025-05-31,0
+2175,"CA4310018, CA4310011",san jose water company,2025-06-01,2025-06-30,0
+2175,"CA4310018, CA4310011",san jose water company,2024-07-01,2025-06-30,0
+2179,CA3410021,san juan water district,2025-03-01,2026-02-28,0
+2179,CA3410021,san juan water district,2025-07-01,2025-07-31,0
+2179,CA3410021,san juan water district,2025-08-01,2025-08-31,0
+2179,CA3410021,san juan water district,2025-09-01,2025-09-30,0
+2179,CA3410021,san juan water district,2025-10-01,2025-10-31,0
+2179,CA3410021,san juan water district,2025-11-01,2025-11-30,0
+2179,CA3410021,san juan water district,2025-12-01,2025-12-31,0
+2179,CA3410021,san juan water district,2026-01-01,2026-01-31,0
+2179,CA3410021,san juan water district,2026-02-01,2026-02-28,0
+2179,CA3410021,san juan water district,2025-03-01,2025-03-31,0
+2179,CA3410021,san juan water district,2025-04-01,2025-04-30,0
+2179,CA3410021,san juan water district,2025-05-01,2025-05-31,0
+2179,CA3410021,san juan water district,2025-06-01,2025-06-30,0
+2179,CA3410021,san juan water district,2025-03-01,2026-02-28,0
+2209,CA4210010,santa barbara  city of,2025-07-01,2025-07-31,0
+2209,CA4210010,santa barbara  city of,2025-08-01,2025-08-31,0
+2209,CA4210010,santa barbara  city of,2025-09-01,2025-09-30,0
+2209,CA4210010,santa barbara  city of,2024-10-01,2024-10-31,0
+2209,CA4210010,santa barbara  city of,2024-11-01,2024-11-30,0
+2209,CA4210010,santa barbara  city of,2024-12-01,2024-12-31,0
+2209,CA4210010,santa barbara  city of,2025-01-01,2025-01-31,0
+2209,CA4210010,santa barbara  city of,2025-02-01,2025-02-28,0
+2209,CA4210010,santa barbara  city of,2025-03-01,2025-03-31,0
+2209,CA4210010,santa barbara  city of,2025-04-01,2025-04-30,0
+2209,CA4210010,santa barbara  city of,2025-05-01,2025-05-31,0
+2209,CA4210010,santa barbara  city of,2025-06-01,2025-06-30,0
+2209,CA4210010,santa barbara  city of,2024-10-01,2025-09-30,0
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2024-07-01,2024-07-31,0
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2024-08-01,2024-08-31,0
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2024-09-01,2024-09-30,0
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2024-10-01,2024-10-31,0
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2024-11-01,2024-11-30,0
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2024-12-01,2024-12-31,0
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2025-01-01,2025-01-31,6
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2025-02-01,2025-02-28,5
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2025-03-01,2025-03-31,5
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2025-04-01,2025-04-30,4
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2025-05-01,2025-05-31,2
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2025-06-01,2025-06-30,2
+4993,"CA1910247, CA1910017, CA1910255, CA1910250, CA1910096, CA1910240",santa clarita valley water agency,2024-07-01,2025-06-30,2
+2213,CA4410010,santa cruz  city of,2024-07-01,2024-07-31,0
+2213,CA4410010,santa cruz  city of,2024-08-01,2024-08-31,0
+2213,CA4410010,santa cruz  city of,2024-09-01,2024-09-30,0
+2213,CA4410010,santa cruz  city of,2024-10-01,2024-10-31,0
+2213,CA4410010,santa cruz  city of,2024-11-01,2024-11-30,0
+2213,CA4410010,santa cruz  city of,2024-12-01,2024-12-31,0
+2213,CA4410010,santa cruz  city of,2025-01-01,2025-01-31,0
+2213,CA4410010,santa cruz  city of,2025-02-01,2025-02-28,0
+2213,CA4410010,santa cruz  city of,2025-03-01,2025-03-31,0
+2213,CA4410010,santa cruz  city of,2025-04-01,2025-04-30,0
+2213,CA4410010,santa cruz  city of,2025-05-01,2025-05-31,0
+2213,CA4410010,santa cruz  city of,2025-06-01,2025-06-30,0
+2213,CA4410010,santa cruz  city of,2024-07-01,2025-06-30,0
+2215,CA1910245,santa fe springs  city of,2024-07-01,2024-07-31,0
+2215,CA1910245,santa fe springs  city of,2024-08-01,2024-08-31,0
+2215,CA1910245,santa fe springs  city of,2024-09-01,2024-09-30,0
+2215,CA1910245,santa fe springs  city of,2024-10-01,2024-10-31,0
+2215,CA1910245,santa fe springs  city of,2024-11-01,2024-11-30,0
+2215,CA1910245,santa fe springs  city of,2024-12-01,2024-12-31,0
+2215,CA1910245,santa fe springs  city of,2025-01-01,2025-01-31,0
+2215,CA1910245,santa fe springs  city of,2025-02-01,2025-02-28,0
+2215,CA1910245,santa fe springs  city of,2025-03-01,2025-03-31,0
+2215,CA1910245,santa fe springs  city of,2025-04-01,2025-04-30,0
+2215,CA1910245,santa fe springs  city of,2025-05-01,2025-05-31,0
+2215,CA1910245,santa fe springs  city of,2025-06-01,2025-06-30,0
+2215,CA1910245,santa fe springs  city of,2024-07-01,2025-06-30,0
+2217,CA3010101,santa margarita water district,2025-01-01,2025-06-30,0
+2220,CA1910146,santa monica  city of,2024-07-01,2025-06-30,0
+2224,CA4910009,santa rosa  city of,2025-01-01,2025-12-31,0
+2241,CA3010041,seal beach  city of,2024-07-01,2025-06-30,0
+2260,CA1510019,shafter  city of,2024-07-01,2024-07-31,0
+2260,CA1510019,shafter  city of,2024-08-01,2024-08-31,0
+2260,CA1510019,shafter  city of,2024-09-01,2024-09-30,0
+2260,CA1510019,shafter  city of,2024-10-01,2024-10-31,0
+2260,CA1510019,shafter  city of,2024-11-01,2024-11-30,0
+2260,CA1510019,shafter  city of,2024-12-01,2024-12-31,0
+2260,CA1510019,shafter  city of,2025-01-01,2025-01-31,0
+2260,CA1510019,shafter  city of,2025-02-01,2025-02-28,0
+2260,CA1510019,shafter  city of,2025-03-01,2025-03-31,0
+2260,CA1510019,shafter  city of,2025-04-01,2025-04-30,0
+2260,CA1510019,shafter  city of,2025-05-01,2025-05-31,0
+2260,CA1510019,shafter  city of,2025-06-01,2025-06-30,0
+2260,CA1510019,shafter  city of,2024-07-01,2025-06-30,0
+2273,CA4510006,shasta lake  city of,2024-07-01,2024-07-31,0
+2273,CA4510006,shasta lake  city of,2024-08-01,2024-08-31,0
+2273,CA4510006,shasta lake  city of,2024-09-01,2024-09-30,0
+2273,CA4510006,shasta lake  city of,2024-10-01,2024-10-31,0
+2273,CA4510006,shasta lake  city of,2024-11-01,2024-11-30,0
+2273,CA4510006,shasta lake  city of,2024-12-01,2024-12-31,0
+2273,CA4510006,shasta lake  city of,2025-01-01,2025-01-31,0
+2273,CA4510006,shasta lake  city of,2025-02-01,2025-02-28,0
+2273,CA4510006,shasta lake  city of,2025-03-01,2025-03-31,0
+2273,CA4510006,shasta lake  city of,2025-04-01,2025-04-30,0
+2273,CA4510006,shasta lake  city of,2025-05-01,2025-05-31,0
+2273,CA4510006,shasta lake  city of,2025-06-01,2025-06-30,0
+2273,CA4510006,shasta lake  city of,2024-07-01,2025-06-30,0
+2290,CA1910148,sierra madre  city of,2024-07-01,2024-07-31,0
+2290,CA1910148,sierra madre  city of,2024-08-01,2024-08-31,0
+2290,CA1910148,sierra madre  city of,2024-09-01,2024-09-30,0
+2290,CA1910148,sierra madre  city of,2024-10-01,2024-10-31,0
+2290,CA1910148,sierra madre  city of,2024-11-01,2024-11-30,0
+2290,CA1910148,sierra madre  city of,2024-12-01,2024-12-31,0
+2290,CA1910148,sierra madre  city of,2025-01-01,2025-01-31,0
+2290,CA1910148,sierra madre  city of,2025-02-01,2025-02-28,0
+2290,CA1910148,sierra madre  city of,2025-03-01,2025-03-31,0
+2290,CA1910148,sierra madre  city of,2025-04-01,2025-04-30,0
+2290,CA1910148,sierra madre  city of,2025-05-01,2025-05-31,0
+2290,CA1910148,sierra madre  city of,2025-06-01,2025-06-30,0
+2290,CA1910148,sierra madre  city of,2024-07-01,2025-06-30,0
+2298,CA1910149,signal hill  city of,2024-07-01,2024-07-31,0
+2298,CA1910149,signal hill  city of,2024-08-01,2024-08-31,0
+2298,CA1910149,signal hill  city of,2024-09-01,2024-09-30,0
+2298,CA1910149,signal hill  city of,2024-10-01,2024-10-31,0
+2298,CA1910149,signal hill  city of,2024-11-01,2024-11-30,0
+2298,CA1910149,signal hill  city of,2024-12-01,2024-12-31,0
+2298,CA1910149,signal hill  city of,2025-01-01,2025-01-31,0
+2298,CA1910149,signal hill  city of,2025-02-01,2025-02-28,0
+2298,CA1910149,signal hill  city of,2025-03-01,2025-03-31,0
+2298,CA1910149,signal hill  city of,2025-04-01,2025-04-30,0
+2298,CA1910149,signal hill  city of,2025-05-01,2025-05-31,0
+2298,CA1910149,signal hill  city of,2025-06-01,2025-06-30,0
+2298,CA1910149,signal hill  city of,2024-07-01,2025-06-30,0
+2323,CA2710011,soledad  city of,2024-07-01,2024-07-31,0
+2323,CA2710011,soledad  city of,2024-08-01,2024-08-31,0
+2323,CA2710011,soledad  city of,2024-09-01,2024-09-30,1
+2323,CA2710011,soledad  city of,2024-10-01,2024-10-31,0
+2323,CA2710011,soledad  city of,2024-11-01,2024-11-30,2
+2323,CA2710011,soledad  city of,2024-12-01,2024-12-31,0
+2323,CA2710011,soledad  city of,2025-01-01,2025-01-31,0
+2323,CA2710011,soledad  city of,2025-02-01,2025-02-28,0
+2323,CA2710011,soledad  city of,2025-03-01,2025-03-31,0
+2323,CA2710011,soledad  city of,2025-04-01,2025-04-30,0
+2323,CA2710011,soledad  city of,2025-05-01,2025-05-31,0
+2323,CA2710011,soledad  city of,2025-06-01,2025-06-30,0
+2323,CA2710011,soledad  city of,2024-07-01,2025-06-30,0
+2330,CA4410017,soquel creek water district,2024-07-01,2025-06-30,0
+2334,CA3010042,south coast water district,2024-07-01,2025-06-30,0
+2337,"CA0410006, CA0410012",south feather water and power,2024-07-01,2024-07-31,0
+2337,"CA0410006, CA0410012",south feather water and power,2024-08-01,2024-08-31,0
+2337,"CA0410006, CA0410012",south feather water and power,2024-09-01,2024-09-30,0
+2337,"CA0410006, CA0410012",south feather water and power,2024-10-01,2024-10-31,0
+2337,"CA0410006, CA0410012",south feather water and power,2024-11-01,2024-11-30,0
+2337,"CA0410006, CA0410012",south feather water and power,2024-12-01,2024-12-31,0
+2337,"CA0410006, CA0410012",south feather water and power,2025-01-01,2025-01-31,0
+2337,"CA0410006, CA0410012",south feather water and power,2025-02-01,2025-02-28,0
+2337,"CA0410006, CA0410012",south feather water and power,2025-03-01,2025-03-31,0
+2337,"CA0410006, CA0410012",south feather water and power,2025-04-01,2025-04-30,0
+2337,"CA0410006, CA0410012",south feather water and power,2025-05-01,2025-05-31,0
+2337,"CA0410006, CA0410012",south feather water and power,2025-06-01,2025-06-30,0
+2337,"CA0410006, CA0410012",south feather water and power,2024-07-01,2025-06-30,0
+2341,CA1910152,south gate  city of,2024-07-01,2024-07-31,0
+2341,CA1910152,south gate  city of,2024-08-01,2024-08-31,0
+2341,CA1910152,south gate  city of,2024-09-01,2024-09-30,0
+2341,CA1910152,south gate  city of,2024-10-01,2024-10-31,0
+2341,CA1910152,south gate  city of,2024-11-01,2024-11-30,0
+2341,CA1910152,south gate  city of,2024-12-01,2024-12-31,0
+2341,CA1910152,south gate  city of,2025-01-01,2025-01-31,0
+2341,CA1910152,south gate  city of,2025-02-01,2025-02-28,0
+2341,CA1910152,south gate  city of,2025-03-01,2025-03-31,0
+2341,CA1910152,south gate  city of,2025-04-01,2025-04-30,0
+2341,CA1910152,south gate  city of,2025-05-01,2025-05-31,0
+2341,CA1910152,south gate  city of,2025-06-01,2025-06-30,0
+2341,CA1910152,south gate  city of,2024-07-01,2025-06-30,0
+2348,CA0910002,south tahoe public utility district,2024-10-01,2025-09-30,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2024-07-01,2024-07-31,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2024-08-01,2024-08-31,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2024-09-01,2024-09-30,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2024-10-01,2024-10-31,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2024-11-01,2024-11-30,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2024-12-01,2024-12-31,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2025-01-01,2025-01-31,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2025-02-01,2025-02-28,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2025-03-01,2025-03-31,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2025-04-01,2025-04-30,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2025-05-01,2025-05-31,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2025-06-01,2025-06-30,0
+2438,"CA4910028, CA4910004",sweetwater springs water district,2024-07-01,2025-06-30,0
+2487,CA1910213,torrance  city of,2024-07-01,2024-07-31,0
+2487,CA1910213,torrance  city of,2024-08-01,2024-08-31,0
+2487,CA1910213,torrance  city of,2024-09-01,2024-09-30,0
+2487,CA1910213,torrance  city of,2024-10-01,2024-10-31,0
+2487,CA1910213,torrance  city of,2024-11-01,2024-11-30,0
+2487,CA1910213,torrance  city of,2024-12-01,2024-12-31,0
+2487,CA1910213,torrance  city of,2025-01-01,2025-01-31,0
+2487,CA1910213,torrance  city of,2025-02-01,2025-02-28,0
+2487,CA1910213,torrance  city of,2025-03-01,2025-03-31,0
+2487,CA1910213,torrance  city of,2025-04-01,2025-04-30,0
+2487,CA1910213,torrance  city of,2025-05-01,2025-05-31,0
+2487,CA1910213,torrance  city of,2025-06-01,2025-06-30,0
+2487,CA1910213,torrance  city of,2024-07-01,2025-06-30,0
+2490,CA3010094,trabuco canyon water district,2024-07-01,2025-06-30,0
+2510,CA5610043,triunfo sanitation district/oak park water service,2024-07-01,2025-06-30,0
+2512,CA2910003,truckee - donner public utilities district,2025-07-01,2025-07-31,0
+2512,CA2910003,truckee - donner public utilities district,2025-08-01,2025-08-31,0
+2512,CA2910003,truckee - donner public utilities district,2025-09-01,2025-09-30,0
+2512,CA2910003,truckee - donner public utilities district,2025-10-01,2025-10-31,0
+2512,CA2910003,truckee - donner public utilities district,2025-11-01,2025-11-30,0
+2512,CA2910003,truckee - donner public utilities district,2025-12-01,2025-12-31,0
+2512,CA2910003,truckee - donner public utilities district,2025-01-01,2025-01-31,0
+2512,CA2910003,truckee - donner public utilities district,2025-02-01,2025-02-28,0
+2512,CA2910003,truckee - donner public utilities district,2025-03-01,2025-03-31,0
+2512,CA2910003,truckee - donner public utilities district,2025-04-01,2025-04-30,0
+2512,CA2910003,truckee - donner public utilities district,2025-05-01,2025-05-31,0
+2512,CA2910003,truckee - donner public utilities district,2025-06-01,2025-06-30,0
+2512,CA2910003,truckee - donner public utilities district,2025-01-01,2025-12-31,0
+2516,CA5410015,tulare  city of,2024-07-01,2024-07-31,0
+2516,CA5410015,tulare  city of,2024-08-01,2024-08-31,0
+2516,CA5410015,tulare  city of,2024-09-01,2024-09-30,0
+2516,CA5410015,tulare  city of,2024-10-01,2024-10-31,0
+2516,CA5410015,tulare  city of,2024-11-01,2024-11-30,0
+2516,CA5410015,tulare  city of,2024-12-01,2024-12-31,0
+2516,CA5410015,tulare  city of,2025-01-01,2025-01-31,0
+2516,CA5410015,tulare  city of,2025-02-01,2025-02-28,0
+2516,CA5410015,tulare  city of,2025-03-01,2025-03-31,0
+2516,CA5410015,tulare  city of,2025-04-01,2025-04-30,0
+2516,CA5410015,tulare  city of,2025-05-01,2025-05-31,0
+2516,CA5410015,tulare  city of,2025-06-01,2025-06-30,0
+2516,CA5410015,tulare  city of,2024-07-01,2025-06-30,0
+2524,CA5010019,turlock  city of,2024-07-01,2024-07-31,0
+2524,CA5010019,turlock  city of,2024-08-01,2024-08-31,0
+2524,CA5010019,turlock  city of,2024-09-01,2024-09-30,1
+2524,CA5010019,turlock  city of,2024-10-01,2024-10-31,0
+2524,CA5010019,turlock  city of,2024-11-01,2024-11-30,0
+2524,CA5010019,turlock  city of,2024-12-01,2024-12-31,0
+2524,CA5010019,turlock  city of,2025-01-01,2025-01-31,0
+2524,CA5010019,turlock  city of,2025-02-01,2025-02-28,0
+2524,CA5010019,turlock  city of,2025-03-01,2025-03-31,0
+2524,CA5010019,turlock  city of,2025-04-01,2025-04-30,0
+2524,CA5010019,turlock  city of,2025-05-01,2025-05-31,0
+2524,CA5010019,turlock  city of,2025-06-01,2025-06-30,0
+2524,CA5010019,turlock  city of,2024-07-01,2025-06-30,0
+2528,CA3010046,tustin  city of,2024-07-01,2025-06-30,0
+2597,CA4810008,vacaville  city of,2024-07-01,2024-07-31,0
+2597,CA4810008,vacaville  city of,2024-08-01,2024-08-31,0
+2597,CA4810008,vacaville  city of,2024-09-01,2024-09-30,0
+2597,CA4810008,vacaville  city of,2024-10-01,2024-10-31,0
+2597,CA4810008,vacaville  city of,2024-11-01,2024-11-30,0
+2597,CA4810008,vacaville  city of,2024-12-01,2024-12-31,0
+2597,CA4810008,vacaville  city of,2025-01-01,2025-01-31,0
+2597,CA4810008,vacaville  city of,2025-02-01,2025-02-28,0
+2597,CA4810008,vacaville  city of,2025-03-01,2025-03-31,0
+2597,CA4810008,vacaville  city of,2025-04-01,2025-04-30,0
+2597,CA4810008,vacaville  city of,2025-05-01,2025-05-31,0
+2597,CA4810008,vacaville  city of,2025-06-01,2025-06-30,0
+2597,CA4810008,vacaville  city of,2024-07-01,2025-06-30,0
+2602,CA3710002,vallecitos water district,2024-07-01,2024-07-31,0
+2602,CA3710002,vallecitos water district,2024-08-01,2024-08-31,0
+2602,CA3710002,vallecitos water district,2024-09-01,2024-09-30,0
+2602,CA3710002,vallecitos water district,2024-10-01,2024-10-31,0
+2602,CA3710002,vallecitos water district,2024-11-01,2024-11-30,0
+2602,CA3710002,vallecitos water district,2024-12-01,2024-12-31,0
+2602,CA3710002,vallecitos water district,2025-01-01,2025-01-31,0
+2602,CA3710002,vallecitos water district,2025-02-01,2025-02-28,0
+2602,CA3710002,vallecitos water district,2025-03-01,2025-03-31,0
+2602,CA3710002,vallecitos water district,2025-04-01,2025-04-30,0
+2602,CA3710002,vallecitos water district,2025-05-01,2025-05-31,0
+2602,CA3710002,vallecitos water district,2025-06-01,2025-06-30,0
+2602,CA3710002,vallecitos water district,2024-07-01,2025-06-30,0
+2604,CA3710026,valley center municipal water district,2024-07-01,2025-06-30,0
+2610,CA4910013,valley of the moon water district,2024-07-01,2024-07-31,0
+2610,CA4910013,valley of the moon water district,2024-08-01,2024-08-31,0
+2610,CA4910013,valley of the moon water district,2024-09-01,2024-09-30,0
+2610,CA4910013,valley of the moon water district,2024-10-01,2024-10-31,0
+2610,CA4910013,valley of the moon water district,2024-11-01,2024-11-30,0
+2610,CA4910013,valley of the moon water district,2024-12-01,2024-12-31,0
+2610,CA4910013,valley of the moon water district,2025-01-01,2025-01-31,0
+2610,CA4910013,valley of the moon water district,2025-02-01,2025-02-28,0
+2610,CA4910013,valley of the moon water district,2025-03-01,2025-03-31,0
+2610,CA4910013,valley of the moon water district,2025-04-01,2025-04-30,0
+2610,CA4910013,valley of the moon water district,2025-05-01,2025-05-31,0
+2610,CA4910013,valley of the moon water district,2025-06-01,2025-06-30,0
+2610,CA4910013,valley of the moon water district,2024-07-01,2025-06-30,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2024-07-01,2024-07-31,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2024-08-01,2024-08-31,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2024-09-01,2024-09-30,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2024-10-01,2024-10-31,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2024-11-01,2024-11-30,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2024-12-01,2024-12-31,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2025-01-01,2025-01-31,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2025-02-01,2025-02-28,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2025-03-01,2025-03-31,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2025-04-01,2025-04-30,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2025-05-01,2025-05-31,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2025-06-01,2025-06-30,0
+2629,CA,ventura county waterworks district no 01 - moorpark,2024-07-01,2025-06-30,0
+2633,CA1910167,vernon  city of,2025-07-01,2025-07-31,0
+2633,CA1910167,vernon  city of,2025-08-01,2025-08-31,0
+2633,CA1910167,vernon  city of,2025-09-01,2025-09-30,0
+2633,CA1910167,vernon  city of,2025-10-01,2025-10-31,0
+2633,CA1910167,vernon  city of,2025-11-01,2025-11-30,0
+2633,CA1910167,vernon  city of,2025-12-01,2025-12-31,0
+2633,CA1910167,vernon  city of,2026-01-01,2026-01-31,0
+2633,CA1910167,vernon  city of,2025-02-01,2025-02-28,0
+2633,CA1910167,vernon  city of,2025-03-01,2025-03-31,0
+2633,CA1910167,vernon  city of,2025-04-01,2025-04-30,0
+2633,CA1910167,vernon  city of,2025-05-01,2025-05-31,0
+2633,CA1910167,vernon  city of,2025-06-01,2025-06-30,0
+2633,CA1910167,vernon  city of,2025-02-01,2026-04-30,0
+2635,CA3610052,victorville water district,2024-07-01,2025-06-30,0
+2649,CA3710027,vista irrigation district,2024-07-01,2025-06-30,0
+2661,CA1910234,walnut valley water district,2024-07-01,2025-06-30,0
+2690,CA3610004,west valley water district,2024-07-01,2024-07-31,0
+2690,CA3610004,west valley water district,2024-08-01,2024-08-31,0
+2690,CA3610004,west valley water district,2024-09-01,2024-09-30,0
+2690,CA3610004,west valley water district,2024-10-01,2024-10-31,0
+2690,CA3610004,west valley water district,2024-11-01,2024-11-30,0
+2690,CA3610004,west valley water district,2024-12-01,2024-12-31,0
+2690,CA3610004,west valley water district,2025-01-01,2025-01-31,0
+2690,CA3610004,west valley water district,2025-02-01,2025-02-28,0
+2690,CA3610004,west valley water district,2025-03-01,2025-03-31,0
+2690,CA3610004,west valley water district,2025-04-01,2025-04-30,0
+2690,CA3610004,west valley water district,2025-05-01,2025-05-31,0
+2690,CA3610004,west valley water district,2025-06-01,2025-06-30,0
+2690,CA3610004,west valley water district,2024-07-01,2025-06-30,0
+2697,"CA3310036, CA3310076, CA3310049",western municipal water district of riverside,2024-07-01,2025-06-30,0
+2704,CA3010064,westminster  city of,2024-07-01,2025-06-30,0
+2751,CA4910017,windsor  town of,2024-07-01,2025-06-30,0
+2766,CA5710006,woodland  city of,2024-07-01,2024-07-31,0
+2766,CA5710006,woodland  city of,2024-08-01,2024-08-31,0
+2766,CA5710006,woodland  city of,2024-09-01,2024-09-30,0
+2766,CA5710006,woodland  city of,2024-10-01,2024-10-31,0
+2766,CA5710006,woodland  city of,2024-11-01,2024-11-30,0
+2766,CA5710006,woodland  city of,2024-12-01,2024-12-31,0
+2766,CA5710006,woodland  city of,2025-01-01,2025-01-31,0
+2766,CA5710006,woodland  city of,2025-02-01,2025-02-28,0
+2766,CA5710006,woodland  city of,2025-03-01,2025-03-31,0
+2766,CA5710006,woodland  city of,2025-04-01,2025-04-30,0
+2766,CA5710006,woodland  city of,2025-05-01,2025-05-31,0
+2766,CA5710006,woodland  city of,2025-06-01,2025-06-30,0
+2766,CA5710006,woodland  city of,2024-07-01,2025-06-30,0
+2782,CA3010037,yorba linda water district,2024-07-01,2025-06-30,0
+2790,CA5110002,yuba city,2024-07-01,2024-07-31,0
+2790,CA5110002,yuba city,2024-08-01,2024-08-31,0
+2790,CA5110002,yuba city,2024-09-01,2024-09-30,0
+2790,CA5110002,yuba city,2024-10-01,2024-10-31,0
+2790,CA5110002,yuba city,2024-11-01,2024-11-30,0
+2790,CA5110002,yuba city,2024-12-01,2024-12-31,0
+2790,CA5110002,yuba city,2025-01-01,2025-01-31,0
+2790,CA5110002,yuba city,2025-02-01,2025-02-28,0
+2790,CA5110002,yuba city,2025-03-01,2025-03-31,0
+2790,CA5110002,yuba city,2025-04-01,2025-04-30,0
+2790,CA5110002,yuba city,2025-05-01,2025-05-31,0
+2790,CA5110002,yuba city,2025-06-01,2025-06-30,0
+2790,CA5110002,yuba city,2024-07-01,2025-06-30,0
